@@ -143,20 +143,20 @@ MySQL
 SQL Server
 
 Education
-🏫Bachelor of Science in Business Administration, Minor in Computer Science
+•Bachelor of Science in Business Administration, Minor in Computer Science
 Questrom School of Business, Boston University | USA
 2016 – 2020
 
-🏫Bachelor’s Degree: Computer Science
+•Bachelor’s Degree: Computer Science
 The University of Tokyo | Japan
 2011 – 2015
 
 Licenses & Certifications
-🏆Professional Scrum Master I (PSM I)
+•Professional Scrum Master I (PSM I)
 Scrum.org | Issued Apr 2020 | Credential ID 659752
 https://www.scrum.org/user/659752
 
-🏆Google Data Analytics Specialization
+•Google Data Analytics Specialization
 Coursera | Issued Mar 2023 | Credential ID ATZV3LSS7K5R
 https://www.coursera.org/account/accomplishments/specialization/certificate/ATZV3LSS7K5R
 
@@ -338,20 +338,20 @@ Jupyter
 
 
 Education
-🏫Bachelor of Science in Business Administration, Minor in Computer Science
+•Bachelor of Science in Business Administration, Minor in Computer Science
 Questrom School of Business, Boston University | USA
 2016 – 2020
 
-🏫Bachelor’s Degree: Computer Science
+•Bachelor’s Degree: Computer Science
 The University of Tokyo | Japan
 2011 – 2015
 
 Licenses & Certifications
-🏆Professional Scrum Master I (PSM I)
+•Professional Scrum Master I (PSM I)
 Scrum.org | Issued Apr 2020 | Credential ID 659752
 https://www.scrum.org/user/659752
 
-🏆Google Data Analytics Specialization
+•Google Data Analytics Specialization
 Coursera | Issued Mar 2023 | Credential ID ATZV3LSS7K5R
 https://www.coursera.org/account/accomplishments/specialization/certificate/ATZV3LSS7K5R
 
@@ -488,7 +488,7 @@ Postman
 Cypress
 
 Education:
-🏫Bachelor of Science, Computer Science (10/2011 – 08/2015)
+•Bachelor of Science, Computer Science (10/2011 – 08/2015)
 The University of Tokyo | Japan
     `
   },
@@ -629,7 +629,7 @@ MySQL
 SQL Server
 
 Education:
-🏫Bachelor of Science, Computer Science (10/2011 – 08/2015)
+•Bachelor of Science, Computer Science (10/2011 – 08/2015)
 The University of Tokyo | Japan
     `
 
@@ -745,7 +745,7 @@ SQL Queries for Test Data
 
 
 Education:
-🏫Bachelor of Science, Computer Science (09/2009 – 03/2013)
+•Bachelor of Science, Computer Science (09/2009 – 03/2013)
 Kyoto Univeristy | Japan
     `
 
@@ -887,7 +887,7 @@ GraphQL
 JSON/XML Validation
 
 Education:
-🏫Bachelor of Science, Information Technology (09/2006 – 03/2011)
+•Bachelor of Science, Information Technology (09/2006 – 03/2011)
 Southern Polytechnic State University | USA`
   },
   { name: 'Zain Abdeen (Full Stack)',
@@ -1017,7 +1017,7 @@ MySQL
 SQL Server
 
 Education:
-🏫Bachelor of Science, Computer Science (10/2011 – 08/2015)
+•Bachelor of Science, Computer Science (10/2011 – 08/2015)
 The University of Tokyo | Japan
     `
   },

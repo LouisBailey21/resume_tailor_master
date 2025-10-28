@@ -1,0 +1,97 @@
+Senior Software Engineer
+Resty Vincent Gison
+restyvincent028@gmail.com
++63 947 409 9976
+Iloilo, Western Visayas, PH
+linkedin.com/in/resty-vincent-gison-548388240
+
+Summary:
+Passionate Full-Stack Web Engineer with 7 years of experience designing and delivering scalable, high-performance web applications across HR, logistics, ERP, and SaaS platforms. Proficient in React.js, Angular, Node.js, and Python, with hands-on experience in cloud-native architectures and modern DevOps practices. Skilled at translating complex business requirements into robust software solutions, optimizing performance, and mentoring engineering teams. Experienced in leveraging AI-assisted tools for development and enhancing analytics workflows to improve operational efficiency and user experience.
+
+
+Skills:
+• React.js
+• Angular
+• Next.js
+• TypeScript
+• JavaScript (ES6+)
+• HTML5
+• CSS3
+• TailwindCSS
+• Bootstrap
+• Node.js (Express, NestJS)
+• Python (Flask, Django)
+• REST/GraphQL APIs
+• Microservices
+• AWS (Lambda, EC2, S3, Step Functions)
+• Azure
+• Docker
+• Kubernetes
+• GitHub Actions
+• Playwright
+• Jest
+• Mocha
+• Chai
+• Cypress
+• PyTest
+• Postman
+• n8n
+• A/B Testing
+• CI/CD Pipelines
+• PostgreSQL
+• MySQL
+• MongoDB
+• Redis
+• GPT APIs
+• Cursor
+• Lovable
+• Hugging Face Transformers
+• Git, GitHub, GitLab
+• JIRA, Confluence
+• Swagger/OpenAPI
+• Figma
+
+
+Experience:
+
+Senior Software Engineer at 4mation Technologies: 04/2022 – 07/2025
+• Led full-stack web applications for logistics and operations management platforms using React, Angular, Node.js, and Python
+• Designed and implemented cloud-native microservices on Azure and AWS, improving system scalability and reliability for enterprise clients
+• Leveraged AI-assisted tools like Cursor, Lovable, and GPT to accelerate full-stack development and streamline workflows
+• Managed PostgreSQL and MongoDB databases with indexing and partitioning
+• Implemented end-to-end testing with Playwright, improving system reliability and reducing production bugs
+• Mentored junior developers, guided code reviews, and established development standards across teams
+• Collaborated with cross-functional teams to define product requirements and optimize system performance for multi-tenant applications
+
+Full Stack Engineer at Leap Tools: 03/2021 – 03/2022
+• Developed full-stack ERP and analytics solutions for SMEs using React.js, Node.js, and Python
+• Designed modular microservices and RESTful APIs to support scalable business operations and analytics workflows
+• Built real-time notification and reporting systems with Redis and WebSocket integration, improving user responsiveness
+• Built ERP modules backed by MySQL and PostgreSQL, ensuring data integrity and scalability
+• Implemented unit, integration, and end-to-end testing using Jest, Mocha, PyTest, and Playwright
+• Integrated cloud-native infrastructure using AWS Lambda, S3, and EC2 for reliability and cost efficiency
+• Collaborated with product and UX teams to deliver responsive, accessible interfaces with React and Angular
+• Implemented CI/CD pipelines with Docker and GitHub Actions, reducing release times and deployment errors
+
+Software Engineer at Aha! Software: 08/2019 – 03/2021
+• Developed SaaS platform features with React.js, Angular, and Python backend, improving performance and user experience
+• Built serverless pipelines on AWS Lambda and Step Functions to process large-scale analytics and reporting data efficiently
+• Developed dashboards and visualization tools to support product and operations teams in decision-making
+• Developed feature usage tracking stored in MongoDB, enabling data-driven product improvements
+• Refactored legacy code into modular components for easier maintenance and scalability
+• Implemented feature flags and A/B testing frameworks to optimize user engagement
+• Participated in full SDLC, from requirements gathering to deployment, ensuring high-quality deliverables
+• Supported team knowledge sharing in frontend and backend best practices
+
+Frontend Developer at Aha! Software: 08/2018 – 08/2019
+• Built interactive and responsive frontend components with React.js and Angular, enhancing usability and visual consistency
+• Integrated frontend modules with backend APIs, ensuring reliable data flow and feature performance
+• Collaborated with UX/UI designers to implement accessible and responsive design standards
+• Assisted in debugging and troubleshooting frontend issues, improving application stability
+• Contributed to internal productivity tools, streamlining development workflows
+• Kept up with emerging frontend technologies, introducing best practices and optimizations to projects
+
+
+Education:
+B.S. in Computer Science, Silliman University
+MAY 2018

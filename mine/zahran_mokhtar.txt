@@ -1,0 +1,101 @@
+Senior Full Stack Developer
+Zahran Bin Mokhtar
+zahranmokhtar1@gmail.com
++60 14 605 9366
+Ipoh, Perak, MY
+linkedin.com/in/zahran-mokhtar-155914386
+
+Summary:
+Accomplished Full Stack Developer with 7+ years of experience delivering production-ready solutions across edtech, healthcare, and enterprise SaaS. Skilled in React, Angular, Node.js, and Laravel, with expertise integrating Generative AI (OpenAI, Claude AI) into scalable applications. Experienced in collaborating with international teams, building cloud-native solutions, and optimizing system performance to deliver high-quality, user-centric software.
+
+Experience:
+
+Senior Software Developer at CodeControl: 07/2022 – 06/2025
+• Developed React and Next.js user interfaces with Redux for improved responsiveness and SEO
+• Built mobile-first features using React Native for cross-platform deployment on iOS and Android
+• Designed and implemented RESTful and GraphQL APIs with NestJS, Express, and Laravel
+• Integrated OpenAI GPT-4 into backend pipelines for document parsing, task summarization, and intelligent recommendations
+• Managed MongoDB and PostgreSQL databases for flexible data modeling and fast development cycles
+• Architected cloud-native solutions on AWS and Azure, leveraging serverless functions, Docker, and Kubernetes
+• Implemented role-based access control (RBAC) and secure authentication flows using OAuth and JWT
+• Automated CI/CD pipelines with Jenkins and GitHub Actions, reducing release cycle time and improving reliability
+
+Full Stack Developer at Classcraft: 02/2022 – 07/2022
+• Developed interactive classroom modules using React, TypeScript, and Tailwind CSS to improve student engagement
+• Built RESTful APIs in Node.js and Express for user progress tracking, class interactions, and gamification logic
+• Integrated OAuth2 and Firebase for secure authentication and seamless login
+• Implemented real-time classroom updates with WebSockets to enhance collaboration
+• Designed RBAC systems to safeguard student data and ensure GDPR/FERPA compliance
+• Optimized frontend rendering and reduced API response times by 31%
+• Wrote unit and integration tests using Jest, React Testing Library, and Supertest
+
+Full Stack Developer at Doctolib: 03/2020 – 12/2021
+• Developed patient-facing interfaces using React, Angular, and Material UI for improved usability and mobile responsiveness
+• Built GraphQL endpoints for real-time appointment booking and notifications
+• Developed Laravel backend services with MySQL for appointment scheduling and secure storage of medical data
+• Contributed to platform-wide cloud migration to Azure with Dockerized environments and Kubernetes orchestration
+• Integrated generative AI features for automated medical note suggestions using GPT-3
+• Implemented automated tests with Jest and React Testing Library, reducing bugs by 23%
+
+Front End Developer at Dropee: 01/2019 – 12/2019
+• Modernized frontend dashboards using Angular and React, improving load speed and responsiveness
+• Integrated RESTful APIs to display real-time inventory and order statuses, reducing retrieval times by 19%
+• Built interactive UI elements for order processing, improving clarity and workflow efficiency
+• Optimized frontend performance with lazy-loading and bundle size reduction, improving page speed by 22%
+
+Freelance Web Developer at Self-Employed: 07/2018 – 12/2018
+• Built responsive websites for SMEs using HTML5, CSS3, JavaScript, and Bootstrap
+• Developed dynamic back-office features using Laravel and MySQL
+• Deployed customized WordPress sites with plugin integrations
+• Helped 3+ small businesses go digital, reducing manual tracking and improving customer reach
+
+
+Skills:
+React
+Next.js
+Redux
+Angular
+NgRx
+TypeScript
+JavaScript (ES6+)
+Tailwind CSS
+Material UI
+Styled Components
+Draft.js
+D3.js
+Chart.js
+Node.js (Express, NestJS)
+PHP / Laravel
+RESTful APIs
+GraphQL
+JWT
+OAuth2
+Role-Based Access Control (RBAC)
+MongoDB
+Supabase
+Firebase
+PostgreSQL
+AWS
+Microsoft Azure
+Docker
+Kubernetes
+CI/CD
+Jenkins
+GitHub Actions
+OpenAI API
+Claude AI
+AI Workflow Automation
+Prompt Engineering
+Jest
+React Testing Library
+Supertest
+Agile Methodologies
+Scrum
+Secure Authentication & Authorization
+Performance Optimization
+Scalable Architecture
+
+Education:
+Bachelor’s Degree in Computer Science | 2018
+Universiti Teknologi Petronas (UTP), Perak, Malaysia
+CGPA: 3.61 / 4.00

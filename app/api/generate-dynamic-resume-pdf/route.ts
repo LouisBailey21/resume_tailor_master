@@ -375,7 +375,7 @@ export async function POST(req: NextRequest) {
     }
 
     // 2. Load base resume based on selected profile, fallback to default embedded
-    let baseResume: string = getBaseResumeByName(baseResumeProfile) || ``;
+    const baseResume: string = getBaseResumeByName(baseResumeProfile) || ``;
     // 3. Tailor resume with OpenAI
     const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
     const prompt = buildPrompt(baseResume, jobDescription);

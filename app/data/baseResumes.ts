@@ -6,7 +6,7 @@ export type BaseResumeProfile = {
 // Seed with a default profile. You can add more profiles to this array.
 export const baseResumes: BaseResumeProfile[] = [
   {
-    name: 'Lindsay Jackson (Full Stack)',
+    name: 'Lindsay Jackson (FS)',
     resumeText: `
 Senior Software Engineer
 
@@ -492,7 +492,7 @@ Education:
 The University of Tokyo | Japan
     `
   },
-  { name: 'Louis Bailey (Full Stack)',
+  { name: 'Louis Bailey (FS)',
     resumeText: `
     Senior Software Engineer
 
@@ -889,7 +889,7 @@ Education:
 •Bachelor of Science, Information Technology (09/2006 – 03/2011)
 Southern Polytechnic State University | USA`
   },
-  { name: 'Zain Abdeen (Full Stack)',
+  { name: 'Zain Abdeen (FS)',
     resumeText: `
     Senior Software Engineer
 

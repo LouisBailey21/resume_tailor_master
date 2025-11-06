@@ -365,7 +365,7 @@ Senior Software Engineer
 Louis Bailey
 luoisbailey21412@gmail.com
 Senior Software Engineer
-+1 (430) 964 0645
++1 (346) 214 1881
 San Antonio, TX, USA
 
 Summary:
@@ -640,7 +640,7 @@ Senior Software Engineer
 Venkat Mani
 Senior QA Engineer
 manivenkat9120@outlook.com
-+1 430 964 0645
++1 346 214 1881
 Tampa, Florida, USA
 
 Summary: 
@@ -895,7 +895,7 @@ Southern Polytechnic State University | USA`
 
 Zain Abdeen
 https://www.linkedin.com/in/zain-abdeen-445673219/
-zainabdeen0110@outlook.com
+opulent915@gmail.com
 +1 423 301 2901
 Tampa, Florida, USA
 

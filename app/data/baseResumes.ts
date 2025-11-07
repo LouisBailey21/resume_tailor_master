@@ -1016,8 +1016,8 @@ MySQL
 SQL Server
 
 Education:
-•Bachelor of Science, Computer Science (10/2011 – 08/2015)
-The University of Tokyo | Japan
+•Bachelor of Science, Computer Science (10/2013 – 08/2017)
+Quinnipiac University | Japan
     `
   },
 

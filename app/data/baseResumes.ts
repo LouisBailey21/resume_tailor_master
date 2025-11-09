@@ -1020,6 +1020,165 @@ Education:
 Quinnipiac University | Japan
     `
   },
+  {
+    name: 'Soumik Banerjee',
+    resumeText: `Senior Software Engineer
+
+    Soumik Banerjee
+    Senior Software Engineer
+    soumik.banerjee3009@outlook.com
+    13462141881
+    Austin, TX 78757
+    
+    Summary: 
+    
+    Experienced Full Stack Engineer with 10+ years delivering scalable, responsive SaaS platforms and microservices 
+    using C# (.NET), Python, Java (Spring Boot), React, Vue, Svelte, and TypeScript. Skilled in building cloud-native applications across Azure and AWS, 
+    integrating AI/ML models, and driving high-performance, accessible user interfaces with TailwindCSS and real-time features. 
+    Proficient in modern DevOps practices (CI/CD, Docker, Kubernetes), event-driven architecture (Kafka, RabbitMQ), and test automation (xUnit, Cypress, Selenium). 
+    Adept at collaborating across teams, mentoring developers, and delivering secure, data-intensive solutions in fintech, edtech, and analytics-driven environments.    
+
+    Professional Experience:
+    
+    Senior Software Engineer at Samsung Electronics: 05/2023 - Current
+    •	Architected and deployed microservices using C# (.NET 6/7), Docker, and Kubernetes, designing scalable, modular systems with gRPC and REST APIs. Implemented service discovery, circuit breakers, and health checks for fault-tolerant, production-grade environments.
+    •	Integrated AI and machine learning models into .NET-based microservices using ML.NET, ONNX Runtime, and Azure Cognitive Services, powering features like real-time sentiment analysis, recommendation engines, and document classification—driving a 40% boost in actionable insights.
+    •	Designed resilient cloud-native infrastructures on Azure (AKS, Cosmos DB) and AWS (ECS, RDS, S3) using Terraform and Helm for infrastructure-as-code. Enabled multi-region, auto-healing deployments with 99.99% uptime and built-in observability.
+    •	Developed responsive full-stack applications with .NET Core (Web API, SignalR) on the backend and React + TypeScript + Tailwind CSS on the frontend. Ensured seamless UX across devices with PWA support, boosting user satisfaction by 25%.
+    •	Led a mentorship and training initiative, coaching junior developers in C#, Entity Framework Core, and modern frontend frameworks. Improved team velocity and cut onboarding time by 52% through hands-on pairing, code reviews, and architectural walkthroughs.
+    •	Implemented robust CI/CD pipelines using GitHub Actions, Azure DevOps, and Jenkins, incorporating automated Docker builds, vulnerability scanning (Snyk), and blue-green deployments—resulting in a 54% reduction in deployment time and increased release confidence.
+    •	Built event-driven, intelligent microservices using Azure Service Bus, RabbitMQ, and Apache Kafka, processing high-throughput data streams with real-time alerting and AI-driven decision logic. Enabled actionable analytics pipelines with OpenTelemetry and Prometheus/Grafana.
+    •	Achieved 92%+ automated test coverage with xUnit, Selenium, Cypress, and SpecFlow, supporting TDD and BDD methodologies. Embedded automated testing into CI workflows to ensure stability, reliability, and minimal regression across all environments.
+
+    Software Engineer at Microsoft: 09/2021 - 04/2023
+    •	Re-architected a monolithic video analytics platform into a distributed, microservices-based SaaS solution using ASP.NET Core, Docker, and Kubernetes, enabling modular scalability for handling large volumes of video-based emotion response data across multiple brand campaigns.
+    •	Developed RESTful APIs to support emotion-scoring workflows, secure content delivery, campaign performance tracking, and user authentication, integrating with OAuth2, external IDPs, and internal permission controls to support agency and brand-level access tiers.
+    •	Improved data processing performance across SQL Server and MongoDB backends, optimizing queries and implementing in-memory caching (Redis) and advanced indexing strategies, reducing emotion scoring and response aggregation latency by 33%.
+    •	Implemented real-time streaming notifications using SignalR, Redis Pub/Sub, and WebSocket-based interfaces to provide brands and analysts with immediate feedback on audience reactions as test panels interacted with video content.
+    •	Built CI/CD pipelines with GitHub Actions, Helm, and Kubernetes, automating infrastructure provisioning, test coverage analysis, and rolling deployments with zero downtime—cutting release times by over 52% and improving system reliability.
+    •	Integrated machine learning models using ML.NET, ONNX Runtime, and Python-based pipelines (scikit-learn, NumPy, pandas) for facial expression analysis, emotion classification, and viewer engagement prediction. Used Python for preprocessing large video metadata, aligning time-coded emotion data with panelist reactions across frames.
+    •	Developed and deployed auxiliary Python-based microservices for AI workflows, including Flask-based inference endpoints and background workers (with Celery + RabbitMQ) for batch model scoring, asynchronous analytics tasks, and feature extraction.
+    •	Enabled localization and region-aware analytics, incorporating Python’s i18n libraries to support multilingual datasets and regional formatting. Helped expand the platform’s ability to test and optimize ads globally with compliant, culturally aligned UX.
+   
+    Software Engineer at AMD: 01/2016 - 09/2021
+    •	Designed and developed highly modular micro-frontends using React, TypeScript, and Tailwind CSS, building dynamic procurement, invoicing, and contract management experiences that scaled across multiple enterprise modules. Collaborated with designers and UX researchers to deliver accessible, WCAG-compliant components via Storybook and a shared design system, increasing development velocity across teams by 32%.
+    •	Architected and implemented scalable APIs using ASP.NET Core and Entity Framework Core, facilitating multi-step approval workflows, supplier integration, budgeting controls, and real-time audit trails. Focused on clean architecture principles and DDD patterns to ensure maintainability and separation of concerns in high-complexity finance modules.
+    •	Built intelligent dashboards and interactive data visualizations using Highcharts, Recharts, and custom D3.js components to surface real-time KPIs such as invoice cycle time, supplier spend compliance, and forecasted savings. Optimized rendering for large datasets using virtualization and debouncing techniques, delivering responsive user experiences in data-heavy views.
+    •	Integrated with third-party ERP and HR systems including SAP, Workday, NetSuite, and Oracle Financials, leveraging secure OAuth2, SAML, and webhook-based pipelines to ensure data integrity and synchronization across financial systems. Implemented fallback logic and monitoring to prevent failures in critical external dependencies.
+    •	Improved frontend performance and maintainability through code splitting, lazy loading, and dependency optimization via Webpack and Vite, reducing initial load times by over 42% and improving maintainability by modularizing business logic into reusable hooks and services.
+    •	Engineered automated CI/CD pipelines using GitHub Actions, Azure DevOps, and Docker, integrating linting, unit testing (Jest, xUnit), containerization, infrastructure-as-code (Terraform), and blue-green deployments into production Kubernetes clusters with zero downtime.
+    •	Collaborated in agile, cross-functional product teams with PMs, designers, QA, and DevOps, participating in sprint planning, backlog grooming, technical design reviews, and post-mortems. Played a key role in prioritizing technical debt, refactoring legacy code, and scaling high-traffic modules used by Fortune 500 clients.
+    •	Implemented advanced RBAC and multi-tenant architecture to support enterprise clients with strict compliance and audit requirements (SOX, GDPR). Developed configurable access layers and approval routing based on user roles, regions, and organizational hierarchy.
+
+    QA Engineer at Cox Automotive Inc: 02/2017 – 09/2019
+    •	Built scalable trading services in Java using Spring Boot and Kafka to support high-volume crypto transactions. Optimized key components in the trade matching engine to reduce execution latency and improve overall system responsiveness during peak traffic.
+    •	Developed secure C# (.NET Core) services for fraud detection and regulatory compliance, integrating with KYC/AML providers. Detection precision reached above 98%, while false positives remained under 1.4%, leading to stronger audit outcomes.
+    •	Engineered real-time wallet balance tracking using Redis, Kafka Streams, and WebSockets. This eliminated sync issues and delivered sub-second updates to users, improving trust and transparency across the platform.
+    •	Implemented centralized authentication flows with OAuth2 and JWT across C# and Java stacks. Login-related errors dropped significantly, and session management maintained 99.99% uptime, supporting smooth multi-device access.
+    •	Built asynchronous ledger pipelines using RabbitMQ and Kafka for asset transfers and reconciliation processes. Achieved a 99% transaction finality within 30 seconds benchmark, even during volatile market conditions.
+    •	Developed RESTful APIs for onboarding, interest projections, and loan servicing using Spring Boot and ASP.NET Core. Maintained consistent response times under high concurrency without compromising reliability.
+    •	Collaborated on Angular front-end components for live price tickers, charts, and user dashboards. The design emphasized responsiveness and clarity, helping increase platform engagement and retention among high-frequency users.
+    •	Automated CI/CD pipelines using Jenkins, Docker, and Helm for both Java and .NET services. Reduced average deployment times by over 60%, while cutting rollback frequency by more than half through improved test and release coverage.
+
+    Skills:
+    
+    C#, 
+    .NET Core (6/7)
+    Java
+    Spring Boot
+    Python, Flask
+    JavaScript
+    TypeScript
+    React.js
+    Vue.js
+    Svelte
+    SvelteKit
+    Angular
+    Redux
+    Redux Toolkit
+    TailwindCSS
+    xUnit
+    Jest
+    Cypress
+    Selenium
+    SpecFlow
+    D3.js
+    Azure (AKS, Cosmos DB, Azure DevOps)
+    AWS (ECS, EC2, RDS, S3, CloudWatch)
+    Docker
+    Kubernetes
+    Terraform
+    Helm
+    GitHub Actions
+    Jenkins
+    GitLab CI/CD
+    Vite
+    Webpack
+    TeamCity
+    OpenTelemetry
+    Prometheus
+    Grafana
+    SQL Server
+    PostgreSQL
+    MongoDB
+    Redis
+    Cosmos DB
+    RESTful APIs
+    gRPC
+    SignalR
+    WebSockets
+    OAuth 2.0
+    JWT
+    SAML
+    RabbitMQ
+    Apache Kafka
+    Azure Service Bus
+    Stripe
+    Zoom
+    Google APIs
+    ML.NET
+    ONNX Runtime
+    scikit-learn
+    NumPy
+    pandas
+    Celery
+    HIPAA
+    GDPR
+    SOX
+    PCI DSS
+    CCPA
+    KYC/AML
+    RBAC
+    MFA
+    Audit Logging
+    ELK Stack (Elasticsearch, Logstash, Kibana)
+    Postman
+    Cypress
+    xUnit
+    Jest
+    Selenium
+    SpecFlow
+    Snyk
+    OpenTelemetry
+    Prometheus
+    Grafana
+    Git
+    GitHub
+    GitLab
+    Jira
+    Storybook
+    ESBuild
+    Highcharts
+    Recharts
+    Oracle Financials
+    SAP
+    NetSuite
+    Workday
+
+    Education:
+    Master's Degree of Electrical Engineering in 2013
+    The University of New Mexico | USA`
+  }
 
 ];
 

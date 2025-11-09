@@ -895,7 +895,7 @@ Southern Polytechnic State University | USA`
 
 Zain Abdeen
 https://www.linkedin.com/in/zain-abdeen-445673219/
-opulent915@gmail.com
+zainabdeen0110@outlook.com
 +1 423 301 2901
 Tampa, Florida, USA
 

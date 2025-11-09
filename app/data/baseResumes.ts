@@ -1177,7 +1177,13 @@ Quinnipiac University | Japan
 
     Education:
     Master's Degree of Electrical Engineering in 2013
-    The University of New Mexico | USA`
+    The University of New Mexico | USA
+    
+    Licenses & Certifications:
+    Supervised Machine Learning: Regression and Classification
+    Coursera, Issued Mar 2024
+    https://www.coursera.org/account/accomplishments/certificate/3BUMV3R46DJD
+    `
   }
 
 ];

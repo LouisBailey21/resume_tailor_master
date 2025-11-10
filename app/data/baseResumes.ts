@@ -889,12 +889,11 @@ Education:
 •Bachelor of Science, Information Technology (09/2006 – 03/2011)
 Southern Polytechnic State University | USA`
   },
-  { name: 'Zain Abdeen (FS)',
+  { name: 'Zain Abdeen',
     resumeText: `
     Senior Software Engineer
 
 Zain Abdeen
-https://www.linkedin.com/in/zain-abdeen-445673219/
 zainabdeen0110@outlook.com
 +1 423 301 2901
 Tampa, Florida, USA
@@ -1070,7 +1069,7 @@ Quinnipiac University | Japan
     •	Collaborated in agile, cross-functional product teams with PMs, designers, QA, and DevOps, participating in sprint planning, backlog grooming, technical design reviews, and post-mortems. Played a key role in prioritizing technical debt, refactoring legacy code, and scaling high-traffic modules used by Fortune 500 clients.
     •	Implemented advanced RBAC and multi-tenant architecture to support enterprise clients with strict compliance and audit requirements (SOX, GDPR). Developed configurable access layers and approval routing based on user roles, regions, and organizational hierarchy.
 
-    QA Engineer at Cox Automotive Inc: 02/2017 – 09/2019
+    Software Developer at Cox Automotive Inc: 02/2017 – 09/2019
     •	Built scalable trading services in Java using Spring Boot and Kafka to support high-volume crypto transactions. Optimized key components in the trade matching engine to reduce execution latency and improve overall system responsiveness during peak traffic.
     •	Developed secure C# (.NET Core) services for fraud detection and regulatory compliance, integrating with KYC/AML providers. Detection precision reached above 98%, while false positives remained under 1.4%, leading to stronger audit outcomes.
     •	Engineered real-time wallet balance tracking using Redis, Kafka Streams, and WebSockets. This eliminated sync issues and delivered sub-second updates to users, improving trust and transparency across the platform.
@@ -1184,8 +1183,147 @@ Quinnipiac University | Japan
     Coursera, Issued Mar 2024
     https://www.coursera.org/account/accomplishments/certificate/3BUMV3R46DJD
     `
-  }
+  },
+  {
+    name: 'Josh Wright',
+    resumeText: `Senior Software Engineer
 
+    Josh Wright
+    Senior Software Engineer
+    joshwright120@outlook.com
+    13253130928
+    Austin, TX 78702
+    
+    Summary: 
+    
+    Senior Software Engineer with 10+ years of experience delivering scalable web and mobile applications 
+    across healthcare, finance, e-commerce, and education. Expert in full-stack development using Node.js, ASP.NET Core, React.js, and Python. 
+    Proven track record in modernizing legacy systems, building microservices, and leading cloud migrations on AWS and Azure. 
+    Strong background in real-time systems, DevOps automation, and compliance with HIPAA, FHIR, PCI DSS, and GDPR standards. 
+    Passionate about solving complex engineering challenges and creating high-impact, user-centric solutions.
+
+    Professional Experience:
+    
+    Senior Software Engineer at Kiggla: 06/2025 - Current
+    •	Architected and deployed microservices using C# (.NET 6/7), Docker, and Kubernetes, designing scalable, modular systems with gRPC and REST APIs. Implemented service discovery, circuit breakers, and health checks for fault-tolerant, production-grade environments.
+    •	Integrated AI and machine learning models into .NET-based microservices using ML.NET, ONNX Runtime, and Azure Cognitive Services, powering features like real-time sentiment analysis, recommendation engines, and document classification—driving a 40% boost in actionable insights.
+    •	Designed resilient cloud-native infrastructures on Azure (AKS, Cosmos DB) and AWS (ECS, RDS, S3) using Terraform and Helm for infrastructure-as-code. Enabled multi-region, auto-healing deployments with 99.99% uptime and built-in observability.
+    •	Developed responsive full-stack applications with .NET Core (Web API, SignalR) on the backend and React + TypeScript + Tailwind CSS on the frontend. Ensured seamless UX across devices with PWA support, boosting user satisfaction by 25%.
+    •	Led a mentorship and training initiative, coaching junior developers in C#, Entity Framework Core, and modern frontend frameworks. Improved team velocity and cut onboarding time by 52% through hands-on pairing, code reviews, and architectural walkthroughs.
+    •	Implemented robust CI/CD pipelines using GitHub Actions, Azure DevOps, and Jenkins, incorporating automated Docker builds, vulnerability scanning (Snyk), and blue-green deployments—resulting in a 54% reduction in deployment time and increased release confidence.
+    •	Built event-driven, intelligent microservices using Azure Service Bus, RabbitMQ, and Apache Kafka, processing high-throughput data streams with real-time alerting and AI-driven decision logic. Enabled actionable analytics pipelines with OpenTelemetry and Prometheus/Grafana.
+    •	Achieved 92%+ automated test coverage with xUnit, Selenium, Cypress, and SpecFlow, supporting TDD and BDD methodologies. Embedded automated testing into CI workflows to ensure stability, reliability, and minimal regression across all environments.
+
+    Senior Software Engineer at Amazon: 12/2020 - 01/2025
+    •	Led the Platform Engineering initiative within Amazon to build a next-generation image-based release system for foundational AWS services, enabling immutable deployments and reducing cold start times by 45% across distributed systems.
+    •	Architected and implemented deployment automation that updated system software consistently across Amazon’s vast global service ecosystem, improving release reliability, rollback safety, and observability.
+    •	Partnered with SRE and security teams to ensure zero-downtime software rollouts, enhancing compliance with PCI DSS and internal audit standards.
+    •	Reengineered a legacy reservation system into a scalable, cloud-native platform using ASP.NET Core, C#, and Node.js, improving performance and maintainability while supporting existing business logic during phased migration.
+    •	Migrated core components to a hybrid AWS and Azure environment, implementing containerized workloads with Docker and Kubernetes for rapid deployment and predictable scaling.
+    •	Integrated AI-driven optimization models using Python, FastAPI, and Azure Machine Learning to analyze usage patterns, automate resource allocation, and improve system throughput by 23%.
+    •	Built real-time analytics dashboards using Node.js, Angular, and WebSockets to track user engagement, system load, and deployment metrics, reducing operational response times by 37%.
+    •	Strengthened authentication across services with Azure AD, MSAL, and JWT-based security, achieving enterprise-grade access control and session security.
+    •	Introduced GitOps workflows using GitHub Actions, Helm, and Terraform to fully automate infrastructure provisioning and software updates, cutting deployment time in half.
+    •	Mentored a cross-functional team of 6 engineers, promoting best practices in distributed systems design, continuous delivery, and cloud-native architecture.
+
+    Software Engineer at Amazon(Client: Google): 10/2017 - 12/2020
+    •	Developed a real-time inventory management system using Express.js, Java (Spring Boot), and AngularJS, enabling stock tracking across hundreds of stores. This increased inventory visibility, reduced shortages, and provided employees with timely data to fulfill customer demand more effectively.
+    •	Developed a highly responsive user interface for PayPal’s transaction platform using React.js, reducing page load time by 32% and increasing user satisfaction scores by 27%. Created reusable components and optimized virtual DOM performance for dynamic user flows.
+    •	Revamped a legacy platform module using Angular, improving application scalability and maintainability. Refactored inefficient data flows and reduced memory footprint by restructuring component hierarchies.
+    •	Implemented a payment-splitting feature on the checkout page using React, Redux, and RESTful APIs, driving a 13% increase in user engagement and a smoother multi-party transaction experience.
+    •	Redesigned CSS and layout logic to ensure pixel-perfect, cross-browser compatibility across major platforms, enhancing visual consistency and usability.
+    •	Engineered RESTful backend services in Java and Spring Boot for payment processing, authentication, and session management. Ensured seamless integration with frontend via clearly defined API contracts.
+    •	Built and optimized backend modules in C++ to support performance-critical services, including transaction validation and fraud checks. Applied memory-efficient data structures and multithreading to handle high concurrency workloads.
+    •	Created a reusable React component library, standardizing UI patterns and reducing development time by 30%. Integrated with Storybook for live documentation and team adoption.
+    •	Implemented unit and integration tests using Jest, Enzyme, and JUnit, improving code coverage and reducing production bugs by 40%. Introduced CI checks for UI regression detection.
+    •	Managed application state using Redux and Context API, handling complex user interactions and asynchronous data fetching across payment workflows.
+    •	Collaborated with business and UX teams to translate product requirements into scalable technical solutions. Participated in Agile ceremonies, sprint planning, and design reviews.
+
+    Software Developer at Amazon: 08/2016 – 09/2017
+    •	Supported the development of high-volume software systems focused on scalability and reliability. Contributed to optimizing backend services and database access patterns for speed and resilience.
+    •	Built responsive web interfaces using HTML5, CSS3, and jQuery, improving front-end interactivity and mobile responsiveness for critical user workflows.
+    •	Designed and implemented user-facing features in collaboration with senior engineers and product managers, resulting in increased user engagement and lower churn.
+    •	Assisted in C++ module development for backend services, applying concepts like hash maps, linked lists, and priority queues to optimize algorithmic performance and reduce response latency in transaction-heavy operations.
+    •	Applied Object-Oriented Design principles to structure reusable and extensible components in both frontend and backend codebases.
+    •	Developed foundational knowledge in algorithms, data structures, databases, and operating systems through hands-on work and mentorship, preparing for higher-complexity engineering challenges.
+    •	Participated in code reviews and estimations, contributing to a 12% increase in team efficiency and helping deliver projects on time with consistent quality.
+
+    Skills:
+    
+    Node.js (Express, NestJS)
+    ASP.NET Core (C#)
+    Python (FastAPI, Django, Flask)
+    Java (Spring Boot)
+    C++
+    React.js
+    Angular
+    TypeScript
+    Redux
+    Responsive UI design
+    React
+    Redux
+    React Native
+    AngularJS
+    Vue.js
+    Svelte
+    WebSockets
+    reusable component libraries
+    Storybook
+    RESTful APIs
+    GraphQL (Apollo)
+    OAuth 2.0
+    JWT
+    SignalR
+    Redis
+    microservices
+    concurrency control
+    AWS (EC2, S3, CloudFront, Lambda)
+    Azure (App Services, Event Hubs)
+    Docker
+    Kubernetes
+    Helm
+    Jenkins
+    GitLab CI/CD
+    Hadoop
+    Spark
+    Azure Synapse
+    real-time analytics
+    TensorFlow
+    AI integration (chatbots, booking optimization)
+    HIPAA
+    HL7
+    FHIR
+    PCI DSS
+    GDPR
+    Azure AD
+    MSAL
+    RBAC
+    data encryption
+    Jest
+    Enzyme
+    JUnit
+    Postman
+    Swagger
+    New Relic
+    Datadog
+    Azure Monitor
+    Prometheus
+    ELK Stack
+    Git
+    Jira
+    VS Code
+    PM2
+    MongoDB
+    PostgreSQL
+    MySQL
+    SQL Server
+
+    Education:
+    Bachelor's Degree of Computer Science (08/2012 - 05/2016)
+    Rose-Hulman Institute of Technology | USA
+    
+    `
+  }
 ];
 
 export function getBaseResumeByName(name: string | null | undefined): string | null {

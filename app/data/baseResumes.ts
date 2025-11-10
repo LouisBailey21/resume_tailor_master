@@ -916,7 +916,7 @@ Senior Software Engineer at EmergentWirelessSolutions: 03/2023 - Current
 •	Automated CI/CD pipelines with Docker, GitHub Actions, and Kubernetes, enabling blue-green deployments, zero-downtime updates, and consistent delivery across staging, QA, and production environments.
 •	Oversaw the full ML pipeline lifecycle, from data wrangling (pandas, NumPy) and model training (scikit-learn, TensorFlow) to inference serving via FastAPI with GPU-optimized deployments on AWS SageMaker and Lambda.
 
-Software Engineer at EmergentWirelessSolutions(Client: IBM) : 10/2020 – 03/2023
+Software Engineer at EmergentWirelessSolutions(Client: IBM) : 104/2020 – 03/2023
 •	Architected and implemented a scalable e-Learning and Content Management System using Python (FastAPI), Express (Node.js), and PostgreSQL, reducing manual academic coordination by 73% and supporting 10,000+ concurrent users with multi-tenant capabilities.
 •	Developed intelligent course recommendation and auto-tagging features using scikit-learn and spaCy, increasing learner engagement and content discoverability—leading to a 38% rise in course completions.
 •	Built a modern, ADA-compliant frontend using React.js and Tailwind CSS with deep integration into Python services, improving accessibility scores and reducing bounce rates by 33% across course pages.
@@ -1016,7 +1016,7 @@ SQL Server
 
 Education:
 •Bachelor of Science, Computer Science (10/2013 – 08/2017)
-Quinnipiac University | Japan
+Quinnipiac University | US
     `
   },
   {

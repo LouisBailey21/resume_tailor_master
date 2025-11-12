@@ -1204,7 +1204,7 @@ Quinnipiac University | US
 
     Professional Experience:
     
-    Senior Software Engineer at Kiggla: 06/2025 - Current
+    Senior Software Engineer at Kiggla: 03/2025 - Current
     •	Architected and deployed microservices using C# (.NET 6/7), Docker, and Kubernetes, designing scalable, modular systems with gRPC and REST APIs. Implemented service discovery, circuit breakers, and health checks for fault-tolerant, production-grade environments.
     •	Integrated AI and machine learning models into .NET-based microservices using ML.NET, ONNX Runtime, and Azure Cognitive Services, powering features like real-time sentiment analysis, recommendation engines, and document classification—driving a 40% boost in actionable insights.
     •	Designed resilient cloud-native infrastructures on Azure (AKS, Cosmos DB) and AWS (ECS, RDS, S3) using Terraform and Helm for infrastructure-as-code. Enabled multi-region, auto-healing deployments with 99.99% uptime and built-in observability.
@@ -1226,7 +1226,7 @@ Quinnipiac University | US
     •	Introduced GitOps workflows using GitHub Actions, Helm, and Terraform to fully automate infrastructure provisioning and software updates, cutting deployment time in half.
     •	Mentored a cross-functional team of 6 engineers, promoting best practices in distributed systems design, continuous delivery, and cloud-native architecture.
 
-    Software Engineer at Amazon(Client: Google): 10/2017 - 12/2020
+    Software Engineer at Google: 10/2017 - 12/2020
     •	Developed a real-time inventory management system using Express.js, Java (Spring Boot), and AngularJS, enabling stock tracking across hundreds of stores. This increased inventory visibility, reduced shortages, and provided employees with timely data to fulfill customer demand more effectively.
     •	Developed a highly responsive user interface for PayPal’s transaction platform using React.js, reducing page load time by 32% and increasing user satisfaction scores by 27%. Created reusable components and optimized virtual DOM performance for dynamic user flows.
     •	Revamped a legacy platform module using Angular, improving application scalability and maintainability. Refactored inefficient data flows and reduced memory footprint by restructuring component hierarchies.

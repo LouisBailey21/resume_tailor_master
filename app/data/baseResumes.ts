@@ -1323,7 +1323,171 @@ Quinnipiac University | US
     Rose-Hulman Institute of Technology | USA
     
     `
-  }
+  }, 
+  {
+    name: 'Vincent Maradiaga',
+    resumeText: `Senior Software Engineer
+
+    Vincent Maradiaga
+    Senior Software Engineer
+    vincent.maradev1009@outlook.com
+    14099412954
+    Houston, TX 77096
+    
+    Summary: 
+    
+    Senior Software Engineer with 7+ years of experience designing and delivering full-stack, cloud-native solutions 
+    across healthcare, e-learning, financial, and e-commerce domains. Skilled in modernizing legacy systems, 
+    building microservices, and handling real-time data workflows. Experienced in AI/LLM integration, automation, and predictive analytics 
+    using OpenAI, Claude, TensorFlow, and PyTorch. Proficient in cloud platforms (AWS, Azure, GCP), DevOps, containerization (Docker/Kubernetes), and secure, compliant enterprise applications. 
+    Passionate about creating scalable, user-centric platforms with strong focus on security, compliance, and performance.
+
+    Professional Experience:
+    
+    Senior Software Engineer at RUI(Client: TrainUp): 09/2023 - Current
+      •	Led full-stack development for an AI-driven productivity and e-learning/financial insights platform using React.js, Next.js, Angular, and TypeScript on the frontend and Node.js (NestJS, Express) plus Ruby on Rails on the backend, helping modernize a legacy single-tenant application into a modular, multi-tenant architecture.
+      •	Designed and implemented an interactive AI chat and workspace interface with real-time input/output schema validation, integrating Markdown and LaTeX rendering for complex, structured responses such as reports, financial summaries, and technical docs.
+      •	Integrated OpenAI and Anthropic Claude as core LLM providers, implementing prompt templates, system messages, content filters, and safety guardrails for both general chat and file-enhanced workspace flows, including financial-style analysis and narrative generation.
+      •	Built real-time data handling for chats and shared workspaces using WebSocket-style streaming, enabling synchronous collaboration and reducing perceived latency for end users.
+      •	Implemented contextual file search over uploaded documents stored in PostgreSQL and MongoDB, with RBAC-based access rules to control workspace sharing, team roles, and data visibility for documents like financial statements, contracts, and operational reports.
+      •	Developed supporting ML microservices in Python (FastAPI + TensorFlow) for embeddings, classification, and content scoring, exposing them to Node.js APIs and instrumenting them with OpenTelemetry, Prometheus, and Grafana for metrics and tracing.
+      •	Extended the platform to support financial-style workflows, such as automated report generation and structured summaries of CSV/Excel exports, using Ruby on Rails services to normalize data, store transaction-like records, and expose them via APIs consumed by the AI layer.
+      •	Created automation flows using n8n and webhooks to schedule tasks like document summarization, content tagging, and notification dispatch, reducing manual operational overhead.
+      •	Deployed modular microservices using Docker and Kubernetes on Azure, using Azure PostgreSQL and MongoDB Atlas, and configured Nginx with Certbot for SSL. Monitored services with Datadog, Sentry, and ELK for logs and error tracking.
+      •	Used Notion as a lightweight CRM/project hub to track user feedback, onboarding pipelines, and roadmap items; documented APIs with Swagger and validated endpoints using Postman and Jest/Supertest.
+
+    Software Engineer at Kiggla(Client: 7 Souls Tattoo): 04/2021 - 08/2023
+    •	Modernized a legacy desktop tracking system into a cross-platform app for a health-adjacent and e-commerce service business using React, Angular, React Native, Electron.js, and selectively Ruby on Rails for internal admin and reporting tools.
+    •	Designed and implemented an admin dashboard using React, Redux, and TypeScript, integrating REST and GraphQL APIs backed by Node.js (Express, NestJS), PostgreSQL, and MongoDB for real-time reporting, team management, and performance analytics.
+    •	Migrated tightly coupled server logic into domain-based microservices in Node.js and C# (.NET Core) (billing, reporting, media, notifications), enabling independent deployment and scaling. Used PM2 and Nodemon in development and early process management.
+    •	Built real-time data handling for a Slack-style communication system with DM, group chats, and video/audio calls using WebSockets, SignalR-style patterns, and Kurento media server, providing low-latency messaging and call setup.
+    •	Developed e-commerce features including online booking payments, gift card sales, merchandise checkout, and recurring subscription management using Stripe/PayPal APIs, integrated with dashboards for revenue tracking and order management.
+    •	Integrated OpenAI-based assistants for automatic timesheet summarization, policy explanations, and template responses; experimented with PyTorch models to tag sessions and detect outliers in usage patterns.
+    •	Implemented automation scripts and scheduled background jobs in C# (.NET Core) and Node.js to handle recurring tasks (report generation, billing reminders, S3 cleanup), monitored via AWS CloudWatch, New Relic, and Sentry.
+    •	Deployed services to AWS (EC2, Lambda, S3), used Redis for caching and session management, and collaborated on infrastructure with Kubernetes clusters provisioned via Terraform, instrumented with Prometheus and Grafana.
+    •	Used Airtable as a lightweight CRM to track clients, sessions, merchandise sales, and billing; built n8n workflows to sync Airtable data with internal dashboards and generate automated notifications.
+    •	Ensured better security with JWT-based authentication, RBAC, and fine-grained permissions; validated code quality using ESLint, Prettier, and implemented tests with Jest, Cypress, Mocha, and Chai.
+
+    Software Engineer at Infosys: 02/2019 - 03/2021
+    •	Contributed to multiple enterprise and healthcare/e-learning oriented projects, building full-stack web applications with Next.js (SSR/ISR), Angular, and MongoDB Atlas, later introducing PostgreSQL for transactional modules.
+    •	Helped migrate parts of a monolithic legacy platform into a more modular, API-first system using Node.js (Express, NestJS) and PHP for legacy integrations, deployed across AWS and GCP using Docker and early Kubernetes setups managed via Terraform.
+    •	Built admin and analytics UIs with Radix UI, Tailwind CSS, and Angular, providing user management, permission configuration, and reporting views for internal stakeholders.
+    •	Implemented secure authentication flows with NextAuth.js (JWT, MFA) and supported healthcare-style access patterns with RBAC and HL7/FHIR-aware data models for some client-facing tools.
+    •	Documented services with Swagger/OpenAPI, and tested APIs using Postman, Supertest, Jest, and Sinon for mocking. Implemented front-end unit tests with Karma and Jasmine, increasing confidence in release quality.
+    •	Assisted in instrumenting services with New Relic, Datadog, and basic ELK logging to monitor performance and errors; contributed to initial adoption of OpenTelemetry traces for key services.
+    •	Set up CI/CD pipelines using GitHub Actions to build Docker images and push them to GHCR.io, deploying to AWS EC2; wrote detailed Confluence documentation and coordinated work in Trello.
+
+    Software Developer at IBM: 07/2018 – 01/2019
+    •	Rebuilt a core product filter page by replacing legacy JavaScript/HTML/CSS with modular components using React and Angular, improving maintainability and performance for a customer communication platform used in insurance and health-workflow scenarios.
+    •	Integrated front-end views with backend services built in Node.js (Express) and Java (Spring Boot), consuming APIs documented with Swagger and validated via Postman.
+    •	Worked on real-time data handling for notification and status updates, ensuring front-end components correctly rendered near real-time changes from server events.
+    •	Assisted content/marketing teams by integrating WordPress-based blogs and documentation into the main product via REST APIs and custom UI components.
+    •	Helped test front-end behavior using Jest, Mocha, and Chai, and adopted code-quality tools (ESLint, Prettier) as part of the CI process. Supported early-stage Kubernetes deployments by verifying front-end stability in containerized environments.
+    •	Optimized load performance by ~40% using lazy loading, code splitting, and tree-shaking, and participated in daily standups and code reviews to maintain quality and velocity.
+
+    Skills:
+    
+    Node.js (Express, NestJS)
+    ASP.NET Core
+    Python (Flask, FastAPI)
+    PHP (Laravel)
+    Java (Spring Boot)
+    Ruby on Rails
+    React.js
+    React Native
+    AngularJS
+    Next.js
+    Vue.js
+    TypeScript
+    Redux
+    Electron.js
+    AWS (EC2, S3, RDS, Lambda, CloudWatch)
+    Azure (App Services, Virtual Machines, Event Hubs, PostgreSQL)
+    GCP
+    Docker
+    Kubernetes
+    Terraform
+    Helm
+    Jenkins
+    GitHub Actions
+    GitLab CI/CD
+    Azure DevOps
+    PM2
+    Nodemon
+    RESTful API Design
+    GraphQL
+    OAuth 2.0
+    JWT
+    WebSockets
+    SignalR
+    HL7
+    FHIR
+    Stripe
+    PayPal
+    Plaid
+    Zoom
+    Google Maps API
+    OpenAI
+    Anthropic Claude
+    n8n automation workflows
+    HIPAA
+    HL7
+    FHIR
+    PCI DSS
+    GDPR
+    CCPA
+    RBAC
+    MFA
+    CSRF Protection
+    Data Encryption
+    Audit Logging
+    Karma
+    Jasmine
+    Mocha
+    Chai
+    Jest
+    Cypress
+    Supertest
+    Sinon
+    Nodemon
+    PM2
+    New Relic
+    Datadog
+    Sentry
+    Postman
+    Swagger
+    ESLint
+    Prettier
+    pprof (Go)
+    Prometheus
+    Grafana
+    ELK Stack (Elasticsearch, Logstash, Kibana)
+    OpenTelemetry
+    Git
+    GitHub
+    GitLab
+    Jira
+    Figma
+    Notion
+    Airtable
+    WordPress
+    WebRTC
+    SignalR
+    Kurento Media Server
+    TensorFlow
+    PyTorch
+    ML model integration
+    embeddings
+    classification
+    real-time data processing with WebSockets & Azure Event Hubs
+    AI-assisted automation and predictive analytics
+
+    Education:
+    Bachelor's Degree of Computer Science (09/2014 - 06/2018)
+    Argosy University  | CA, USA
+    
+    `
+  }, 
 ];
 
 export function getBaseResumeByName(name: string | null | undefined): string | null {

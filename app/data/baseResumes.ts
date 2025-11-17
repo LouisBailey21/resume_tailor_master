@@ -542,6 +542,7 @@ Southern Polytechnic State University | USA`
     Senior Software Engineer
 
 Zain Abdeen
+Senior Software Engineer
 zainabdeen0110@outlook.com
 +1 423 301 2901
 Tampa, Florida, USA

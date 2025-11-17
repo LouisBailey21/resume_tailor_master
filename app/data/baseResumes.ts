@@ -1136,6 +1136,223 @@ Quinnipiac University | US
     
     `
   }, 
+    {
+    name: 'Jimmy Liang',
+    resumeText: `Senior Software Engineer
+
+    Jimmy Liang
+    Senior Software Engineer
+    jimmy.liang3003@outlook.com
+    14097976318
+    Apt 7C, New York, NY 10003
+    
+    Summary: 
+    
+    Senior Full Stack Engineer with 10+ years building scalable, cloud-native SaaS and microservices using C# (.NET), Python, Java, React, Vue, Svelte, TypeScript, PHP, and Laravel. 
+    Experienced in AI/ML and LLM integrations (ML.NET, ONNX, Azure Cognitive Services, OpenAI, Claude, Gemini), cloud platforms (Azure, AWS), 
+    DevOps (CI/CD, Docker, Kubernetes, Terraform), event-driven architecture (Kafka, RabbitMQ), and internal automation (n8n, Zapier, Make.com, Salesforce, Airtable, Notion). 
+    Skilled in high-performance frontends, secure, data-intensive systems, mentoring teams, and delivering solutions in healthcare, fintech, and analytics-driven environments.
+
+    Professional Experience:
+    
+    Senior Software Engineer at Kiggla: 12/2023 - Current
+      •	Architected and deployed scalable, HIPAA-compliant microservices for healthcare platforms using C# (.NET 6/7), Docker, Kubernetes, gRPC, and REST APIs, integrating with EHR systems (HL7/FHIR), claims engines, and patient-facing portals, while mentoring engineers on fault-tolerant, production-grade patterns.
+      •	Integrated AI/ML models into .NET microservices using ML.NET, ONNX Runtime, Azure Cognitive Services, scikit-learn, and Python pipelines, enabling clinical decision support, risk scoring, and sentiment analysis—driving a 40% increase in actionable insights.
+      •	Designed cloud-native, PHI-ready infrastructure on Azure (AKS, Cosmos DB) and AWS (ECS, RDS, S3, PostgreSQL) with Terraform and Helm, delivering multi-region, auto-healing deployments with 99.99% uptime, encryption, audit logging, and full-stack observability (OpenTelemetry, Prometheus, Grafana).
+      •	Developed full-stack healthcare apps with .NET Core (Web API, SignalR) on the backend and Next.js + TypeScript + React + TailwindCSS on the frontend, building clinician dashboards, patient portals, and real-time monitoring views—boosting user satisfaction by 25%.
+      •	Led mentorship and code reviews, coaching developers in C#, Entity Framework Core, PostgreSQL, secure coding, FHIR/HL7 integrations, OAuth2/JWT, RBAC, and accessibility; improved team velocity and cut onboarding time by 52%.
+      •	Implemented CI/CD pipelines with GitHub Actions, Azure DevOps, Jenkins, including automated Docker builds, infrastructure-as-code validation, Snyk security scanning, and blue-green deployments—reducing deployment time by 54% and increasing release confidence in regulated environments.
+      •Built event-driven microservices using Azure Service Bus, RabbitMQ, Apache Kafka, processing high-throughput clinical and device data for AI-driven triage, anomaly detection, and real-time alerts.
+      •	Delivered LLM-powered workflows by orchestrating OpenAI/LLM APIs and on-prem models for chart summarization, document classification, ICD/CPT code suggestions, and intelligent message routing; ensured safety and reliability with 92%+ automated test coverage using xUnit, Selenium, Cypress, SpecFlow, and TDD/BDD embedded into CI.
+
+    Engineering Director at Lombard International: 03/2020 - 10/2023
+    •	Architected and deployed scalable microservices using C# (.NET 6/7), Docker, and Kubernetes, designing modular systems with gRPC and REST APIs, while mentoring engineers on best practices for fault-tolerant production-grade environments.
+    •	Integrated AI and machine learning models into .NET-based microservices using ML.NET, ONNX Runtime, and Azure Cognitive Services, enabling real-time sentiment analysis, recommendation engines, and document classification—driving a 40% increase in actionable insights.
+    •	Designed cloud-native infrastructures on Azure (AKS, Cosmos DB) and AWS (ECS, RDS, S3) with Terraform and Helm, enabling multi-region, auto-healing deployments with 99.99% uptime and built-in observability.
+    •	Developed full-stack applications with .NET Core (Web API, SignalR) on the backend and React + TypeScript + TailwindCSS on the frontend, ensuring seamless UX across devices with PWA support, increasing user satisfaction by 25%.
+    •	Led team mentorship, training, and code reviews, coaching junior and mid-level developers in C#, Entity Framework Core, and modern frontend frameworks, improving team velocity and cutting onboarding time by 52%.
+    •	Implemented robust CI/CD pipelines using GitHub Actions, Azure DevOps, and Jenkins, incorporating automated Docker builds, vulnerability scanning (Snyk), and blue-green deployments—reducing deployment times by 54% and boosting release confidence.
+    •	Built event-driven microservices with Azure Service Bus, RabbitMQ, and Apache Kafka, processing high-throughput data streams with AI-driven decision logic and real-time alerting.
+    •	Ensured high-quality software delivery, achieving 92%+ automated test coverage with xUnit, Selenium, Cypress, and SpecFlow, and embedding TDD/BDD practices into CI workflows for reliable, low-regression releases.
+
+    Senior Software Engineer at Lombard International: 03/2017 - 03/2020
+    •	Re-architected a monolithic video analytics platform into a distributed, microservices-based SaaS solution using ASP.NET Core, Docker, and Kubernetes, enabling modular scalability for handling large volumes of video-based emotion response data across multiple brand campaigns.
+    •	Developed RESTful APIs to support emotion-scoring workflows, secure content delivery, campaign performance tracking, and user authentication, integrating with OAuth2, external IDPs, and internal permission controls to support agency and brand-level access tiers.
+    •	Improved data processing performance across SQL Server and MongoDB backends, optimizing queries and implementing in-memory caching (Redis) and advanced indexing strategies, reducing emotion scoring and response aggregation latency by 33%.
+    •	Implemented real-time streaming notifications using SignalR, Redis Pub/Sub, and WebSocket-based interfaces to provide brands and analysts with immediate feedback on audience reactions as test panels interacted with video content.
+    •	Built CI/CD pipelines with GitHub Actions, Helm, and Kubernetes, automating infrastructure provisioning, test coverage analysis, and rolling deployments with zero downtime—cutting release times by over 52% and improving system reliability.
+    •	Integrated machine learning models using ML.NET, ONNX Runtime, and Python-based pipelines (scikit-learn, NumPy, pandas) for facial expression analysis, emotion classification, and viewer engagement prediction. Used Python for preprocessing large video metadata, aligning time-coded emotion data with panelist reactions across frames.
+    •	Developed and deployed auxiliary Python-based microservices for AI workflows, including Flask-based inference endpoints and background workers (with Celery + RabbitMQ) for batch model scoring, asynchronous analytics tasks, and feature extraction.
+    •	Enabled localization and region-aware analytics, incorporating Python’s i18n libraries to support multilingual datasets and regional formatting. Helped expand the platform’s ability to test and optimize ads globally with compliant, culturally aligned UX.
+
+    Software Developer at Lombard International: 06/2016 – 03/2017
+    •	Designed modular micro-frontends using React, TypeScript, Tailwind CSS, and Storybook for procurement, invoicing, and contract management, delivering WCAG-compliant UI components and increasing cross-team development velocity by 32%.
+    •	Architected scalable backend APIs with ASP.NET Core, NestJS, Express.js, and Entity Framework Core, supporting approval workflows, supplier integration, budgeting controls, and real-time audit trails using clean architecture and DDD patterns.
+    •	Built analytics dashboards with Highcharts, Recharts, and D3.js, visualizing KPIs such as invoice cycle time and supplier spend compliance, and optimized large data rendering via virtualization, debouncing, and server-side pagination.
+    •	Integrated with SAP, Workday, NetSuite, Oracle Financials via REST APIs, NestJS integration services, OAuth2, SAML, and webhooks, adding retry and fallback logic to harden critical financial data flows.
+    •	Improved frontend performance using code splitting, lazy loading, Webpack, and Vite, reducing initial load times by 42%+ and encapsulating business logic into reusable hooks and shared services.
+    •	Implemented automated CI/CD pipelines with GitHub Actions, Azure DevOps, Docker, Terraform, and Kubernetes, adding Jest/xUnit tests and blue-green deployments to achieve zero-downtime releases.
+    •	Collaborated in agile, cross-functional teams, contributing to sprint planning, design reviews, and refactoring .NET/Node.js services while scaling high-traffic modules used by Fortune 500 clients.
+
+    .NET Developer at Sportsnexa: 09/2015 - 03/2016
+    •	Implemented in designing, developing, and delivering scalable web applications using ASP.NET MVC, Entity Framework, C#, JavaScript, and jQuery, ensuring maintainable architecture and modular code.
+    •	Developed responsive, interactive front-end user interfaces with HTML, CSS, Bootstrap, JavaScript, jQuery, integrating dynamic dashboards, charts, and graphs to visualize real-time sports analytics data.
+    •	Built and consumed RESTful APIs to retrieve partial post-backs from web services, and created dynamic view models in JavaScript for seamless, real-time data rendering on web pages.
+    •	Designed and implemented backend services using LINQ to Entities and ASP.NET Web API, ensuring efficient data retrieval, business logic encapsulation, and secure access to client-facing features.
+    •	Created utility classes for web scraping RSS feeds and other web sources, cleaning and normalizing data before inserting into SQL Server databases to support analytics and reporting.
+    •	Designed and maintained SQL Server database tables, stored procedures, and indexes, optimizing queries for high-performance access for data scientists and real-time reporting pipelines.
+    •	Implemented CI/CD workflows using Jenkins, enabling automated builds, testing, and deployment across multiple environments, improving release velocity and system reliability.
+    •	Managed version control and collaborative development using TortoiseGit, tracking feature changes, bug fixes, and project progress for cross-functional teams.
+    •	Applied software development best practices including unit testing, code reviews, modular design, and agile methodologies, ensuring high-quality deliverables and maintainable codebases.
+
+    .Net Developer at Ecommerce Boost Inc: 09/2014 - 03/2015
+    •	Converted multiple client legacy applications written in a prehistoric language into modern, maintainable .NET applications, improving overall system reliability and reducing runtime errors by over 40%.
+    •	Partnered with client’s CIO and end-users to gather requirements, assess existing workflows, and define conversion strategies, ensuring applications met business needs and compliance standards.
+    •	Scoped projects and developed detailed migration plans, identifying dependencies, potential bottlenecks, and performance improvement opportunities before implementation.
+    •	Enhanced functionality of converted applications, introducing new features and automations that significantly increased productivity for client teams.
+    •	Optimized application performance through database tuning, code refactoring, and implementation of best practices, reducing processing times by up to 50% compared to legacy systems.
+    •	Maintained and updated client’s website, creating new product pages using master pages, improving usability, and ensuring consistent design across desktop and mobile devices.
+    •	Provided ongoing support and troubleshooting for converted applications and the client’s website, resolving issues quickly and maintaining high client satisfaction.
+
+
+
+    Skills:
+    
+    C#
+    .NET Core (6/7)
+    ASP.NET MVC
+    ASP.NET Core
+    Java
+    Spring Boot
+    Python
+    Flask
+    JavaScript
+    TypeScript
+    React.js
+    Vue.js
+    Svelte
+    SvelteKit
+    Angular
+    Redux
+    Redux Toolkit
+    TailwindCSS
+    Bootstrap
+    jQuery
+    PHP
+    Laravel
+    D3.js
+    Highcharts
+    Recharts
+    SignalR
+    WebSockets
+    Node.js
+    Express.js
+    NestJS
+    Azure (AKS, Cosmos DB, Azure DevOps)
+    AWS (ECS, EC2, RDS, S3, CloudWatch)
+    Docker
+    Kubernetes
+    Terraform
+    Helm
+    GitHub Actions
+    Jenkins
+    GitLab CI/CD
+    Vite
+    Webpack
+    TeamCity
+    OpenTelemetry
+    Prometheus
+    Grafana
+    SQL Server
+    PostgreSQL
+    MongoDB
+    Redis
+    Cosmos DB
+    RESTful APIs
+    gRPC
+    SignalR
+    WebSockets
+    OAuth 2.0
+    JWT
+    SAML
+    RabbitMQ
+    Apache Kafka
+    Azure Service Bus
+    Stripe
+    Zoom
+    Google APIs
+    ML.NET
+    ONNX Runtime
+    scikit-learn
+    NumPy
+    pandas
+    Celery
+    Salesforce
+    Airtable
+    n8n
+    Zapier
+    Make.com
+    Notion
+    OpenAI API
+    Claude API
+    Gemini API
+    HIPAA
+    GDPR
+    SOX
+    PCI DSS
+    CCPA
+    KYC/AML
+    RBAC
+    MFA
+    Audit Logging
+    FHIR/HL7
+    PHI Compliance
+    Secure Coding
+    ELK Stack (Elasticsearch, Logstash, Kibana)
+    Postman
+    Jest
+    Cypress
+    xUnit
+    Jest
+    Selenium
+    SpecFlow
+    Snyk
+    OpenTelemetry
+    Prometheus
+    Grafana
+    WordPress
+    PHP
+    Laravel
+    Custom CMS Development
+    Theme & Plugin Development
+    SEO Optimization
+    Git
+    GitHub
+    GitLab
+    Jira
+    Storybook
+    ESBuild
+    Highcharts
+    Recharts
+    Oracle Financials
+    SAP
+    NetSuite
+    Workday
+    CI/CD Pipelines
+    Agile/Scrum
+    TDD
+    BDD
+
+    Education:
+    Bachelor's Degree of Computer Science (09/2012 - 05/2014)
+    City Tech, CUNY  | USA
+
+    Associate’s Degree of Computer Technology | Aug 2009 – Apr 2012
+    LaGuardia Community College | USA
+
+    
+    `
+  }, 
 ];
 
 export function getBaseResumeByName(name: string | null | undefined): string | null {

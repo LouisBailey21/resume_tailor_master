@@ -993,7 +993,7 @@ Quinnipiac University | US
 
     Professional Experience:
     
-    Senior Software Engineer at RUI(Client: TrainUp): 09/2023 - Current
+    Senior Software Engineer at RUI(Client-TrainUp): 09/2023 - Current
       •	Led full-stack development for an AI-driven productivity and e-learning/financial insights platform using React.js, Next.js, Angular, and TypeScript on the frontend and Node.js (NestJS, Express) plus Ruby on Rails on the backend, helping modernize a legacy single-tenant application into a modular, multi-tenant architecture.
       •	Designed and implemented an interactive AI chat and workspace interface with real-time input/output schema validation, integrating Markdown and LaTeX rendering for complex, structured responses such as reports, financial summaries, and technical docs.
       •	Integrated OpenAI and Anthropic Claude as core LLM providers, implementing prompt templates, system messages, content filters, and safety guardrails for both general chat and file-enhanced workspace flows, including financial-style analysis and narrative generation.
@@ -1005,7 +1005,7 @@ Quinnipiac University | US
       •	Deployed modular microservices using Docker and Kubernetes on Azure, using Azure PostgreSQL and MongoDB Atlas, and configured Nginx with Certbot for SSL. Monitored services with Datadog, Sentry, and ELK for logs and error tracking.
       •	Used Notion as a lightweight CRM/project hub to track user feedback, onboarding pipelines, and roadmap items; documented APIs with Swagger and validated endpoints using Postman and Jest/Supertest.
 
-    Software Engineer at Kiggla(Client: 7 Souls Tattoo): 04/2021 - 08/2023
+    Software Engineer at Kiggla(Client-7 Souls Tattoo): 04/2021 - 08/2023
     •	Modernized a legacy desktop tracking system into a cross-platform app for a health-adjacent and e-commerce service business using React, Angular, React Native, Electron.js, and selectively Ruby on Rails for internal admin and reporting tools.
     •	Designed and implemented an admin dashboard using React, Redux, and TypeScript, integrating REST and GraphQL APIs backed by Node.js (Express, NestJS), PostgreSQL, and MongoDB for real-time reporting, team management, and performance analytics.
     •	Migrated tightly coupled server logic into domain-based microservices in Node.js and C# (.NET Core) (billing, reporting, media, notifications), enabling independent deployment and scaling. Used PM2 and Nodemon in development and early process management.

@@ -824,7 +824,7 @@ Quinnipiac University | US
     Workday
 
     Education:
-    Master's Degree of Electrical Engineering in 2013
+    Master's Degree of Computer & Electrical Engineering in 2013
     The University of New Mexico | USA
     
     Licenses & Certifications:

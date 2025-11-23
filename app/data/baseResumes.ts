@@ -1176,7 +1176,7 @@ Quinnipiac University | US
     •	Built event-driven microservices with Azure Service Bus, RabbitMQ, and Apache Kafka, processing high-throughput data streams with AI-driven decision logic and real-time alerting.
     •	Ensured high-quality software delivery, achieving 92%+ automated test coverage with xUnit, Selenium, Cypress, and SpecFlow, and embedding TDD/BDD practices into CI workflows for reliable, low-regression releases.
 
-    Senior Software Engineer at Lombard International: 03/2017 - 03/2020
+    Senior Software Engineer at JPMorgan Chase: 03/2017 - 03/2020
     •	Re-architected a monolithic video analytics platform into a distributed, microservices-based SaaS solution using ASP.NET Core, Docker, and Kubernetes, enabling modular scalability for handling large volumes of video-based emotion response data across multiple brand campaigns.
     •	Developed RESTful APIs to support emotion-scoring workflows, secure content delivery, campaign performance tracking, and user authentication, integrating with OAuth2, external IDPs, and internal permission controls to support agency and brand-level access tiers.
     •	Improved data processing performance across SQL Server and MongoDB backends, optimizing queries and implementing in-memory caching (Redis) and advanced indexing strategies, reducing emotion scoring and response aggregation latency by 33%.

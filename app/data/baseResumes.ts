@@ -1138,10 +1138,10 @@ Quinnipiac University | US
     `
   }, 
     {
-    name: 'Jimmy Liang',
+    name: 'Jimmy Lee',
     resumeText: `Senior Software Engineer
 
-    Jimmy Liang
+    Jimmy Lee
     Senior Software Engineer
     jimmy.liang3003@outlook.com
     14097976318

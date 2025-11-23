@@ -1206,7 +1206,7 @@ Quinnipiac University | US
     •	Managed version control and collaborative development using TortoiseGit, tracking feature changes, bug fixes, and project progress for cross-functional teams.
     •	Applied software development best practices including unit testing, code reviews, modular design, and agile methodologies, ensuring high-quality deliverables and maintainable codebases.
 
-    .Net Developer at Ecommerce Boost Inc: 09/2014 - 03/2015
+    .Net Developer at Ecommerce Boost Inc: 01/2014 - 05/2015
     •	Converted multiple client legacy applications written in a prehistoric language into modern, maintainable .NET applications, improving overall system reliability and reducing runtime errors by over 40%.
     •	Partnered with client’s CIO and end-users to gather requirements, assess existing workflows, and define conversion strategies, ensuring applications met business needs and compliance standards.
     •	Scoped projects and developed detailed migration plans, identifying dependencies, potential bottlenecks, and performance improvement opportunities before implementation.

@@ -718,7 +718,7 @@ Quinnipiac University | US
     •	Collaborated in agile, cross-functional product teams with PMs, designers, QA, and DevOps, participating in sprint planning, backlog grooming, technical design reviews, and post-mortems. Played a key role in prioritizing technical debt, refactoring legacy code, and scaling high-traffic modules used by Fortune 500 clients.
     •	Implemented advanced RBAC and multi-tenant architecture to support enterprise clients with strict compliance and audit requirements (SOX, GDPR). Developed configurable access layers and approval routing based on user roles, regions, and organizational hierarchy.
 
-    Software Developer at Cox Automotive Inc: 02/2017 – 09/2019
+    Software Developer(Intern) at Altera: 01/2013 – 08/2013
     •	Built scalable trading services in Java using Spring Boot and Kafka to support high-volume crypto transactions. Optimized key components in the trade matching engine to reduce execution latency and improve overall system responsiveness during peak traffic.
     •	Developed secure C# (.NET Core) services for fraud detection and regulatory compliance, integrating with KYC/AML providers. Detection precision reached above 98%, while false positives remained under 1.4%, leading to stronger audit outcomes.
     •	Engineered real-time wallet balance tracking using Redis, Kafka Streams, and WebSockets. This eliminated sync issues and delivered sub-second updates to users, improving trust and transparency across the platform.

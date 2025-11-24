@@ -393,7 +393,7 @@ SQL Queries for Test Data
 
 Education:
 •Bachelor of Science, Computer Science (09/2009 – 03/2013)
-Kyoto Univeristy | Japan
+University of Tokyo | Japan
     `
 
   },

@@ -61,6 +61,7 @@ Each category must have 12–20+ comma-separated skills, prioritizing JD keyword
 Here is the base resume:
 16. Include explicit database-related experience in the Professional Experience section.
 17. Set the number of experiences in each company as 7-9 definitely and each experience must has 40-50 words.
+18. The response MUST include bulleted lists using standard markdown syntax (• or -) for each experience entry and technical skill sets like frontend, backend, etc.
 ${baseResume}
 
 Here is the target job description:

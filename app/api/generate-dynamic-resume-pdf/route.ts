@@ -367,41 +367,41 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    // Check for OpenAI API key
-    if (!process.env.OPENAI_API_KEY) {
-      return new NextResponse(
-        JSON.stringify({ error: 'OpenAI API key not configured' }),
-        { status: 500, headers: { 'Content-Type': 'application/json' } }
-      );
-    }
+    // // Check for OpenAI API key
+    // if (!process.env.OPENAI_API_KEY) {
+    //   return new NextResponse(
+    //     JSON.stringify({ error: 'OpenAI API key not configured' }),
+    //     { status: 500, headers: { 'Content-Type': 'application/json' } }
+    //   );
+    // }
 
-    // 2. Load base resume based on selected profile, fallback to default embedded
-    const baseResume: string = getBaseResumeByName(baseResumeProfile) || ``;
-    // 3. Tailor resume with OpenAI
-    const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
-    const prompt = buildPrompt(baseResume, jobDescription);
+    // // 2. Load base resume based on selected profile, fallback to default embedded
+    // const baseResume: string = getBaseResumeByName(baseResumeProfile) || ``;
+    // // 3. Tailor resume with OpenAI
+    // const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+    // const prompt = buildPrompt(baseResume, jobDescription);
 
-    const completion = await openai.chat.completions.create({
-      model: process.env.OPENAI_VERSION || 'gpt-3.5-turbo',
-      messages: [
-        { role: 'system', content: 'You are a helpful assistant for creating professional resume content.' },
-        { role: 'user', content: prompt }
-      ],
-      temperature: 1,
-      max_completion_tokens: 7000
-    });
+    // const completion = await openai.chat.completions.create({
+    //   model: process.env.OPENAI_VERSION || 'gpt-3.5-turbo',
+    //   messages: [
+    //     { role: 'system', content: 'You are a helpful assistant for creating professional resume content.' },
+    //     { role: 'user', content: prompt }
+    //   ],
+    //   temperature: 1,
+    //   max_completion_tokens: 7000
+    // });
 
-    const tailoredResume = completion.choices[0].message.content || '';
+    // const tailoredResume = completion.choices[0].message.content || '';
 
-    if (!tailoredResume) {
-      return new NextResponse(
-        JSON.stringify({ error: 'Failed to generate tailored resume content' }),
-        { status: 500, headers: { 'Content-Type': 'application/json' } }
-      );
-    }
+    // if (!tailoredResume) {
+    //   return new NextResponse(
+    //     JSON.stringify({ error: 'Failed to generate tailored resume content' }),
+    //     { status: 500, headers: { 'Content-Type': 'application/json' } }
+    //   );
+    // }
 
     // 4. Generate PDF
-    const pdfBytes = await generateResumePdf(tailoredResume);
+    const pdfBytes = await generateResumePdf(jobDescription);
 
     // 5. Return PDF as response
     const fileBase = `${(baseResumeProfile && baseResumeProfile.replace(/[^a-zA-Z0-9_]/g, '_'))}_${company.replace(/[^a-zA-Z0-9_]/g, '_')}_${role.replace(/[^a-zA-Z0-9_]/g, '_')}`;

@@ -60,6 +60,7 @@ Include explicit database-related experience in the Professional Experience sect
 - Use concise storytelling bullets (challenge → action → result) rather than task lists.
 - Prefer non-rounded percentages when plausible (e.g., 33%, 47%, 92%) to convey precision.
 - Prioritize impact, metrics, and results over generic responsibilities in every bullet.
+17. Ensure each experience and skills section has "-" at first bullet point.
 
 Here is the base resume:
 
@@ -175,7 +176,7 @@ async function generateResumePdf(resumeText: string): Promise<Uint8Array> {
   const BLACK = rgb(0, 0, 0);
   const DARK_GRAY = rgb(0.2, 0.2, 0.2); // For section headers
   const MEDIUM_GRAY = rgb(0.4, 0.4, 0.4); // For job titles
-  const GRAY = rgb(0.6, 0.6, 0.6); // For company names and periods
+  const GRAY = rgb(0.6, 0.6, 0.2); // For company names and periods
   const LIGHT_GRAY = rgb(0.3, 0.3, 0.3); // For contact info
 
   const MARGIN_TOP = 72; // 1 inch = 72 points

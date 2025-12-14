@@ -15,7 +15,8 @@ function parseResume(resumeText: string) {
       break;
     }
   }
-  const [headline, name, email, phone, location, linkedin] = info;
+  // Always provide defaults to avoid undefined
+  const [headline = "", name = "", email = "", phone = "", location = "", linkedin = ""] = info;
   while (bodyStart < lines.length && !lines[bodyStart].trim()) bodyStart++;
   const body = lines.slice(bodyStart).join('\n');
   return { headline, name, email, phone, location, linkedin, body };
@@ -62,11 +63,6 @@ Here is the base resume:
 16. Include explicit database-related experience in the Professional Experience section.
 17. Set the number of experiences in each company as 7-9 definitely and each experience must has 40-50 words.
 
-${baseResume}
-
-Here is the target job description:
-
-${jobDescription}
 
 Output the improved resume as plain text, exactly following the original resume's format—including the unchanged headline at the top. Clearly label sections (Summary, Professional Experience, Skills, Education, etc) with original spacing, section order, and no decorative lines or symbols.
   `;
@@ -204,7 +200,7 @@ async function generateResumePdf(resumeText: string): Promise<Uint8Array> {
     email,
     linkedin
   ].filter(Boolean);
-
+  console.log(contactParts);  
   if (contactParts.length > 0) {
     const contactLine = contactParts.join(' • ');
     const contactLines = wrapText(contactLine, font, CONTACT_SIZE, CONTENT_WIDTH);
@@ -376,7 +372,14 @@ export async function POST(req: NextRequest) {
     // }
 
     // // 2. Load base resume based on selected profile, fallback to default embedded
-    // const baseResume: string = getBaseResumeByName(baseResumeProfile) || ``;
+    const baseResume: string = getBaseResumeByName(baseResumeProfile) || "";
+    if (!baseResume || typeof baseResume !== 'string' || baseResume.trim() === "") {
+      return new NextResponse(
+        JSON.stringify({ error: 'No valid resume found for profile. Please check your profile selection or data.' }),
+        { status: 400, headers: { 'Content-Type': 'application/json' } }
+      );
+    }
+
     // // 3. Tailor resume with OpenAI
     // const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
     // const prompt = buildPrompt(baseResume, jobDescription);
@@ -401,7 +404,7 @@ export async function POST(req: NextRequest) {
     // }
 
     // 4. Generate PDF
-    const pdfBytes = await generateResumePdf(jobDescription);
+    const pdfBytes = await generateResumePdf(baseResume);
 
     // 5. Return PDF as response
     const fileBase = `${(baseResumeProfile && baseResumeProfile.replace(/[^a-zA-Z0-9_]/g, '_'))}_${company.replace(/[^a-zA-Z0-9_]/g, '_')}_${role.replace(/[^a-zA-Z0-9_]/g, '_')}`;
@@ -414,10 +417,7 @@ export async function POST(req: NextRequest) {
     });
   } catch (error) {
     return new NextResponse(
-      JSON.stringify({
-        error: 'Internal server error',
-        details: error instanceof Error ? error.message : 'Unknown error'
-      }),
+      JSON.stringify({ error: (error as Error).message }),
       { status: 500, headers: { 'Content-Type': 'application/json' } }
     );
   }

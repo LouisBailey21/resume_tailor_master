@@ -980,7 +980,7 @@ Quinnipiac University | US
     Vincent Maradiaga
     Senior Software Engineer
     vincent.maradev1009@outlook.com
-    14099412954
+    14099411954
     Houston, TX 77096
     
     Summary: 

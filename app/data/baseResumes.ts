@@ -6,47 +6,45 @@ export type BaseResumeProfile = {
 // Seed with a default profile. You can add more profiles to this array.
 export const baseResumes: BaseResumeProfile[] = [
   {
-    name: 'Louis Bailey (AI)',
+    name: 'Patrick Clark',
     resumeText: `
 Senior Software Engineer
 
-Louis Bailey
-luoisbailey21412@gmail.com
+Patrick Clark
+patrick.clark0205@outlook.com
 Senior Software Engineer
-+1 (346) 214 1881
-San Antonio, TX, USA
++1 (409) 797 6318
+Houston TX, 77033
 
 Summary:
 
-AI/ML and Generative AI Specialist with 10+ years of experience architecting and delivering intelligent, cloud-native, and production-scale systems 
-across healthcare, finance, retail, and education. Expertise in LLMs (GPT, LLaMA, Claude), GenAI apps, RAG, multimodal AI, recommendation engines, and predictive analytics. 
-Proven success in deploying AI pipelines with MLOps best practices (MLflow, Kubeflow, Vertex AI, SageMaker), integrating AI into real-time systems, and 
-ensuring compliance with HIPAA, FHIR, PCI DSS, and GDPR. Recognized for leading high-impact AI initiatives that transformed platforms into smarter, more efficient, and globally scalable solutions.
+Senior Software Engineer and AI/ML Specialist with 10+ years of experience building scalable, cloud-native web and SaaS applications. 
+Expert in full-stack development (React, Node.js, Python) and integrating AI/ML solutions including LLMs, recommendation systems, and computer vision. 
+Proven track record delivering secure, high-performance systems across healthcare, retail, finance, and enterprise environments using Azure, AWS, and modern DevOps practices.
 
 Professional Experience:
 
-Senior Software Engineer at Softcom: 06/2022 - Current
-•	Led migration of legacy SaaS products into cloud-native microservices enhanced with AI-powered copilots, reducing operational costs by 25% and boosting platform uptime by 21%.
-•	Built RAG-based semantic search using LangChain, FAISS, and Hugging Face embeddings, enabling natural language querying across large customer datasets.
-•	Designed and deployed multimodal AI models combining LLMs with computer vision for real-time video annotation, content tagging, and in-app recommendations.
-•	Engineered predictive analytics pipelines in PyTorch + Azure Event Hubs to power real-time dashboards, reducing business decision latency by 40%.
-•	Created a GenAI-driven knowledge assistant for customer support using OpenAI APIs + Pinecone, cutting response times by 32%.
-•	Integrated TensorFlow-based predictive maintenance models into core SaaS features, preventing downtime and improving reliability.
-•	Automated full AI lifecycle with MLflow + Kubernetes, enabling continuous model training, deployment, and monitoring.
-•	Strengthened AI system security by embedding RBAC, GDPR-compliant data anonymization, and encrypted model outputs.
+Senior Software Engineer at Kiggla: 01/2025 - Current
+•	Engineered full-stack applications with React.js + Node.js, integrated with Azure Functions and Cosmos DB, enabling scalable multi-tenant solutions and reducing response time by 30%.
+•	Built image recognition pipelines using Cloudsight API + TensorFlow, automating media tagging and content validation, improving processing efficiency by 35%.
+•	Developed RESTful and GraphQL APIs integrated with Azure App Services, ensuring secure and low-latency data access for web and mobile clients.
+•	Automated CI/CD pipelines using Azure DevOps + GitHub Actions, reducing deployment errors and accelerating release cycles by 25%.
+•	Designed dynamic dashboards and responsive UIs with React.js + Tailwind CSS, increasing end-user engagement and usability scores by 20%.
+•	Implemented RBAC security and HIPAA-compliant data handling across Azure-hosted services, ensuring regulatory compliance for sensitive information.
+•	Evaluated and integrated third-party APIs (Granicus-style) for workflow automation, improving task efficiency for internal teams by 15%.
+•	Orchestrated microservices with Azure Kubernetes Service (AKS) and Event Hubs, optimizing real-time communication and event-driven processing across the platform.
 
-AI/ML Engineer at Rover: 03/2020 – 09/2022
-•	Architected a personalized pet sitter recommendation engine using PyTorch embeddings, boosting match accuracy by 19%.
-•	Deployed real-time pet activity recognition models (TensorFlow Lite + CV) in mobile apps to detect anomalies (e.g., health risks).
-•	Built GenAI-powered onboarding assistants for customers and sitters, improving activation rates by 27%.
-•	Integrated signal-based anomaly detection with Redis + Google Maps APIs to enhance live pet-tracking and notifications.
-•	Collaborated with data scientists to embed ML-based behavioral models into the booking engine for improved retention.
-•	Deployed AI services with GitLab CI/CD + Kubernetes, enabling seamless low-latency inference.
-•	Strengthened security for AI APIs with JWT-based model access controls and usage monitoring.
-•	Contributed to Rover’s global expansion by building multi-language, AI-powered translation and i18n systems.
-•	Implemented bias detection pipelines for sitter recommendation models, ensuring fairness across demographics.
+AI/ML Engineer at SimpleView: 02/2022 – 12/2024
+•	Developed full-stack applications with React.js + Node.js and deployed on Azure App Services, enhancing platform scalability and reducing downtime by 20%.
+•	Built AI-powered recommendation engines using PyTorch + Azure Event Hubs, enabling real-time pet sitter matching and increasing booking accuracy by 19%.
+•	Integrated Cloudsight API for real-time image recognition, automating activity and anomaly detection in mobile apps, improving monitoring efficiency by 30%.
+•	Implemented RESTful APIs for secure communication between web/mobile clients and Azure-hosted backend services, reducing API latency by 25%.
+•	Deployed CI/CD pipelines with Azure DevOps + Kubernetes, enabling automated testing and seamless production deployments.
+•	Created dynamic dashboards and responsive UI components, improving user interaction and app engagement by 22%.
+•	Embedded JWT-based authentication and RBAC in APIs, ensuring secure access control for multi-tenant environments.
+•	Optimized Azure-hosted microservices for event-driven processing and real-time notifications, reducing system lag and improving end-user responsiveness.
 
-AI/ML Developer at Intuit : 01/2018 – 02/2020
+AI/ML Developer at Amazon : 06/2018 – 02/2022
 •	Built fraud detection systems combining deep learning classifiers + ensemble ML, reducing fraudulent transactions by 29% across retail POS and e-commerce platforms.
 •	Designed LLM-driven product catalog parsing (OCR + GPT models) for automated SKU classification, pricing updates, and inventory tagging.
 •	Partnered with merchandising and finance teams to deploy demand forecasting and inventory optimization models in AWS SageMaker, improving stock management for millions of products.
@@ -66,7 +64,7 @@ Software Developer at The Home Spot : 02/2017 – 03/2018
 •	Migrated legacy services to a Python/Node.js hybrid microservices stack on AWS (EC2, S3, RDS), improving scalability and fault tolerance.
 •	Automated CI/CD pipelines for Python/Node projects with Jenkins and GitLab CI, embedding unit tests and ML model validation.
 
-AI Developer Intern at IBM : 11/2015 – 02/2017
+AI Developer Intern at IBM : 11/2015 – 01/2017
 •	Built adaptive HR recommendation engines with Python (Django + FastAPI) APIs serving Scikit-learn + TensorFlow models to suggest personalized training, career paths, and learning resources for employees.
 •	Developed a Node.js (Express.js) backend for real-time employee interactions, powering WebSocket-based live feedback, onboarding sessions, and performance reviews.
 •	Created LLM-powered HR chatbots for employee Q&A, policy guidance, and benefits queries, exposed via FastAPI microservices.
@@ -136,8 +134,8 @@ Postman
 Cypress
 
 Education:
-•Bachelor of Science, Computer Science (10/2011 – 08/2015)
-The University of Tokyo | Japan
+•Bachelor of Science, Computer Science (9/2010 – 05/2014)
+Indiana University Bloomington | US
     `
   },
   { name: 'Louis Bailey (FS)',

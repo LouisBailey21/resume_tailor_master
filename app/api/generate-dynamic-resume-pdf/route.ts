@@ -176,7 +176,7 @@ async function generateResumePdf(resumeText: string): Promise<Uint8Array> {
   const BLACK = rgb(0, 0, 0);
   const DARK_GRAY = rgb(0.2, 0.2, 0.2); // For section headers
   const MEDIUM_GRAY = rgb(0.4, 0.4, 0.4); // For job titles
-  const GRAY = rgb(17, 40, 157); // For company names and periods
+  const GRAY = rgb(0.1, 0.1, 0.8); // For company names and periods
   const LIGHT_GRAY = rgb(0.3, 0.3, 0.3); // For contact info
 
   const MARGIN_TOP = 72; // 1 inch = 72 points

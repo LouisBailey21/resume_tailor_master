@@ -18,9 +18,10 @@ Tampa, FL 33602
 
 Summary:
 
-Senior Software Engineer and AI/ML Specialist with 10+ years of experience building scalable, cloud-native web and SaaS applications. 
-Expert in full-stack development (React, Node.js, Python) and integrating AI/ML solutions including LLMs, recommendation systems, and computer vision. 
-Proven track record delivering secure, high-performance systems across healthcare, retail, finance, and enterprise environments using Azure, AWS, and modern DevOps practices.
+Senior Software Engineer and AI/ML Specialist with 10+ years of experience designing and deploying AI-powered applications in production environments. 
+Strong background in LLMs, generative AI, computer vision, recommendation systems, and real-time ML pipelines, 
+with hands-on experience using frameworks like PyTorch, TensorFlow, LangChain, and vector databases. Proven at integrating AI models into scalable cloud-native systems on Azure and AWS, 
+with solid MLOps practices, security, and compliance. Experienced in turning complex ML capabilities into reliable, user-facing products that deliver measurable business impact.
 
 Professional Experience:
 
@@ -136,6 +137,173 @@ Cypress
 Education:
 •Bachelor of Science, Computer Science (9/2010 – 05/2014)
 Indiana University Bloomington | US
+    `
+  },
+    {
+    name: 'Lindsay Jackson',
+    resumeText: `
+Senior Software Engineer
+
+Lindsay Jackson
+jacksonlind1323@outlook.com
+Senior Software Engineer
++14233011901
+Houston, TX 77002
+
+Summary:
+
+AI-focused Senior Engineer with 10+ years of experience designing and deploying production-grade AI/ML systems across healthcare, fintech, and enterprise SaaS. 
+Specialized in agentic AI workflows, LLM-driven reasoning engines, and graph-based data modeling, with deep expertise in Python, PyTorch, TensorFlow, Hugging Face, and cloud-native AI deployments 
+(AWS, Snowflake, Kubernetes). Proven record of modernizing legacy systems into AI-first platforms, building scalable multi-agent ecosystems, and ensuring compliance in high-stakes healthcare environments.
+
+Professional Experience:
+
+Senior Software Engineer at Hexagon: 01/2025 - Current
+•	Architected a multi-agent orchestration platform in Python using LangChain and LlamaIndex, enabling reasoning-based workflows for triage, care planning, and EHR automation across hospital networks.
+•	Built Retrieval-Augmented Generation (RAG) pipelines with Hugging Face Transformers, Pinecone vector DB, and AWS Bedrock, generating structured summaries from unstructured medical transcripts.
+•	Developed knowledge graph integrations with Neo4j and AWS Neptune to unify patient history, claims data, and provider workflows, enabling downstream graph-based reasoning and predictive analytics.
+•	Engineered real-time voice/NLP pipelines using PyTorch and Azure Speech Services, achieving sub-second latency for clinical dictation, diagnosis support, and sentiment-aware triage scoring.
+•	Automated end-to-end MLOps workflows in AWS SageMaker for model training, evaluation, and deployment, with versioned model registries and drift detection.
+•	Designed security guardrails for agentic systems (prompt injection detection, RBAC-aware inference policies, HIPAA-compliant audit logging).
+•	Scaled multi-region AWS infrastructure with Kubernetes and Terraform, supporting tens of millions of inference requests/month while maintaining >99.99% uptime
+
+
+AI/ML Engineer at Epoq Legal US: 09/2023 – 01/2025
+•	Designed an LLM-powered AI agent ecosystem for contextual pet care, using LangChain, OpenAI embeddings, and vectorized persistent memory across DynamoDB and Pinecone.
+•	Built semantic knowledge retrieval pipelines for long-term memory and context preservation in multi-turn conversations with users and sitters.
+•	Implemented real-time incident detection workflows (pet tracking, emergency alerts) with AWS EventBridge, SignalR, and speech-to-text services for hands-free caregiver updates.
+•	Architected graph-based sitter matching algorithms using Neo4j and PyTorch GNNs, modeling relationships between pets, caregivers, and service history to predict sitter fit and trustworthiness.
+•	Developed containerized AI microservices in Python and deployed via Kubernetes + AWS SageMaker, supporting A/B testing of new AI features at production scale.
+•	Introduced a multi-tenant MLOps pipeline in GitLab CI/CD with rollout gating, enabling safe experiments in production AI services.
+•	Mentored engineers on integrating agentic workflows beyond chatbots, focusing on multi-step reasoning and collaboration between agents.
+
+
+Software Developer at Oracle : 06/2020 – 09/2023
+•	Built an image analysis engine in Python to detect anomalies and classify financial documents, applying probabilistic modeling to highlight errors or inconsistencies in scanned invoices and receipts.
+•	Integrated Graph Databases (Neo4j) for visual relationship modeling between scanned documents, accounts, and transactions, uncovering patterns and dependencies.
+•	Developed Generative AI image enhancement and inpainting agents using Hugging Face + TensorFlow to automatically clean, enhance, and reconstruct scanned documents and forms for audit-ready outputs.
+•	Implemented AI-powered image assistants with AWS Rekognition + LangChain to guide users through document uploads, verification, and validation workflows, integrated directly into financial platforms.
+•	Led ETL modernization efforts using dbt + Snowflake to preprocess, normalize, and store large-scale image datasets for ML model training and evaluation.
+•	Built reinforcement learning agents for automated document categorization and prioritization, dynamically adjusting based on document quality, type, and processing urgency.
+•	Deployed image processing AI workflows into AWS SageMaker pipelines, scaling predictive and classification models to millions of scanned documents across enterprise platforms.
+
+Software Developer at The Home Spot : 01/2017 – 06/2020
+•	Built a real-time inventory forecasting agent using TensorFlow, Kafka Streams, and Snowflake, predicting stockouts and automatically triggering supplier reorders.
+•	Designed a knowledge graph of products, suppliers, and store locations in AWS Neptune, applying GNNs to optimize distribution during seasonal surges.
+•	Developed a graph-powered recommendation engine for product bundling, trained on customer purchase histories and store-level sales graphs.
+•	Deployed predictive AI workflows on AWS SageMaker + Kubernetes, reducing per-store out-of-stock incidents by 28%.
+•	Created containerized ETL pipelines in Airflow to unify transactional, IoT, and vendor data into Snowflake for downstream AI workloads.
+•	Integrated symbolic reasoning rules into replenishment workflows, combining deterministic business constraints with ML predictions for explainable decision-making.
+•	Automated CI/CD pipelines for AI workloads with Jenkins + GitLab CI, enabling daily retraining and deployment of high-volume predictive models.
+
+
+Web Developer at Amazon : 03/2015 – 01/2017
+•	Built a collaborative learning agent in Python and Node.js using reinforcement learning to adapt quizzes dynamically to student performance.
+•	Implemented a graph-based content recommendation engine with Neo4j, modeling relationships between concepts, student progress, and instructor materials.
+•	Developed a real-time classroom orchestration system using WebSockets + LangChain to manage student/teacher multi-agent interactions.
+•	Integrated speech-based reasoning agents with Web Speech API + Hugging Face for accessibility and adaptive test assistance.
+•	Deployed scalable AI-driven dashboards (React.js + D3.js) visualizing sentiment, progress, and content mastery, powered by predictive ML services in AWS.
+•	Designed automated knowledge tracing pipelines in TensorFlow to predict dropout risk and recommend intervention paths for instructors.
+•	Collaborated with researchers on symbolic AI integrations into student-facing tools, enhancing explainability in adaptive learning recommendations.
+
+
+
+Skills:
+
+Python (FastAPI, Flask, Django)
+C#
+ASP.NET Core
+Node.js
+TypeScript
+JavaScript
+React.js
+React Native
+Angular
+PyTorch
+TensorFlow
+Hugging Face
+LangChain
+LlamaIndex
+RAG pipelines
+Reinforcement Learning (RL, RLHF)
+Graph Neural Networks (GNNs)
+Symbolic AI
+Multimodal AI (Vision, Text, Speech)
+Speech Recognition (ASR)
+TTS
+Prompt Engineering
+Model Fine-Tuning & Distillation
+Snowflake
+Databricks
+BigQuery
+AWS (SageMaker, Bedrock, EC2, S3, RDS)
+GCP Vertex AI
+Neo4j
+AWS Neptune
+Pinecone
+Chroma
+Weaviate
+Airflow
+dbt
+Kafka
+Spark
+Docker
+Kubernetes
+Terraform
+GitLab CI/CD
+GitHub Actions
+Jenkins
+Azure DevOps
+CloudWatch
+Prometheus
+Grafana
+MLflow
+Weights & Biases
+REST
+GraphQL
+gRPC
+WebSockets
+OAuth 2.0
+JWT
+Event-Driven Microservices
+Kafka Streams
+RabbitMQ
+PostgreSQL
+SQL Server
+MySQL
+MongoDB
+DynamoDB
+Redis
+Elasticsearch
+HIPAA
+GDPR
+PCI DSS
+RBAC
+MFA
+Prompt Injection Mitigation
+Bias & Fairness Auditing
+Model Explainability (SHAP, LIME)
+AI Agents & Multi-Agent Systems (AutoGPT, CrewAI, LangGraph)
+Low-Latency Inference (ONNX, TensorRT, Quantization)
+Federated Learning
+Synthetic Data Generation
+Responsible & Ethical AI
+
+Education:
+•Bachelor of Science, Mechanical Engineering (2010 – 2014)
+Virginia State University | US
+
+License:
+•Professional Scrum Master I (PSM I) (https://www.scrum.org/user/659752)
+Scrum.org
+Issued Apr 2020
+Credential ID 659752
+
+•Google Data Analytics Specialization (https://www.coursera.org/account/accomplishments/specialization/certificate/ATZV3LSS7K5R)
+Coursera
+Issued Mar 2023 
+Credential ID ATZV3LSS7K5R
+
     `
   },
   { name: 'Louis Bailey (FS)',

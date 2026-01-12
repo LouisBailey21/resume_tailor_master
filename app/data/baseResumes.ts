@@ -35,7 +35,7 @@ Senior Software Engineer at Kiggla: 01/2025 - Current
 •	Evaluated and integrated third-party APIs (Granicus-style) for workflow automation, improving task efficiency for internal teams by 15%.
 •	Orchestrated microservices with Azure Kubernetes Service (AKS) and Event Hubs, optimizing real-time communication and event-driven processing across the platform.
 
-AI/ML Engineer at SimpleView: 02/2022 – 12/2024
+Software Engineer III at SimpleView: 02/2022 – 12/2024
 •	Developed full-stack applications with React.js + Node.js and deployed on Azure App Services, enhancing platform scalability and reducing downtime by 20%.
 •	Built AI-powered recommendation engines using PyTorch + Azure Event Hubs, enabling real-time pet sitter matching and increasing booking accuracy by 19%.
 •	Integrated Cloudsight API for real-time image recognition, automating activity and anomaly detection in mobile apps, improving monitoring efficiency by 30%.
@@ -45,7 +45,7 @@ AI/ML Engineer at SimpleView: 02/2022 – 12/2024
 •	Embedded JWT-based authentication and RBAC in APIs, ensuring secure access control for multi-tenant environments.
 •	Optimized Azure-hosted microservices for event-driven processing and real-time notifications, reducing system lag and improving end-user responsiveness.
 
-AI/ML Developer at Amazon : 06/2018 – 02/2022
+Software Engineer II at Amazon : 06/2018 – 02/2022
 •	Built fraud detection systems combining deep learning classifiers + ensemble ML, reducing fraudulent transactions by 29% across retail POS and e-commerce platforms.
 •	Designed LLM-driven product catalog parsing (OCR + GPT models) for automated SKU classification, pricing updates, and inventory tagging.
 •	Partnered with merchandising and finance teams to deploy demand forecasting and inventory optimization models in AWS SageMaker, improving stock management for millions of products.
@@ -65,7 +65,7 @@ Software Developer at The Home Spot : 02/2017 – 03/2018
 •	Migrated legacy services to a Python/Node.js hybrid microservices stack on AWS (EC2, S3, RDS), improving scalability and fault tolerance.
 •	Automated CI/CD pipelines for Python/Node projects with Jenkins and GitLab CI, embedding unit tests and ML model validation.
 
-AI Developer Intern at IBM : 11/2015 – 01/2017
+Software Developer Intern at IBM : 11/2015 – 01/2017
 •	Built adaptive HR recommendation engines with Python (Django + FastAPI) APIs serving Scikit-learn + TensorFlow models to suggest personalized training, career paths, and learning resources for employees.
 •	Developed a Node.js (Express.js) backend for real-time employee interactions, powering WebSocket-based live feedback, onboarding sessions, and performance reviews.
 •	Created LLM-powered HR chatbots for employee Q&A, policy guidance, and benefits queries, exposed via FastAPI microservices.
@@ -168,7 +168,7 @@ Senior Software Engineer at Hexagon: 01/2025 - Current
 •	Scaled multi-region AWS infrastructure with Kubernetes and Terraform, supporting tens of millions of inference requests/month while maintaining >99.99% uptime
 
 
-AI/ML Engineer at Epoq Legal US: 09/2023 – 01/2025
+Senior Software Engineer at Epoq Legal US: 09/2023 – 01/2025
 •	Designed an LLM-powered AI agent ecosystem for contextual pet care, using LangChain, OpenAI embeddings, and vectorized persistent memory across DynamoDB and Pinecone.
 •	Built semantic knowledge retrieval pipelines for long-term memory and context preservation in multi-turn conversations with users and sitters.
 •	Implemented real-time incident detection workflows (pet tracking, emergency alerts) with AWS EventBridge, SignalR, and speech-to-text services for hands-free caregiver updates.
@@ -178,7 +178,7 @@ AI/ML Engineer at Epoq Legal US: 09/2023 – 01/2025
 •	Mentored engineers on integrating agentic workflows beyond chatbots, focusing on multi-step reasoning and collaboration between agents.
 
 
-Software Developer at Oracle : 06/2020 – 09/2023
+Software Engineer at Oracle : 06/2020 – 09/2023
 •	Built an image analysis engine in Python to detect anomalies and classify financial documents, applying probabilistic modeling to highlight errors or inconsistencies in scanned invoices and receipts.
 •	Integrated Graph Databases (Neo4j) for visual relationship modeling between scanned documents, accounts, and transactions, uncovering patterns and dependencies.
 •	Developed Generative AI image enhancement and inpainting agents using Hugging Face + TensorFlow to automatically clean, enhance, and reconstruct scanned documents and forms for audit-ready outputs.

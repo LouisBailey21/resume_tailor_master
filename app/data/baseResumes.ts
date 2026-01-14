@@ -1520,6 +1520,156 @@ Quinnipiac University | US
     
     `
   }, 
+      {
+    name: 'Filip Kowal',
+    resumeText: `Senior Software Engineer
+
+    Filip Kowal
+    Senior Software Engineer
+    https://www.linkedin.com/in/filip-kowal-6086363a3/
+    filip.kowal10@outlook.com
+    32-065 Czernichów, woj. małopolskie, Poland
+    
+    Summary: 
+    
+    Senior QA Automation Engineer with over 10 years of experience designing and executing large-scale testing strategies for complex, cloud-native applications across healthcare, finance, retail, and education. 
+    Expertise in automation frameworks, CI/CD integration, API validation, performance testing, and end-to-end quality assurance for web, mobile, and backend systems. Skilled in Python (Pytest, Behave, Selenium), 
+    C# (.NET Test, SpecFlow), and JavaScript (Playwright, Cypress). Adept at driving test architecture in distributed microservices, ensuring compliance with HIPAA, PCI DSS, and GDPR. 
+    Passionate about improving reliability, scalability, and customer experience through robust test automation and data-driven QA processes.
+
+    Professional Experience:
+    
+    Senior QA Engineer at HackerEarth: 04/2024 - Current
+    •	Led QA transformation by building Python (Pytest, Behave) and Selenium-based automation frameworks integrated into CI/CD pipelines, achieving 80% regression coverage across microservices.
+    •	Validated RESTful APIs and event-driven services in FastAPI and Laravel, implementing API versioning, token-based authentication testing, and error resilience validation.
+    •	Built automated data validation suites using Python, PostgreSQL, and MongoDB for ensuring consistency across customer, billing, and analytics services.
+    •	Developed end-to-end test scenarios for real-time pipelines (Azure Event Hubs, WebSockets), ensuring accurate analytics and alert generation.
+    •	Tested WebRTC-based meeting platform for latency, media quality, and cross-browser reliability using automated WebDriver scripts.
+    •	Collaborated with data teams to validate predictive models integrated through TensorFlow APIs, ensuring deterministic behavior and reproducibility.
+    •	Automated workflow and billing test cases through Azure Logic Apps, reducing manual validation efforts by 45%.
+    •	Strengthened testing security via automated OAuth 2.0 and RBAC tests, supporting GDPR and PCI DSS audit readiness.
+    •	Integrated QA checks into Azure DevOps and GitLab pipelines, enabling automated smoke, regression, and post-deploy verification steps monitored via ELK dashboards.
+
+    Software Engineer IV at Roshen: 10/2022 - 02/2024
+    •	Developed automated API and end-to-end tests for core services (bookings, onboarding, payments) using Python (Pytest) and .NET test suites integrated into Jenkins pipelines.
+    •	Created test harnesses for React Native apps, automating UI and API flows to validate booking and notification scenarios across iOS and Android.
+    •	Built real-time system validation for pet tracking modules using SignalR, Redis, and Google Maps APIs, performing continuous integration testing for WebSocket stability.
+    •	Collaborated with ML engineers to validate recommendation model integration and conduct A/B test automation for booking accuracy metrics.
+    •	Implemented Jenkins and GitLab CI pipelines for automated regression suites, improving deployment verification speed by 34%.
+    •	Defined and executed performance and load testing using JMeter and Locust, optimizing throughput for peak booking traffic.
+    •	Introduced test governance with RBAC, encrypted test data storage, and i18n testing to support secure, multi-language global releases.
+
+    Software Engineer III at Roshen: 01/2021 - 10/2022
+    •	Designed large-scale automation frameworks in Node.js and TypeScript for payment APIs and tax submission services, achieving 95% test coverage for critical user journeys.
+    •	Automated UI and backend testing for React and Angular frontends, integrating Cypress, Playwright, and Jest suites for continuous validation.
+    •	Developed API contract and performance validation for AWS-hosted microservices using Postman collections and custom Python CLI tools.
+    •	Built data integrity testing pipelines across PostgreSQL and MongoDB, implementing validation scripts for multi-tenant data isolation.
+    •	Performed penetration and compliance testing with JWT, MFA, and OAuth 2.0 scenarios to meet PCI DSS, GDPR, and CCPA requirements.
+    •	Built event-driven test monitors with Redis and WebSockets to verify real-time notifications for Credit Karma users.
+    •	Automated full CI/CD QA gates with Jenkins and GitLab CI, reducing manual QA signoff cycles by 40%.
+    •	Collaborated with data science teams to automate ML model validation and inference API testing using TensorFlow and Python scripts.
+
+    Software QA Tester II at Softeq: 04/2017 - 08/2020
+    •	Designed test automation suites for Python (Flask) and Java (Spring Boot) services managing inventory and orders, achieving stable regression automation.
+    •	Validated RESTful APIs for high-volume inventory sync, order lifecycle, and customer profile services with automated Postman and Rest Assured suites.
+    •	Automated authentication test cases for OAuth 2.0 and MFA flows, improving login reliability and compliance validation.
+    •	Built Selenium-based mobile web test suites for React Native frontends, ensuring responsive and accessible UIs.
+    •	Developed API mocking and data simulation tools to emulate seasonal traffic for stress testing.
+    •	Participated in AWS cloud migration testing (EC2, S3, RDS), ensuring service availability and failover readiness.
+    •	Integrated QA automation into Jenkins CI/CD pipeline, reducing manual regression efforts by 32%.
+
+    Skills:
+    
+    Pytest
+    Selenium
+    Behave (BDD)
+    Cypress
+    Playwright
+    SpecFlow
+    Postman
+    Rest Assured
+    JMeter
+    Locust
+    Robot Framework
+    TestNG
+    Appium (Mobile Automation)
+    Cucumber (Gherkin)
+    Allure Reporting
+    Serenity BDD
+    Python (Flask, FastAPI)
+    C#
+    ASP.NET Core
+    JavaScript
+    TypeScript
+    Node.js (Express.js, Nest.js)
+    React.js
+    Java (Spring Boot, TestNG)
+    SQL
+    Bash / Shell Scripting
+    AWS (EC2, S3, Lambda)
+    Azure DevOps
+    Google Cloud Platform (GCP)
+    Docker
+    Kubernetes
+    Terraform
+    Jenkins
+    GitLab CI/CD
+    CircleCI
+    Bamboo
+    SonarQube
+    Artifactory
+    PostgreSQL
+    MongoDB
+    SQL Server
+    Redis
+    Oracle DB
+    MySQL
+    Data Masking
+    ETL / Data Pipeline Testing
+    Data Migration Validation
+    Test Data Management (TDM)
+    HIPAA
+    PCI DSS
+    GDPR
+    FHIR
+    OAuth 2.0
+    JWT
+    Role-Based Access Control
+    OWASP Top 10
+    SAST / DAST
+    API & Web Security Testing
+    Data Encryption and Privacy Validation
+    ELK Stack (Elasticsearch, Logstash, Kibana)
+    Prometheus
+    Grafana
+    New Relic
+    Splunk
+    Datadog
+    CloudWatch
+    Dynatrace
+    Application Insights
+    Jira
+    TestRail
+    Zephyr
+    Xray
+    Confluence
+    Git
+    Bitbucket
+    Agile / Scrum
+    Continuous Quality Gates
+    Shift-Left Testing
+    API Contract Testing
+    TDD / BDD
+    Risk-Based Testing
+    Exploratory & Regression Testing
+
+    Education:
+    Bachelor’s Degree of Computer Science | Sep 2010 – Apr 2014
+    The University of Manchester | UK
+
+    
+    `
+  }, 
 ];
 
 export function getBaseResumeByName(name: string | null | undefined): string | null {

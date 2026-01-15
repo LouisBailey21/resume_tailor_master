@@ -1528,7 +1528,7 @@ Quinnipiac University | US
     Senior Software Engineer
     https://www.linkedin.com/in/filip-kowal-6086363a3/
     filip.kowal10@outlook.com
-    32-065 Czernichów, woj. małopolskie, Poland
+    32-065 Czernichow, woj. malopolskie, Poland
     
     Summary: 
     

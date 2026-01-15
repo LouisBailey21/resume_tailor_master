@@ -13,7 +13,7 @@ Senior Software Engineer
 Patrick Clark
 patrick.clark0205@outlook.com
 Senior Software Engineer
-+1 (409) 797 6318
++13253130928
 Tampa, FL 33602
 
 Summary:
@@ -447,14 +447,14 @@ Education:
 The University of Tokyo | Japan
     `
   },
-  { name: 'Venkat Mani (QA)',
+  { name: 'Timmy Lorenz',
     resumeText: `
 Senior Software Engineer
 
-Venkat Mani
-Senior QA Engineer
-manivenkat9120@outlook.com
-+1 346 214 1881
+Timmy Lorenz
+Senior Software Engineer
+timmy.le0510@outlook.com
++1 430 964 0645
 Tampa, Florida, USA
 
 Summary: 
@@ -467,7 +467,7 @@ through proactive defect prevention and rigorous testing methodologies.
 
 Professional Experience:
 
-Senior QA Engineer at American National Bank: 01/2023 - Current
+Senior Software Engineer at Hexagon: 05/2025 - Current
 •	Integrate AI/ML services into production workflows, deploying FastAPI-based microservices to power personalization and real-time analytics, reducing service latency by 33%. 
 •	Design and maintain queue-based architectures using Celery and Redis, orchestrating asynchronous processing pipelines and reducing processing time by 30%. 
 •	Lead the architecture of a modular CMS platform using Django and PostgreSQL, scaling to over 500K monthly users and improving publishing cycles by 62%. 
@@ -476,7 +476,7 @@ Senior QA Engineer at American National Bank: 01/2023 - Current
 •	Automate CI/CD pipelines with Docker, GitHub Actions, and Kubernetes, enabling zero-downtime updates and enhancing deployment efficiency. 
 •	Oversee ML pipeline lifecycle, from data wrangling to inference serving via FastAPI on AWS SageMaker, improving model deployment speed by 25%. 
 
-QA AUtomation Engineer/Software Engineer in Test at Aetna : 03/2020 – 09/2022
+Software Engineer IV at Apple : 06/2024 – 05/2025
 •	Architect scalable e-Learning and Content Management Systems using FastAPI and PostgreSQL, reducing manual coordination by 73%.
 •	Develop intelligent course recommendation features with scikit-learn, boosting learner engagement by 38%.
 •	Build ADA-compliant frontends using React.js and Tailwind CSS, enhancing accessibility scores and reducing bounce rates by 33%. 
@@ -484,7 +484,7 @@ QA AUtomation Engineer/Software Engineer in Test at Aetna : 03/2020 – 09/2022
 •	Design security-focused middleware layers in FastAPI, improving API error rates and traceability. 
 •	Refactor legacy Node.js systems into Python microservices, enhancing maintainability and reducing onboarding time by 45%. 
 
-Senior Quality Assurance Analyst at PNC : 01/2018 – 02/2020
+Software Engineer IV at Microsoft : 10/2021 – 06/2023
 •	Rebuild video analytics portals into Python and Laravel-based microservices, enabling scalable data ingestion and analysis. 
 •	Architect Learning Management Systems using Laravel and FastAPI, supporting adaptive assessments and real-time learning paths. 
 •	Develop scalable RESTful APIs using Laravel and FastAPI, supporting multi-tenant environments and SSO integration. 
@@ -495,7 +495,16 @@ Senior Quality Assurance Analyst at PNC : 01/2018 – 02/2020
 •	Engineer CI/CD pipelines with GitHub Actions and Azure DevOps, enabling zero-downtime releases on Kubernetes. 
 •	Integrate external platforms through OAuth2-secured APIs, ensuring seamless sync of institutional records.
 
-Quality Assurance Analyst at Synchrony : 09/2015 – 03/2017
+Software Engineer III at Boeing Defense : 11/2017 - 11/2021
+•Developed and maintained automated API, integration, and end-to-end test frameworks for mission-critical defense systems using Python (PyTest) and .NET, integrated into Jenkins CI/CD pipelines to support secure and reliable software delivery.
+•Designed automated test harnesses for cross-platform user interfaces (web and mobile clients) validating command-and-control workflows, system notifications, and operational scenarios across multiple environments.
+•Implemented real-time system validation for distributed and event-driven architectures using SignalR/WebSockets and Redis, ensuring stability, data integrity, and low-latency communication in continuous integration environments.
+•Collaborated closely with systems engineers and data science teams to validate machine learning model integrations, supporting decision-support and recommendation capabilities; automated A/B and statistical validation testing to verify model accuracy and operational impact.
+•Built and optimized Jenkins and GitLab CI pipelines for automated regression, smoke, and integration testing, reducing deployment verification cycles by 34% while meeting aerospace quality and compliance standards.
+•Planned and executed performance, stress, and load testing using JMeter and Locust, validating system scalability and throughput under peak operational and mission-load conditions.
+•Established test governance and compliance controls, including RBAC, encrypted test data handling, audit-ready reporting, and internationalization (i18n) testing, supporting secure, globally deployed defense platforms.
+
+Software Developer at ServiceNow : 12/2015 – 09/2017
 •	Tested the learning management and content delivery platform, ensuring scalability and reliability for over 1M active users.
 •	Built automated smoke and regression tests using Mocha, Jest, and Selenium integrated into GitLab pipelines.
 •	Validated real-time data synchronization features built on WebSockets for instant course progress updates and live sessions.
@@ -558,8 +567,8 @@ SQL Queries for Test Data
 
 
 Education:
-•Bachelor of Science, Computer Science (09/2009 – 03/2013)
-University of Tokyo | Japan
+•Bachelor of Science, Computer Science (2007 – 2011)
+University of Florida | US
     `
 
   },
@@ -841,7 +850,7 @@ Quinnipiac University | US
     Soumik Banerjee
     Senior Software Engineer
     soumik.banerjee3009@outlook.com
-    13462141881
+    14309640645
     Austin, TX 78757
     
     Summary: 
@@ -1304,13 +1313,13 @@ Quinnipiac University | US
     `
   }, 
     {
-    name: 'Jimmy Lee',
+    name: 'Jimmy Liang',
     resumeText: `Senior Software Engineer
 
-    Jimmy Lee
+    Jimmy Liang
     Senior Software Engineer
     jimmy.liang3003@outlook.com
-    14097976318
+    14233011901
     Apt 7C, New York, NY 10003
     
     Summary: 

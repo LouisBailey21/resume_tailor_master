@@ -1679,6 +1679,125 @@ Quinnipiac University | US
     
     `
   }, 
+  {
+    name: 'Mark Sanchez',
+    resumeText: `Senior Software Engineer
+
+    Mark Sanchez
+    Senior Software Engineer
+    639694726828
+    mark.devsanchez510@gmail.com
+    Naga City, Philippines
+    
+    Summary: 
+    
+    Senior Full Stack Engineer with 8+ years of experience delivering scalable, secure, and high-performance applications in fintech, SaaS, and telecom domains. 
+    Specialized in backend development with Node.js (Express, NestJS) and frontend development with React, Next.js, TypeScript, Angular, and Tailwind CSS. 
+    Skilled in database optimization, API design, microservices, cloud deployments (AWS, Vercel, Azure, Docker), CI/CD automation, and AI/agent tool integrations. 
+    Adept at driving end-to-end software solutions while mentoring teams and ensuring compliance with security and performance standards in Agile environments.
+
+    Professional Experience:
+    
+    Senior Software Engineer at Freee: 12/2024 - Current
+    •	Developed scalable backend services using NestJS to handle high-volume fintech transactions, implementing secure REST and GraphQL APIs with JWT-based authentication and role-based authorization.
+    •	Built and maintained Next.js + React dashboards with Tailwind CSS for responsive, accessible, and visually consistent interfaces, improving SEO and load performance by 40%.
+    •	Integrated Puppeteer and Playwright for automated financial reporting, testing workflows, and data scraping from third-party sources.
+    •	Developed modular Next.js API routes for server-side data fetching, enabling seamless integration with backend microservices and vector DB-based RAG systems for knowledge retrieval.
+    •	Optimized PostgreSQL and MSSQL schemas, implemented indexing, stored procedures, and query partitioning that reduced report generation times by 35%.
+    •	Automated CI/CD pipelines using Jenkins, Docker, AWS (EC2, S3, RDS, Lambda) and Vercel, enabling zero-downtime deployments and rapid iteration.
+    •	Conducted security and performance audits, API benchmarking, and real-time monitoring, ensuring SOC2 compliance and high system reliability.
+    •	Authored technical documentation, UML diagrams, and API specifications, aligning engineering deliverables with architectural standards and cross-functional team requirements.
+
+
+    Software Engineer IV at Virtusa: 03/2022 - 09/2024
+    •	Built microservices using Node.js (Express/NestJS) for SaaS telemedicine platforms, implementing modular REST and GraphQL APIs, Redis caching, and event-driven messaging with RabbitMQ.
+    •	Developed React.js and Angular dashboards with TypeScript, integrating real-time notifications, file uploads, and AI-powered insights for patient and workflow management.
+    •	Designed and maintained PostgreSQL/MySQL schemas, implemented query optimization, caching strategies, and Redis for high-speed data retrieval.
+    •	Implemented LangChain and LlamaIndex for agent-based workflows and multimodal AI integration, enabling intelligent recommendations and automated content processing.
+    •	Integrated third-party APIs, payment gateways, and monitoring tools (Datadog, Kibana, Azure Monitor) to ensure resilient and fault-tolerant services.
+    •	Conducted automated testing with Jest, Cypress, and CI/CD pipeline integration on Azure DevOps, ensuring high-quality releases and minimal production bugs.
+
+
+    Software Engineer III at Campfire: 02/2020 - 01/2022
+    •	Developed and deployed Node.js backend services with Express, designing modular REST APIs and ensuring system reliability for SaaS and telecom workloads.
+    •	Built and maintained React.js and Angular frontends with TypeScript, integrating seamlessly with backend APIs and enabling real-time customer-facing dashboards.
+    •	Implemented state management using Redux Toolkit for large-scale applications, improving performance, maintainability, and predictable data flow across complex UIs.
+    •	Styled and structured modern interfaces using Tailwind CSS, enabling rapid prototyping, consistent design systems, and pixel-perfect responsiveness across devices.
+    •	Implemented API security practices including OAuth2, JWT authentication, input validation, and rate limiting to protect systems from malicious requests.
+    •	Performed integration and automated regression testing with Jest and Cypress, improving software stability and reducing manual QA overhead.
+
+
+    Software Engineer II at Adeva: 04/2017 - 02/2020
+    •	Contributed to backend services with Express.js and gradually migrated legacy services from Java to a modern TypeScript stack.
+    •	Developed React.js components and integrated APIs to build e-commerce features such as shopping carts, product listings, and user profiles.
+    •	Implemented SQL query optimizations and caching strategies that reduced data retrieval times and improved platform scalability.
+    •	Participated in QA and UAT cycles by writing unit tests in Jest and assisting in debugging production issues.
+    •	Deployed microservices to AWS EC2 instances and maintained distributed services with Apache Tomcat and Nginx.
+
+    Skills:
+    
+    Node.js (Express, NestJS),
+    REST/GraphQL APIs,
+    Microservices,
+    gRPC,
+    Authentication/Authorization,
+    API Gateway,
+    Redis caching,
+    Puppeteer,
+    Playwright,
+    React.js,
+    Next.js,
+    TypeScript,
+    Angular,
+    Tailwind CSS,
+    JavaScript (ES6+),
+    HTML5,
+    CSS3,
+    Responsive UI,
+    UI/UX optimization,
+    PostgreSQL,
+    MySQL,
+    MongoDB,
+    MSSQL,
+    Oracle DB,
+    Redis,
+    vector DB,
+    schema design,
+    indexing,
+    query optimization,
+    stored procedures,
+    AWS (EC2, S3, RDS, Lambda, CloudFront, API Gateway),
+    Vercel,
+    Docker,
+    Jenkins,
+    Git/GitFlow,
+    CI/CD pipelines,
+    Nginx,
+    Jest,
+    Mocha/Chai,
+    Cypress,
+    Postman/Newman,
+    JUnit,
+    load/performance testing,
+    vulnerability scanning,
+    LangChain,
+    LlamaIndex,
+    RAG systems,
+    multimodal AI integrations,
+    Agile/Scrum,
+    UAT participation,
+    code reviews,
+    mentoring,
+    technical documentation,
+    ISO/SOC2 compliance
+
+    Education:
+    Bachelor’s Degree of Computer Science | Sep 2013 – Mar 2017
+    Kyoto University | Japan
+
+    
+    `
+  }, 
 ];
 
 export function getBaseResumeByName(name: string | null | undefined): string | null {

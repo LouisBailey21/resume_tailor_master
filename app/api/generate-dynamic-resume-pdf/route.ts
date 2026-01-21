@@ -30,7 +30,7 @@ SYSTEM INSTRUCTION: Make the resume align as closely as possible with the Job De
 
 Your main objectives:
 1. Maximize keyword/skills and responsibilities match between the resume and the job description (JD). Use the exact relevant technology, tool, process, or methodology names from the JD wherever accurate.
-  1a. Consider keyword proximity — ensure core skill terms appear near related action verbs and quantifiable results to improve semantic ATS scoring.
+  1a. Consider keyword proximity - ensure core skill terms appear near related action verbs and quantifiable results to improve semantic ATS scoring.
   1b. Cross-link skills (e.g., “React with TypeScript,” “AWS Lambda for automation”) to simulate real project context and improve weighted keyword grouping.
 2. Preserve all original company names, job titles, and periods/dates in the Professional Experience section.
 3. In each Experience/job entry, produce 6–8 bullets (one sentence per bullet), each a concise storytelling sentence (challenge → action → result). This is a hard requirement: NEVER fewer than 6 bullets per role. Prefer 7–8 bullets for the two most recent roles. Aggressively update, rewrite, or ADD new bullets so they reflect the actual duties, skills, or stacks requested in the JD, especially prioritizing skills, tools, or requirements from the current and most recent positions. If the source role has fewer bullets, CREATE additional realistic, JD-aligned bullets.
@@ -42,9 +42,29 @@ Include explicit database-related experience in the Professional Experience sect
 8. CRITICAL SKILLS SECTION: Create an EXCEPTIONALLY RICH, DENSE, and COMPREHENSIVE Skills section. Extract and list EVERY technology, tool, framework, library, service, and methodology from BOTH the JD AND candidate's experience. Make it so comprehensive it dominates keyword matching.
   8a. Include ecosystems even if not explicitly in the JD but common to that tech stack (e.g., REST, GraphQL, CI/CD).
   8b. Avoid duplicates but prioritize variety (e.g., list both “Docker” and “Containerization”).
-  8c. List them in STRUCTURE, Order skill groups by the JD’s emphasis (frontend-first, backend-first, etc.).
+  8c. Group all skills under 7–10 CUSTOMIZED CATEGORY HEADERS reflecting the stacks, technologies, and priorities in the supplied Job Description (JD), and PREFIX EACH CATEGORY HEADER WITH a middle dot bullet (“-”) on its own line. Example:
+- Backend: Python, Node.js, FastAPI, Flask
+- Cloud & DevOps: AWS, Docker, Kubernetes
+(etc.)
 
-9. Preserve all original quantified metrics (numbers, percentages, etc.) and actively introduce additional quantification in new or reworded bullets wherever possible. Use measurable outcomes, frequency, scope, or scale to increase the impact of each responsibility or accomplishment. Strive for at least 75% of all Experience bullet points to include a number, percentage, range, or scale to strengthen ATS, recruiter, and hiring manager perception.
+- Derive each header directly from the major themes, tools, or emphasis from the JD.
+- Under each header, provide a comma-separated list (no sub-bullets or blank lines in between).
+- Do NOT use markdown headings or bold. Do NOT use bullet points for the comma-separated skills, only for the header.
+- Skills must not be listed outside these categories, and no category should be missing a “- Header:” line.
+- Always output categories in order of their prominence in the JD.
+
+--- Example Output ---
+Skills:
+
+- Machine Learning: scikit-learn, TensorFlow, PyTorch, XGBoost, MLflow
+- Cloud & DevOps: AWS, Google Cloud, Kubernetes, Docker, Terraform
+- Backend: Python, FastAPI, Node.js, Flask, Express
+- Frontend: React, TypeScript, Next.js, Zustand, TailwindCSS
+- Security: OAuth 2.0, JWT, penetration testing
+-----------------------
+(If a required category in the JD is missing from the candidate’s background, still include the header with “Familiarity only” or “Learning” as appropriate.)
+
+ 9. Preserve all original quantified metrics (numbers, percentages, etc.) and actively introduce additional quantification in new or reworded bullets wherever possible. Use measurable outcomes, frequency, scope, or scale to increase the impact of each responsibility or accomplishment. Strive for at least 75% of all Experience bullet points to include a number, percentage, range, or scale to strengthen ATS, recruiter, and hiring manager perception.
 10. Strictly maximize verb variety: No action verb (e.g., developed, led, built, designed, implemented, improved, created, managed, engineered, delivered, optimized, automated, collaborated, mentored) may appear more than twice in the entire document, and never in adjacent or back-to-back bullet points within or across jobs. Each bullet must start with a unique, action-oriented verb whenever possible.
 11. In all Experience bullets, prefer keywords and phrasing directly from the JD where it truthfully reflects the candidate's background and would boost ATS/recruiter relevance.
 12. Distribute JD-aligned technologies logically across roles.
@@ -74,7 +94,7 @@ ANTI-DETECTION / HUMANIZATION RULES:
 
 - Vary phrasing styles slightly between sections (avoid repeating identical phrases like “Worked on” or “Responsible for”).
 - Introduce occasional stylistic imperfections (e.g., omitting articles naturally, slight tense mix in long experiences).
-- Maintain professional but conversational tone — like a senior engineer writing their own resume.
+- Maintain professional but conversational tone - like a senior engineer writing their own resume.
 - Include subtle domain context or role-specific anecdotes (e.g., “Collaborated with cross-functional teams in agile sprints to refine UI consistency”).
 - Ensure vocabulary is domain-accurate but not overly mechanical or statistically “flat”.
 - Occasionally use idiomatic phrasing natural to human tech resumes (“hands-on with,” “closely worked with,” “played key role in…”).
@@ -108,7 +128,7 @@ function formatDate(dateStr: string): string {
         return `${monthNames[monthIndex]} ${year}`;
       }
       return part; // Return as-is if not in MM/YYYY format
-    }).join(' – ');
+    }).join(' - ');
   } else if (dateStr.match(/^\d{2}\/\d{4}$/)) {
     // Single date in MM/YYYY format
     const [month, year] = dateStr.split('/');
@@ -224,7 +244,7 @@ async function generateResumePdf(resumeText: string): Promise<Uint8Array> {
   ].filter(Boolean);
 
   if (contactParts.length > 0) {
-    const contactLine = contactParts.join(' • ');
+    const contactLine = contactParts.join(' - ');
     const contactLines = wrapText(contactLine, font, CONTACT_SIZE, CONTENT_WIDTH);
     for (const line of contactLines) {
       page.drawText(line, { x: left, y, size: CONTACT_SIZE, font, color: LIGHT_GRAY });

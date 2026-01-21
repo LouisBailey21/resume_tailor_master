@@ -1727,7 +1727,7 @@ Quinnipiac University | US
     •	Performed integration and automated regression testing with Jest and Cypress, improving software stability and reducing manual QA overhead.
 
 
-    Software Engineer II at Adeva: 04/2017 - 02/2020
+    Software Engineer II at Mercari: 04/2017 - 02/2020
     •	Contributed to backend services with Express.js and gradually migrated legacy services from Java to a modern TypeScript stack.
     •	Developed React.js components and integrated APIs to build e-commerce features such as shopping carts, product listings, and user profiles.
     •	Implemented SQL query optimizations and caching strategies that reduced data retrieval times and improved platform scalability.

@@ -459,7 +459,7 @@ Tampa, Florida, USA
 
 Summary: 
 
-Senior QA Engineer with 10+ years of experience ensuring the reliability, performance, and compliance of complex enterprise systems 
+Senior Software Engineer with 10+ years of experience ensuring the reliability, performance, and compliance of complex enterprise systems 
 across healthcare, finance, SaaS, manufacturing, IoT, and eCommerce domains. Expert in test automation, continuous testing, and data-driven quality analytics 
 within Agile and DevOps environments. Skilled at designing robust QA frameworks, defining quality strategy, and integrating automated tests 
 in CI/CD pipelines across AWS, Azure, and Kubernetes environments. Proven record of improving product stability, reducing release times, and enhancing user experience 

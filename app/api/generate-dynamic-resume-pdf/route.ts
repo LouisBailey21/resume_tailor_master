@@ -42,25 +42,26 @@ Include explicit database-related experience in the Professional Experience sect
 8. CRITICAL SKILLS SECTION: Create an EXCEPTIONALLY RICH, DENSE, and COMPREHENSIVE Skills section. Extract and list EVERY technology, tool, framework, library, service, and methodology from BOTH the JD AND candidate's experience. Make it so comprehensive it dominates keyword matching.
   8a. Include ecosystems even if not explicitly in the JD but common to that tech stack (e.g., REST, GraphQL, CI/CD).
   8b. Avoid duplicates but prioritize variety (e.g., list both “Docker” and “Containerization”).
-  8c. Group all skills under 7–10 CUSTOMIZED CATEGORY HEADERS reflecting the stacks, technologies, and priorities in the supplied Job Description (JD), and PREFIX EACH CATEGORY HEADER WITH a middle dot bullet (“-”) on its own line. Example:
-- Backend: Python, Node.js, FastAPI, Flask
-- Cloud & DevOps: AWS, Docker, Kubernetes
+  8c. Group all skills under 7–10 CUSTOMIZED CATEGORY HEADERS reflecting the stacks, technologies, and priorities in the supplied Job Description (JD), and PREFIX EACH CATEGORY HEADER WITH a bullet ("•") on its own line. Example:
+• Backend: Python, Node.js, FastAPI, Flask
+• Cloud & DevOps: AWS, Docker, Kubernetes
 (etc.)
 
-- Derive each header directly from the major themes, tools, or emphasis from the JD.
-- Under each header, provide a comma-separated list (no sub-bullets or blank lines in between).
-- Do NOT use markdown headings or bold. Do NOT use bullet points for the comma-separated skills, only for the header.
-- Skills must not be listed outside these categories, and no category should be missing a “- Header:” line.
-- Always output categories in order of their prominence in the JD.
+Important guidelines:
+• Derive each header directly from the major themes, tools, or emphasis from the JD.
+• Under each header, provide a comma-separated list (no sub-bullets or blank lines in between).
+• Do NOT use markdown headings or bold. Do NOT use bullet points for the comma-separated skills, only for the header.
+• Skills must not be listed outside these categories, and no category should be missing a "• Header:" line.
+• Always output categories in order of their prominence in the JD.
 
 --- Example Output ---
 Skills:
 
-- Machine Learning: scikit-learn, TensorFlow, PyTorch, XGBoost, MLflow
-- Cloud & DevOps: AWS, Google Cloud, Kubernetes, Docker, Terraform
-- Backend: Python, FastAPI, Node.js, Flask, Express
-- Frontend: React, TypeScript, Next.js, Zustand, TailwindCSS
-- Security: OAuth 2.0, JWT, penetration testing
+• Machine Learning: scikit-learn, TensorFlow, PyTorch, XGBoost, MLflow
+• Cloud & DevOps: AWS, Google Cloud, Kubernetes, Docker, Terraform
+• Backend: Python, FastAPI, Node.js, Flask, Express
+• Frontend: React, TypeScript, Next.js, Zustand, TailwindCSS
+• Security: OAuth 2.0, JWT, penetration testing
 -----------------------
 (If a required category in the JD is missing from the candidate’s background, still include the header with “Familiarity only” or “Learning” as appropriate.)
 
@@ -80,7 +81,7 @@ Skills:
 - Use concise storytelling bullets (challenge → action → result) rather than task lists.
 - Prefer non-rounded percentages when plausible (e.g., 33%, 47%, 92%) to convey precision.
 - Prioritize impact, metrics, and results over generic responsibilities in every bullet.
-17. Ensure each experience and skills section has "-" at first bullet point.
+17. Ensure each experience and skills section has "•" at first bullet point.
 
 Here is the base resume:
 
@@ -184,6 +185,28 @@ function drawTextWithBold(
   }
 }
 
+// Helper to draw justified text
+function drawJustifiedText(page: any, text: string, x: number, y: number, font: any, size: number, color: any, maxWidth: number) {
+  const words = text.trim().split(' ');
+  if (words.length <= 1) {
+    page.drawText(text, { x, y, size, font, color });
+    return;
+  }
+  const totalTextWidth = font.widthOfTextAtSize(words.join(' '), size);
+  const numSpaces = words.length - 1;
+  const remaining = maxWidth - totalTextWidth;
+  const spaceWidth = font.widthOfTextAtSize(' ', size);
+  const extraSpace = remaining > 0 ? remaining / numSpaces : 0;
+  let offsetX = x;
+  for (let i = 0; i < words.length; i++) {
+    page.drawText(words[i], { x: offsetX, y, size, font, color });
+    offsetX += font.widthOfTextAtSize(words[i], size);
+    if (i < words.length - 1) {
+      offsetX += spaceWidth + extraSpace;
+    }
+  }
+}
+
 // PDF generation function
 async function generateResumePdf(resumeText: string): Promise<Uint8Array> {
   const { name, email, phone, location, linkedin, body } = parseResume(resumeText);
@@ -191,6 +214,7 @@ async function generateResumePdf(resumeText: string): Promise<Uint8Array> {
   let page = pdfDoc.addPage([595, 842]); // A4
   const font = await pdfDoc.embedFont(StandardFonts.Helvetica);
   const fontBold = await pdfDoc.embedFont(StandardFonts.HelveticaBold);
+  const fontItalic = await pdfDoc.embedFont(StandardFonts.HelveticaOblique);
 
   // Color scheme - grayscale only
   const BLACK = rgb(0, 0, 0);
@@ -267,14 +291,16 @@ async function generateResumePdf(resumeText: string): Promise<Uint8Array> {
   let inSkillsSection = false;
   const skills: string[] = [];
   for (let i = 0; i < bodyLines.length; i++) {
-    const line = bodyLines[i].trim();
+    let line = bodyLines[i].trim();
     if (!line) {
       y -= 6; // Reduced gap between paragraphs for ATS
       continue;
     }
     if (line.endsWith(':')) {
       y -= 12; // Increased gap before section header for better separation
-      const sectionLines = wrapText(line, fontBold, SECTION_HEADER_SIZE, CONTENT_WIDTH);
+      // Remove the colon from section headers
+      const headerText = line.slice(0, -1);
+      const sectionLines = wrapText(headerText, fontBold, SECTION_HEADER_SIZE, CONTENT_WIDTH);
       for (const sectionLine of sectionLines) {
         page.drawText(sectionLine, { x: left, y, size: SECTION_HEADER_SIZE, font: fontBold, color: DARK_GRAY });
         y -= SECTION_LINE_HEIGHT;
@@ -282,6 +308,21 @@ async function generateResumePdf(resumeText: string): Promise<Uint8Array> {
           page = pdfDoc.addPage([PAGE_WIDTH, PAGE_HEIGHT]);
           y = PAGE_HEIGHT - MARGIN_TOP;
         }
+      }
+      // Draw horizontal line after certain sections
+      const normalizedHeader = line.toLowerCase();
+      if (
+        normalizedHeader.startsWith('skills:') ||
+        normalizedHeader.startsWith('professional experience:') ||
+        normalizedHeader.startsWith('education:')
+      ) {
+        page.drawLine({
+          start: { x: left, y: y + 3 },
+          end: { x: right, y: y + 3 },
+          thickness: 1.2,
+          color: DARK_GRAY
+        });
+        y -= 8;
       }
       // Detect start of Skills section
       if (line.toLowerCase() === 'skills:') {
@@ -299,33 +340,37 @@ async function generateResumePdf(resumeText: string): Promise<Uint8Array> {
 
           y -= 8; // Extra gap before job entry
 
-          // Job Title (bold, blue)
-          const titleLines = wrapText(jobTitle.trim(), fontBold, BODY_SIZE + 1, CONTENT_WIDTH - 10);
+          // Job Title (bold, large, nearly black)
+          const titleLines = wrapText(jobTitle.trim(), fontBold, BODY_SIZE + 3, CONTENT_WIDTH - 10);
           for (const titleLine of titleLines) {
-            page.drawText(titleLine, { x: left + 10, y, size: BODY_SIZE + 1, font: fontBold, color: MEDIUM_GRAY });
-            y -= BODY_LINE_HEIGHT + 2;
+            page.drawText(titleLine, {
+              x: left + 10, y, size: BODY_SIZE + 3, font: fontBold, color: rgb(0.10, 0.10, 0.10)
+            });
+            y -= (BODY_SIZE + 3) * 1.1;
             if (y < MARGIN_BOTTOM) {
               page = pdfDoc.addPage([PAGE_WIDTH, PAGE_HEIGHT]);
               y = PAGE_HEIGHT - MARGIN_TOP;
             }
           }
 
-          // Company Name (italic, gray)
-          const companyLines = wrapText(companyName.trim(), font, BODY_SIZE, CONTENT_WIDTH - 10);
+          // Company Name (italic, black)
+          const companyLines = wrapText(companyName.trim(), fontItalic, BODY_SIZE, CONTENT_WIDTH - 10);
           for (const companyLine of companyLines) {
-            page.drawText(companyLine, { x: left + 10, y, size: BODY_SIZE, font, color: GRAY });
-            y -= BODY_LINE_HEIGHT;
+            page.drawText(companyLine, {
+              x: left + 10, y, size: BODY_SIZE, font: fontItalic, color: BLACK
+            });
+            y -= BODY_SIZE * 1.05;
             if (y < MARGIN_BOTTOM) {
               page = pdfDoc.addPage([PAGE_WIDTH, PAGE_HEIGHT]);
               y = PAGE_HEIGHT - MARGIN_TOP;
             }
           }
 
-          // Period (formatted and styled)
+          // Period (italic, black)
           const formattedPeriod = formatDate(period.trim());
-          const periodLines = wrapText(formattedPeriod, font, BODY_SIZE - 1, CONTENT_WIDTH - 10);
+          const periodLines = wrapText(formattedPeriod, fontItalic, BODY_SIZE - 1, CONTENT_WIDTH - 10);
           for (const periodLine of periodLines) {
-            page.drawText(periodLine, { x: left + 10, y, size: BODY_SIZE - 1, font, color: GRAY });
+            page.drawText(periodLine, { x: left + 10, y, size: BODY_SIZE - 1, font: fontItalic, color: BLACK });
             y -= BODY_LINE_HEIGHT - 2;
             if (y < MARGIN_BOTTOM) {
               page = pdfDoc.addPage([PAGE_WIDTH, PAGE_HEIGHT]);

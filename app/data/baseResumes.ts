@@ -1680,6 +1680,129 @@ Quinnipiac University | US
     `
   }, 
   {
+    name: 'Adam Kaczmarek',
+    resumeText: `
+Senior Software Engineer
+
+Adam Kaczmarek
+kaczmarek.adam0206@outlook.com
+Senior Software Engineer
++48 501 214 270
+Krakow, Malopolskie, Poland
+
+Summary:
+
+Senior AI/ML Specialist with 8+ years of experience designing and deploying AI-powered applications in production environments. 
+Strong background in LLMs, generative AI, computer vision, recommendation systems, and real-time ML pipelines, 
+with hands-on experience using frameworks like PyTorch, TensorFlow, LangChain, and vector databases. Proven at integrating AI models into scalable cloud-native systems on Azure and AWS, 
+with solid MLOps practices, security, and compliance. Experienced in turning complex ML capabilities into reliable, user-facing products that deliver measurable business impact.
+
+Professional Experience:
+
+Senior Software Engineer at Anthropic: 11/2024 - Current
+•	Engineered full-stack applications with React.js + Node.js, integrated with Azure Functions and Cosmos DB, enabling scalable multi-tenant solutions and reducing response time by 30%.
+•	Built image recognition pipelines using Cloudsight API + TensorFlow, automating media tagging and content validation, improving processing efficiency by 35%.
+•	Developed RESTful and GraphQL APIs integrated with Azure App Services, ensuring secure and low-latency data access for web and mobile clients.
+•	Automated CI/CD pipelines using Azure DevOps + GitHub Actions, reducing deployment errors and accelerating release cycles by 25%.
+•	Designed dynamic dashboards and responsive UIs with React.js + Tailwind CSS, increasing end-user engagement and usability scores by 20%.
+•	Implemented RBAC security and HIPAA-compliant data handling across Azure-hosted services, ensuring regulatory compliance for sensitive information.
+•	Evaluated and integrated third-party APIs (Granicus-style) for workflow automation, improving task efficiency for internal teams by 15%.
+•	Orchestrated microservices with Azure Kubernetes Service (AKS) and Event Hubs, optimizing real-time communication and event-driven processing across the platform.
+
+Software Engineer IV at DataRobot: 06/2023 – 07/2024
+•	Developed full-stack applications with React.js + Node.js and deployed on Azure App Services, enhancing platform scalability and reducing downtime by 20%.
+•	Built AI-powered recommendation engines using PyTorch + Azure Event Hubs, enabling real-time pet sitter matching and increasing booking accuracy by 19%.
+•	Integrated Cloudsight API for real-time image recognition, automating activity and anomaly detection in mobile apps, improving monitoring efficiency by 30%.
+•	Implemented RESTful APIs for secure communication between web/mobile clients and Azure-hosted backend services, reducing API latency by 25%.
+•	Deployed CI/CD pipelines with Azure DevOps + Kubernetes, enabling automated testing and seamless production deployments.
+•	Created dynamic dashboards and responsive UI components, improving user interaction and app engagement by 22%.
+•	Embedded JWT-based authentication and RBAC in APIs, ensuring secure access control for multi-tenant environments.
+•	Optimized Azure-hosted microservices for event-driven processing and real-time notifications, reducing system lag and improving end-user responsiveness.
+
+Software Engineer III at DataRobot : 07/2020 – 06/2023
+•	Built fraud detection systems combining deep learning classifiers + ensemble ML, reducing fraudulent transactions by 29% across retail POS and e-commerce platforms.
+•	Designed LLM-driven product catalog parsing (OCR + GPT models) for automated SKU classification, pricing updates, and inventory tagging.
+•	Partnered with merchandising and finance teams to deploy demand forecasting and inventory optimization models in AWS SageMaker, improving stock management for millions of products.
+•	Built real-time sales and promotion alert systems with Kafka + TensorFlow Serving for proactive inventory restocking and dynamic pricing strategies.
+•	Migrated retail ML workloads to cloud-native Kubernetes clusters, improving scalability, high availability, and disaster recovery for peak shopping seasons.
+•	Optimized databases (Postgres, MongoDB) with AI-assisted query planners to accelerate transaction, inventory, and customer behavior lookups.
+•	Built personalized product recommendation systems using TensorFlow + embeddings, enhancing cross-selling and upselling across web and mobile platforms.
+•	Implemented AI-driven anomaly detection for point-of-sale and e-commerce transactions to flag pricing errors, stock discrepancies, and fraudulent activity before impacting operations.
+
+Software Developer at Augment : 03/2017 – 01/2020
+•	Designed demand forecasting models with Prophet + TensorFlow, integrated into a Python (FastAPI) microservice for real-time retail planning.
+•	Built transaction fraud detection APIs using Django REST Framework + ensemble ML classifiers, reducing fraudulent activity by 17%.
+•	Developed Node.js (Express) services to handle order workflows, integrated with AI-enhanced recommendation APIs for personalized product suggestions.
+•	Engineered real-time inventory sync APIs in FastAPI, boosting system responsiveness during seasonal peaks.
+•	Deployed microservices with AI-based predictive caching across Django + Node.js backends, improving page load speed by 22%.
+•	Leveraged NLP models (Python + spaCy) to analyze customer reviews, integrated with Django dashboards to guide restocking.
+•	Migrated legacy services to a Python/Node.js hybrid microservices stack on AWS (EC2, S3, RDS), improving scalability and fault tolerance.
+•	Automated CI/CD pipelines for Python/Node projects with Jenkins and GitLab CI, embedding unit tests and ML model validation.
+
+Skills:
+
+LLMs (GPT, Claude, LLaMA)
+LangChain
+Hugging Face Transformers
+RAG
+Vector Databases (Pinecone, Weaviate, FAISS)
+PyTorch
+TensorFlow
+Scikit-learn
+OpenCV
+YOLO
+NLP
+CV
+Recommendation Engines
+MLflow
+Kubeflow
+Weights & Biases
+DVC
+Databricks
+Spark
+Kafka
+Airflow
+Docker
+Kubernetes
+Terraform
+AWS SageMaker
+Bedrock
+Azure ML
+GCP Vertex AI
+Anthropic API
+OpenAI API
+Python (FastAPI, Flask, Django)
+Node.js (Express, Nest)
+C#
+ASP.NET Core
+React.js
+React Native
+TypeScript
+PostgreSQL
+MongoDB
+Redis
+Snowflake
+BigQuery
+Vector DBs
+HIPAA
+PCI DSS
+GDPR
+CCPA
+Differential Privacy
+Federated Learning Security
+ELK Stack
+Prometheus
+Grafana
+PyTest
+Postman
+Cypress
+
+Education:
+•Bachelor of Science, Computer Science (9/2012 – 05/2016)
+FPT University | Vietnam
+    `
+  },
+  {
     name: 'Mark Sanchez',
     resumeText: `Senior Software Engineer
 

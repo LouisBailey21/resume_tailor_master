@@ -1922,14 +1922,14 @@ FPT University | Vietnam
     `
   }, 
   {
-    name: 'Mark Sanchez',
+    name: 'Zhenyu Wang',
     resumeText: `Senior Software Engineer
 
-    Mark Sanchez
+    Zhenyu Wang
     Senior Software Engineer
-    639694726828
-    mark.devsanchez510@gmail.com
-    Naga City, Philippines
+    60123256383
+    zhenyu.wang950915@gmail.com
+    Ipoh, 31400 Perak, Malaysia
     
     Summary: 
     
@@ -1940,7 +1940,7 @@ FPT University | Vietnam
 
     Professional Experience:
     
-    Senior Software Engineer at Freee: 12/2024 - Current
+    Senior Software Engineer at Softspace: 2/2022 - Current
     •	Developed scalable backend services using NestJS to handle high-volume fintech transactions, implementing secure REST and GraphQL APIs with JWT-based authentication and role-based authorization.
     •	Built and maintained Next.js + React dashboards with Tailwind CSS for responsive, accessible, and visually consistent interfaces, improving SEO and load performance by 40%.
     •	Integrated Puppeteer and Playwright for automated financial reporting, testing workflows, and data scraping from third-party sources.
@@ -1951,7 +1951,7 @@ FPT University | Vietnam
     •	Authored technical documentation, UML diagrams, and API specifications, aligning engineering deliverables with architectural standards and cross-functional team requirements.
 
 
-    Software Engineer IV at Virtusa: 03/2022 - 09/2024
+    Software Engineer IV at Virtusa: 02/2020 - 04/2022
     •	Built microservices using Node.js (Express/NestJS) for SaaS telemedicine platforms, implementing modular REST and GraphQL APIs, Redis caching, and event-driven messaging with RabbitMQ.
     •	Developed React.js and Angular dashboards with TypeScript, integrating real-time notifications, file uploads, and AI-powered insights for patient and workflow management.
     •	Designed and maintained PostgreSQL/MySQL schemas, implemented query optimization, caching strategies, and Redis for high-speed data retrieval.
@@ -1960,7 +1960,7 @@ FPT University | Vietnam
     •	Conducted automated testing with Jest, Cypress, and CI/CD pipeline integration on Azure DevOps, ensuring high-quality releases and minimal production bugs.
 
 
-    Software Engineer III at Campfire: 02/2020 - 01/2022
+    Software Engineer III at Campfire: 11/2018 - 02/2020
     •	Developed and deployed Node.js backend services with Express, designing modular REST APIs and ensuring system reliability for SaaS and telecom workloads.
     •	Built and maintained React.js and Angular frontends with TypeScript, integrating seamlessly with backend APIs and enabling real-time customer-facing dashboards.
     •	Implemented state management using Redux Toolkit for large-scale applications, improving performance, maintainability, and predictable data flow across complex UIs.
@@ -1969,7 +1969,7 @@ FPT University | Vietnam
     •	Performed integration and automated regression testing with Jest and Cypress, improving software stability and reducing manual QA overhead.
 
 
-    Software Engineer II at Mercari: 04/2017 - 02/2020
+    Software Engineer II at Mercari: 10/2016 - 10/2018
     •	Contributed to backend services with Express.js and gradually migrated legacy services from Java to a modern TypeScript stack.
     •	Developed React.js components and integrated APIs to build e-commerce features such as shopping carts, product listings, and user profiles.
     •	Implemented SQL query optimizations and caching strategies that reduced data retrieval times and improved platform scalability.

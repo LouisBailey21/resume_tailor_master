@@ -1736,9 +1736,133 @@ Software Developer at ScienceSoft : 04/2017 – 11/2019
 •	Developed Node.js (Express) services to handle order workflows, integrated with AI-enhanced recommendation APIs for personalized product suggestions.
 •	Engineered real-time inventory sync APIs in FastAPI, boosting system responsiveness during seasonal peaks.
 •	Deployed microservices with AI-based predictive caching across Django + Node.js backends, improving page load speed by 22%.
-•	Leveraged NLP models (Python + spaCy) to analyze customer reviews, integrated with Django dashboards to guide restocking.
-•	Migrated legacy services to a Python/Node.js hybrid microservices stack on AWS (EC2, S3, RDS), improving scalability and fault tolerance.
-•	Automated CI/CD pipelines for Python/Node projects with Jenkins and GitLab CI, embedding unit tests and ML model validation.
+
+Skills:
+
+LLMs (GPT, Claude, LLaMA)
+LangChain
+Hugging Face Transformers
+RAG
+Vector Databases (Pinecone, Weaviate, FAISS)
+PyTorch
+TensorFlow
+Scikit-learn
+OpenCV
+YOLO
+NLP
+CV
+Recommendation Engines
+MLflow
+Kubeflow
+Weights & Biases
+DVC
+Databricks
+Spark
+Kafka
+Airflow
+Docker
+Kubernetes
+Terraform
+AWS SageMaker
+Bedrock
+Azure ML
+GCP Vertex AI
+Anthropic API
+OpenAI API
+Python (FastAPI, Flask, Django)
+Node.js (Express, Nest)
+C#
+ASP.NET Core
+React.js
+React Native
+TypeScript
+PostgreSQL
+MongoDB
+Redis
+Snowflake
+BigQuery
+Vector DBs
+HIPAA
+PCI DSS
+GDPR
+CCPA
+Differential Privacy
+Federated Learning Security
+ELK Stack
+Prometheus
+Grafana
+PyTest
+Postman
+Cypress
+
+Education:
+•Bachelor's Degree, Computer Science (10/2013 – 03/2017)
+Collegium Humanum – Warsaw Management University | Poland
+    `
+  },
+  {
+    name: 'Sisu Korhonen',
+    resumeText: `
+
+Senior Software Engineer
+
+Sisu Korhonen
+stackloop.dev3915@outlook.com
+Senior Software Engineer
++358 42 932 2634
+Vantaa, Uusimaa, Finland
+
+Summary:
+
+Senior AI/ML Specialist with 8+ years of experience designing and deploying AI-powered applications in production environments. 
+Strong background in LLMs, generative AI, computer vision, recommendation systems, and real-time ML pipelines, 
+with hands-on experience using frameworks like PyTorch, TensorFlow, LangChain, and vector databases. Proven at integrating AI models into scalable cloud-native systems on Azure and AWS, 
+with solid MLOps practices, security, and compliance. Experienced in turning complex ML capabilities into reliable, user-facing products that deliver measurable business impact.
+
+Professional Experience:
+
+Senior Software Engineer at Planmeca: 04/2025 - Current
+•	Developed LLM-based services using Hugging Face Transformers to extract and summarize unstructured medical records, improving triage efficiency by over 45%.
+•	Engineered FastAPI-based microservices to deliver real-time AI predictions directly into clinical dashboards, reducing response latency to under 100ms.
+•	Developed RESTful and GraphQL APIs integrated with Azure App Services, ensuring secure and low-latency data access for web and mobile clients.
+•	Automated end-to-end AI inference workflows using AWS Lambda, Step Functions, and EventBridge, increasing system scalability and fault tolerance.
+•	Maintained high code quality through comprehensive unit and integration testing with PyTest, including mocked S3 and database services for CI pipelines.
+•	Designed Terraform infrastructure-as-code scripts to provision API gateways, ECS containers, S3 buckets, and DynamoDB tables.
+•	Integrated Elasticsearch for searchable logs, patient metadata, and real-time event tracing, improving monitoring and debugging processes.
+•	Ensured HIPAA compliance by implementing secure authentication protocols using OAuth2 and JWT, along with fine-grained RBAC across all services.
+
+Software Engineer at DataRobot: 01/2021 – 03/2022
+•	Collaborated with backend and AI teams to support LLM-powered data visualization and secure secrets access flows
+•	Developed high-impact UIs and dashboards enabling users to monitor AI/ML model performance, detect drift, and manage model retraining using React.js and Python-based microservices.
+•	Contributed to the design of LLM-powered internal tools leveraging RAG and prompt tuning to assist analysts with model insights.
+•	Implemented RESTful APIs for secure communication between web/mobile clients and Azure-hosted backend services, reducing API latency by 25%.
+•	Deployed CI/CD pipelines with Azure DevOps + Kubernetes, enabling automated testing and seamless production deployments.
+•	Created dynamic dashboards and responsive UI components, improving user interaction and app engagement by 22%.
+•	Embedded JWT-based authentication and RBAC in APIs, ensuring secure access control for multi-tenant environments.
+•	Optimized Azure-hosted microservices for event-driven processing and real-time notifications, reducing system lag and improving end-user responsiveness.
+
+Software Engineer at Softeq : 02/2020 – 03/2021
+•	Built fraud detection systems combining deep learning classifiers + ensemble ML, reducing fraudulent transactions by 29% across retail POS and e-commerce platforms.
+•	Designed LLM-driven product catalog parsing (OCR + GPT models) for automated SKU classification, pricing updates, and inventory tagging.
+•	Partnered with merchandising and finance teams to deploy demand forecasting and inventory optimization models in AWS SageMaker, improving stock management for millions of products.
+•	Built real-time sales and promotion alert systems with Kafka + TensorFlow Serving for proactive inventory restocking and dynamic pricing strategies.
+•	Migrated retail ML workloads to cloud-native Kubernetes clusters, improving scalability, high availability, and disaster recovery for peak shopping seasons.
+•	Optimized databases (Postgres, MongoDB) with AI-assisted query planners to accelerate transaction, inventory, and customer behavior lookups.
+•	Built personalized product recommendation systems using TensorFlow + embeddings, enhancing cross-selling and upselling across web and mobile platforms.
+•	Implemented AI-driven anomaly detection for point-of-sale and e-commerce transactions to flag pricing errors, stock discrepancies, and fraudulent activity before impacting operations.
+
+FullStack Engineer at EPAM Systems : 06/2018 – 01/2020
+•	Collaborated on the development of real-time financial simulation tools, integrating market data engines with interactive client-side dashboards.
+•	Optimized transaction state serialization and database performance to support live trading metrics and analytics dashboards
+•	Developed Node.js (Express) services to handle order workflows, integrated with AI-enhanced recommendation APIs for personalized product suggestions.
+•	Engineered real-time inventory sync APIs in FastAPI, boosting system responsiveness during seasonal peaks.
+•	Deployed microservices with AI-based predictive caching across Django + Node.js backends, improving page load speed by 22%.
+
+FullStack Engineer at EPAM Systems : 04/2016 – 06/2018
+•	Developed modular and reusable UI components using Angular, reducing code duplication by 35% and ensuring consistent user interfaces across multiple AR projects.
+•	Collaborated closely with UI/UX designers to translate complex augmented reality concepts into intuitive user experiences, improving customer satisfaction by 43%
+•	Optimized frontend performance in AR applications, utilizing React’s virtual DOM and Angular’s change detection to increase load speed by 27%.
+•	Built responsive AR interfaces for mobile platforms using React Native, enhancing user accessibility and achieving a 26.2% improvement in mobile app ratings.
 
 Skills:
 

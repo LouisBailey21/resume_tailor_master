@@ -1680,15 +1680,16 @@ Quinnipiac University | US
     `
   }, 
   {
-    name: 'Adam Kaczmarek',
+    name: 'David Levin',
     resumeText: `
+
 Senior Software Engineer
 
-Adam Kaczmarek
-kaczmarek.adam0206@outlook.com
+David Levin
+david.levin0205@outlook.com
 Senior Software Engineer
 +48 501 214 270
-Krakow, Malopolskie, Poland
+Krzeszowice, Malopolskie, Poland
 
 Summary:
 
@@ -1699,7 +1700,7 @@ with solid MLOps practices, security, and compliance. Experienced in turning com
 
 Professional Experience:
 
-Senior Software Engineer at Anthropic: 11/2024 - Current
+Senior Software Engineer at Mentality: 06/2024 - Current
 •	Engineered full-stack applications with React.js + Node.js, integrated with Azure Functions and Cosmos DB, enabling scalable multi-tenant solutions and reducing response time by 30%.
 •	Built image recognition pipelines using Cloudsight API + TensorFlow, automating media tagging and content validation, improving processing efficiency by 35%.
 •	Developed RESTful and GraphQL APIs integrated with Azure App Services, ensuring secure and low-latency data access for web and mobile clients.
@@ -1709,7 +1710,7 @@ Senior Software Engineer at Anthropic: 11/2024 - Current
 •	Evaluated and integrated third-party APIs (Granicus-style) for workflow automation, improving task efficiency for internal teams by 15%.
 •	Orchestrated microservices with Azure Kubernetes Service (AKS) and Event Hubs, optimizing real-time communication and event-driven processing across the platform.
 
-Software Engineer IV at DataRobot: 06/2023 – 07/2024
+AI Engineer at Godel Technologies Europe: 06/2021 – 04/2024
 •	Developed full-stack applications with React.js + Node.js and deployed on Azure App Services, enhancing platform scalability and reducing downtime by 20%.
 •	Built AI-powered recommendation engines using PyTorch + Azure Event Hubs, enabling real-time pet sitter matching and increasing booking accuracy by 19%.
 •	Integrated Cloudsight API for real-time image recognition, automating activity and anomaly detection in mobile apps, improving monitoring efficiency by 30%.
@@ -1719,7 +1720,7 @@ Software Engineer IV at DataRobot: 06/2023 – 07/2024
 •	Embedded JWT-based authentication and RBAC in APIs, ensuring secure access control for multi-tenant environments.
 •	Optimized Azure-hosted microservices for event-driven processing and real-time notifications, reducing system lag and improving end-user responsiveness.
 
-Software Engineer III at DataRobot : 07/2020 – 06/2023
+Software Engineer at iwoca : 01/2020 – 06/2021
 •	Built fraud detection systems combining deep learning classifiers + ensemble ML, reducing fraudulent transactions by 29% across retail POS and e-commerce platforms.
 •	Designed LLM-driven product catalog parsing (OCR + GPT models) for automated SKU classification, pricing updates, and inventory tagging.
 •	Partnered with merchandising and finance teams to deploy demand forecasting and inventory optimization models in AWS SageMaker, improving stock management for millions of products.
@@ -1729,7 +1730,7 @@ Software Engineer III at DataRobot : 07/2020 – 06/2023
 •	Built personalized product recommendation systems using TensorFlow + embeddings, enhancing cross-selling and upselling across web and mobile platforms.
 •	Implemented AI-driven anomaly detection for point-of-sale and e-commerce transactions to flag pricing errors, stock discrepancies, and fraudulent activity before impacting operations.
 
-Software Developer at Augment : 03/2017 – 01/2020
+Software Developer at ScienceSoft : 04/2017 – 11/2019
 •	Designed demand forecasting models with Prophet + TensorFlow, integrated into a Python (FastAPI) microservice for real-time retail planning.
 •	Built transaction fraud detection APIs using Django REST Framework + ensemble ML classifiers, reducing fraudulent activity by 17%.
 •	Developed Node.js (Express) services to handle order workflows, integrated with AI-enhanced recommendation APIs for personalized product suggestions.
@@ -1798,8 +1799,8 @@ Postman
 Cypress
 
 Education:
-•Bachelor of Science, Computer Science (9/2012 – 05/2016)
-FPT University | Vietnam
+•Bachelor's Degree, Computer Science (10/2013 – 03/2017)
+Collegium Humanum – Warsaw Management University | Poland
     `
   },
   {

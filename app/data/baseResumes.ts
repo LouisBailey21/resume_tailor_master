@@ -447,11 +447,11 @@ Education:
 The University of Tokyo | Japan
     `
   },
-  { name: 'Timmy Lorenz',
+  { name: 'Timmy Lewrenz',
     resumeText: `
 Senior Software Engineer
 
-Timmy Lorenz
+Timmy Lewrenz
 Senior Software Engineer
 timmy.le0510@outlook.com
 +1 430 964 0645

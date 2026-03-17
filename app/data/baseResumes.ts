@@ -13,7 +13,7 @@ Senior Software Engineer
 Patrick Clark
 patrick.clark0205@outlook.com
 Senior Software Engineer
-+13253130928
++13057073186
 Tampa, FL 33602
 
 Summary:
@@ -454,8 +454,8 @@ Senior Software Engineer
 Timmy Lewrenz
 Senior Software Engineer
 timmy.le0510@outlook.com
-+1 430 964 0645
-Tampa, Florida, USA
++1 4077433682
+Orlando, Florida, USA
 
 Summary: 
 
@@ -1319,7 +1319,7 @@ Quinnipiac University | US
     Jimmy Liang
     Senior Software Engineer
     jimmy.liang3003@outlook.com
-    14233011901
+    17163001409
     Apt 7C, New York, NY 10003
     
     Summary: 

@@ -1645,7 +1645,7 @@ Quinnipiac University | US
     Kuba Kowal
     kuba.kowal205@outlook.com
     Senior Software Engineer
-
+    -
     Poznan, Wielkopolskie, Poland
 
     Summary:

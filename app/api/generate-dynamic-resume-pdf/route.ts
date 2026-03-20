@@ -82,7 +82,12 @@ Skills:
 - Prefer non-rounded percentages when plausible (e.g., 33%, 47%, 92%) to convey precision.
 - Prioritize impact, metrics, and results over generic responsibilities in every bullet.
 17. Ensure each experience and skills section has "•" at first bullet point.
-
+18. STRICT DEDUPLICATION RULE (CRITICAL):
+- The resume must NOT contain any duplicated sections, headers, or content blocks.
+- The SKILLS section must appear EXACTLY ONCE and only immediately after the SUMMARY section.
+- If a section (especially SKILLS) is generated more than once, REMOVE all duplicates and keep only the most complete and optimized version.
+- Before finalizing output, perform a full scan to ensure no repeated headers (e.g., "Skills", "Professional Experience") or repeated content blocks exist anywhere in the document.
+- Never append or regenerate a section that has already been written earlier in the resume.
 Here is the base resume:
 
 ${baseResume}

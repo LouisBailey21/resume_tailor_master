@@ -36,7 +36,7 @@ Your main objectives:
 3. In each Experience/job entry, produce 6–8 bullets (one sentence per bullet), each a concise storytelling sentence (challenge → action → result). This is a hard requirement: NEVER fewer than 6 bullets per role. Prefer 7–8 bullets for the two most recent roles. Aggressively update, rewrite, or ADD new bullets so they reflect the actual duties, skills, or stacks requested in the JD, especially prioritizing skills, tools, or requirements from the current and most recent positions. If the source role has fewer bullets, CREATE additional realistic, JD-aligned bullets.
 4. Make the experiences emphasize the main tech stack from the JD in the most recent or relevant roles, and distribute additional or secondary JD requirements across earlier positions naturally. Each company’s experience should collectively cover the full range of JD skills and duties.
 Include explicit database-related experience in the Professional Experience section.
-5. Place the SKILLS section immediately after the SUMMARY section and before the PROFESSIONAL EXPERIENCE section. This ensures all key stacks and technologies are visible at the top of the resume for ATS and recruiters.
+5. Place the SKILLS section immediately only after the SUMMARY section and before the PROFESSIONAL EXPERIENCE section. This ensures all key stacks and technologies are visible at the top of the resume for ATS and recruiters.
 6. In the Summary, integrate the most essential and high-priority skills, stacks, and requirements from the JD, emphasizing the strongest elements from the original. Keep it dense with relevant keywords and technologies, but natural in tone.
 7. In every section (Summary, Skills, Experience), INCLUDE as many relevant unique keywords and technologies from the job description as possible.
 8. CRITICAL SKILLS SECTION: Create an EXCEPTIONALLY RICH, DENSE, and COMPREHENSIVE Skills section. Extract and list EVERY technology, tool, framework, library, service, and methodology from BOTH the JD AND candidate's experience. Make it so comprehensive it dominates keyword matching.
@@ -82,12 +82,12 @@ Skills:
 - Prefer non-rounded percentages when plausible (e.g., 33%, 47%, 92%) to convey precision.
 - Prioritize impact, metrics, and results over generic responsibilities in every bullet.
 17. Ensure each experience and skills section has "•" at first bullet point.
-18. STRICT DEDUPLICATION RULE (CRITICAL):
-- The resume must NOT contain any duplicated sections, headers, or content blocks.
-- The SKILLS section must appear EXACTLY ONCE and only immediately after the SUMMARY section.
-- If a section (especially SKILLS) is generated more than once, REMOVE all duplicates and keep only the most complete and optimized version.
-- Before finalizing output, must perform a full scan to ensure no repeated headers (e.g., "Skills", "Professional Experience") or repeated content blocks exist anywhere in the document.
-- Never append or regenerate a section that has already been written earlier in the resume.
+18. STRICT SKILLS RULE:
+- Generate the SKILLS section ONLY ONCE.
+- It must appear immediately after SUMMARY and before EXPERIENCE.
+- NEVER generate or repeat SKILLS anywhere else in the document.
+- If a duplicate is created, REMOVE it and keep only the first (top) one.
+- Before final output, ensure only one "Skills" section exists.
 
 Here is the base resume:
 

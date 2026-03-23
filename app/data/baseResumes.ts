@@ -23,59 +23,6 @@ Strong background in LLMs, generative AI, computer vision, recommendation system
 with hands-on experience using frameworks like PyTorch, TensorFlow, LangChain, and vector databases. Proven at integrating AI models into scalable cloud-native systems on Azure and AWS, 
 with solid MLOps practices, security, and compliance. Experienced in turning complex ML capabilities into reliable, user-facing products that deliver measurable business impact.
 
-Professional Experience:
-
-Senior Software Engineer at Kiggla: 01/2025 - Current
-•	Engineered full-stack applications with React.js + Node.js, integrated with Azure Functions and Cosmos DB, enabling scalable multi-tenant solutions and reducing response time by 30%.
-•	Built image recognition pipelines using Cloudsight API + TensorFlow, automating media tagging and content validation, improving processing efficiency by 35%.
-•	Developed RESTful and GraphQL APIs integrated with Azure App Services, ensuring secure and low-latency data access for web and mobile clients.
-•	Automated CI/CD pipelines using Azure DevOps + GitHub Actions, reducing deployment errors and accelerating release cycles by 25%.
-•	Designed dynamic dashboards and responsive UIs with React.js + Tailwind CSS, increasing end-user engagement and usability scores by 20%.
-•	Implemented RBAC security and HIPAA-compliant data handling across Azure-hosted services, ensuring regulatory compliance for sensitive information.
-•	Evaluated and integrated third-party APIs (Granicus-style) for workflow automation, improving task efficiency for internal teams by 15%.
-•	Orchestrated microservices with Azure Kubernetes Service (AKS) and Event Hubs, optimizing real-time communication and event-driven processing across the platform.
-
-Software Engineer III at SimpleView: 02/2022 – 12/2024
-•	Developed full-stack applications with React.js + Node.js and deployed on Azure App Services, enhancing platform scalability and reducing downtime by 20%.
-•	Built AI-powered recommendation engines using PyTorch + Azure Event Hubs, enabling real-time pet sitter matching and increasing booking accuracy by 19%.
-•	Integrated Cloudsight API for real-time image recognition, automating activity and anomaly detection in mobile apps, improving monitoring efficiency by 30%.
-•	Implemented RESTful APIs for secure communication between web/mobile clients and Azure-hosted backend services, reducing API latency by 25%.
-•	Deployed CI/CD pipelines with Azure DevOps + Kubernetes, enabling automated testing and seamless production deployments.
-•	Created dynamic dashboards and responsive UI components, improving user interaction and app engagement by 22%.
-•	Embedded JWT-based authentication and RBAC in APIs, ensuring secure access control for multi-tenant environments.
-•	Optimized Azure-hosted microservices for event-driven processing and real-time notifications, reducing system lag and improving end-user responsiveness.
-
-Software Engineer II at Amazon : 06/2018 – 02/2022
-•	Built fraud detection systems combining deep learning classifiers + ensemble ML, reducing fraudulent transactions by 29% across retail POS and e-commerce platforms.
-•	Designed LLM-driven product catalog parsing (OCR + GPT models) for automated SKU classification, pricing updates, and inventory tagging.
-•	Partnered with merchandising and finance teams to deploy demand forecasting and inventory optimization models in AWS SageMaker, improving stock management for millions of products.
-•	Built real-time sales and promotion alert systems with Kafka + TensorFlow Serving for proactive inventory restocking and dynamic pricing strategies.
-•	Migrated retail ML workloads to cloud-native Kubernetes clusters, improving scalability, high availability, and disaster recovery for peak shopping seasons.
-•	Optimized databases (Postgres, MongoDB) with AI-assisted query planners to accelerate transaction, inventory, and customer behavior lookups.
-•	Built personalized product recommendation systems using TensorFlow + embeddings, enhancing cross-selling and upselling across web and mobile platforms.
-•	Implemented AI-driven anomaly detection for point-of-sale and e-commerce transactions to flag pricing errors, stock discrepancies, and fraudulent activity before impacting operations.
-
-Software Developer at The Home Spot : 02/2017 – 03/2018
-•	Designed demand forecasting models with Prophet + TensorFlow, integrated into a Python (FastAPI) microservice for real-time retail planning.
-•	Built transaction fraud detection APIs using Django REST Framework + ensemble ML classifiers, reducing fraudulent activity by 17%.
-•	Developed Node.js (Express) services to handle order workflows, integrated with AI-enhanced recommendation APIs for personalized product suggestions.
-•	Engineered real-time inventory sync APIs in FastAPI, boosting system responsiveness during seasonal peaks.
-•	Deployed microservices with AI-based predictive caching across Django + Node.js backends, improving page load speed by 22%.
-•	Leveraged NLP models (Python + spaCy) to analyze customer reviews, integrated with Django dashboards to guide restocking.
-•	Migrated legacy services to a Python/Node.js hybrid microservices stack on AWS (EC2, S3, RDS), improving scalability and fault tolerance.
-•	Automated CI/CD pipelines for Python/Node projects with Jenkins and GitLab CI, embedding unit tests and ML model validation.
-
-Software Developer Intern at IBM : 11/2015 – 01/2017
-•	Built adaptive HR recommendation engines with Python (Django + FastAPI) APIs serving Scikit-learn + TensorFlow models to suggest personalized training, career paths, and learning resources for employees.
-•	Developed a Node.js (Express.js) backend for real-time employee interactions, powering WebSocket-based live feedback, onboarding sessions, and performance reviews.
-•	Created LLM-powered HR chatbots for employee Q&A, policy guidance, and benefits queries, exposed via FastAPI microservices.
-•	Integrated Django REST APIs with React.js to deliver personalized employee dashboards and AI-driven performance and engagement tracking.
-•	Engineered real-time analytics pipelines using FastAPI + WebSockets, monitoring employee engagement during training, surveys, and collaboration activities.
-•	Optimized training and career recommendations with vector similarity models deployed as FastAPI endpoints, enabling personalized learning paths for employees.
-•	Implemented secure authentication flows (OAuth 2.0, JWT) across Node.js and Django backends for HR managers and employees.
-•	Integrated third-party AI services (Zoom transcription, Google NLP) into FastAPI endpoints for content enrichment, meeting summaries, and HR analytics.
-
-
 Skills:
 
 LLMs (GPT, Claude, LLaMA)
@@ -134,12 +81,64 @@ PyTest
 Postman
 Cypress
 
+Professional Experience:
+
+Senior Software Engineer at Kiggla: 01/2025 - Current
+•	Engineered full-stack applications with React.js + Node.js, integrated with Azure Functions and Cosmos DB, enabling scalable multi-tenant solutions and reducing response time by 30%.
+•	Built image recognition pipelines using Cloudsight API + TensorFlow, automating media tagging and content validation, improving processing efficiency by 35%.
+•	Developed RESTful and GraphQL APIs integrated with Azure App Services, ensuring secure and low-latency data access for web and mobile clients.
+•	Automated CI/CD pipelines using Azure DevOps + GitHub Actions, reducing deployment errors and accelerating release cycles by 25%.
+•	Designed dynamic dashboards and responsive UIs with React.js + Tailwind CSS, increasing end-user engagement and usability scores by 20%.
+•	Implemented RBAC security and HIPAA-compliant data handling across Azure-hosted services, ensuring regulatory compliance for sensitive information.
+•	Evaluated and integrated third-party APIs (Granicus-style) for workflow automation, improving task efficiency for internal teams by 15%.
+•	Orchestrated microservices with Azure Kubernetes Service (AKS) and Event Hubs, optimizing real-time communication and event-driven processing across the platform.
+
+Software Engineer III at SimpleView: 02/2022 – 12/2024
+•	Developed full-stack applications with React.js + Node.js and deployed on Azure App Services, enhancing platform scalability and reducing downtime by 20%.
+•	Built AI-powered recommendation engines using PyTorch + Azure Event Hubs, enabling real-time pet sitter matching and increasing booking accuracy by 19%.
+•	Integrated Cloudsight API for real-time image recognition, automating activity and anomaly detection in mobile apps, improving monitoring efficiency by 30%.
+•	Implemented RESTful APIs for secure communication between web/mobile clients and Azure-hosted backend services, reducing API latency by 25%.
+•	Deployed CI/CD pipelines with Azure DevOps + Kubernetes, enabling automated testing and seamless production deployments.
+•	Created dynamic dashboards and responsive UI components, improving user interaction and app engagement by 22%.
+•	Embedded JWT-based authentication and RBAC in APIs, ensuring secure access control for multi-tenant environments.
+•	Optimized Azure-hosted microservices for event-driven processing and real-time notifications, reducing system lag and improving end-user responsiveness.
+
+Software Engineer II at Amazon : 06/2018 – 02/2022
+•	Built fraud detection systems combining deep learning classifiers + ensemble ML, reducing fraudulent transactions by 29% across retail POS and e-commerce platforms.
+•	Designed LLM-driven product catalog parsing (OCR + GPT models) for automated SKU classification, pricing updates, and inventory tagging.
+•	Partnered with merchandising and finance teams to deploy demand forecasting and inventory optimization models in AWS SageMaker, improving stock management for millions of products.
+•	Built real-time sales and promotion alert systems with Kafka + TensorFlow Serving for proactive inventory restocking and dynamic pricing strategies.
+•	Migrated retail ML workloads to cloud-native Kubernetes clusters, improving scalability, high availability, and disaster recovery for peak shopping seasons.
+•	Optimized databases (Postgres, MongoDB) with AI-assisted query planners to accelerate transaction, inventory, and customer behavior lookups.
+•	Built personalized product recommendation systems using TensorFlow + embeddings, enhancing cross-selling and upselling across web and mobile platforms.
+•	Implemented AI-driven anomaly detection for point-of-sale and e-commerce transactions to flag pricing errors, stock discrepancies, and fraudulent activity before impacting operations.
+
+Software Developer at The Home Spot : 02/2017 – 03/2018
+•	Designed demand forecasting models with Prophet + TensorFlow, integrated into a Python (FastAPI) microservice for real-time retail planning.
+•	Built transaction fraud detection APIs using Django REST Framework + ensemble ML classifiers, reducing fraudulent activity by 17%.
+•	Developed Node.js (Express) services to handle order workflows, integrated with AI-enhanced recommendation APIs for personalized product suggestions.
+•	Engineered real-time inventory sync APIs in FastAPI, boosting system responsiveness during seasonal peaks.
+•	Deployed microservices with AI-based predictive caching across Django + Node.js backends, improving page load speed by 22%.
+•	Leveraged NLP models (Python + spaCy) to analyze customer reviews, integrated with Django dashboards to guide restocking.
+•	Migrated legacy services to a Python/Node.js hybrid microservices stack on AWS (EC2, S3, RDS), improving scalability and fault tolerance.
+•	Automated CI/CD pipelines for Python/Node projects with Jenkins and GitLab CI, embedding unit tests and ML model validation.
+
+Software Developer Intern at IBM : 11/2015 – 01/2017
+•	Built adaptive HR recommendation engines with Python (Django + FastAPI) APIs serving Scikit-learn + TensorFlow models to suggest personalized training, career paths, and learning resources for employees.
+•	Developed a Node.js (Express.js) backend for real-time employee interactions, powering WebSocket-based live feedback, onboarding sessions, and performance reviews.
+•	Created LLM-powered HR chatbots for employee Q&A, policy guidance, and benefits queries, exposed via FastAPI microservices.
+•	Integrated Django REST APIs with React.js to deliver personalized employee dashboards and AI-driven performance and engagement tracking.
+•	Engineered real-time analytics pipelines using FastAPI + WebSockets, monitoring employee engagement during training, surveys, and collaboration activities.
+•	Optimized training and career recommendations with vector similarity models deployed as FastAPI endpoints, enabling personalized learning paths for employees.
+•	Implemented secure authentication flows (OAuth 2.0, JWT) across Node.js and Django backends for HR managers and employees.
+•	Integrated third-party AI services (Zoom transcription, Google NLP) into FastAPI endpoints for content enrichment, meeting summaries, and HR analytics.
+
 Education:
 •Bachelor of Science, Computer Science (9/2010 – 05/2014)
 Indiana University Bloomington | US
     `
   },
-    {
+  {
     name: 'Lindsay Jackson',
     resumeText: `
 Senior Software Engineer
@@ -155,58 +154,6 @@ Summary:
 AI-focused Senior Engineer with 10+ years of experience designing and deploying production-grade AI/ML systems across healthcare, fintech, and enterprise SaaS. 
 Specialized in agentic AI workflows, LLM-driven reasoning engines, and graph-based data modeling, with deep expertise in Python, PyTorch, TensorFlow, Hugging Face, and cloud-native AI deployments 
 (AWS, Snowflake, Kubernetes). Proven record of modernizing legacy systems into AI-first platforms, building scalable multi-agent ecosystems, and ensuring compliance in high-stakes healthcare environments.
-
-Professional Experience:
-
-Senior Software Engineer at Hexagon: 01/2025 - Current
-•	Architected a multi-agent orchestration platform in Python using LangChain and LlamaIndex, enabling reasoning-based workflows for triage, care planning, and EHR automation across hospital networks.
-•	Built Retrieval-Augmented Generation (RAG) pipelines with Hugging Face Transformers, Pinecone vector DB, and AWS Bedrock, generating structured summaries from unstructured medical transcripts.
-•	Developed knowledge graph integrations with Neo4j and AWS Neptune to unify patient history, claims data, and provider workflows, enabling downstream graph-based reasoning and predictive analytics.
-•	Engineered real-time voice/NLP pipelines using PyTorch and Azure Speech Services, achieving sub-second latency for clinical dictation, diagnosis support, and sentiment-aware triage scoring.
-•	Automated end-to-end MLOps workflows in AWS SageMaker for model training, evaluation, and deployment, with versioned model registries and drift detection.
-•	Designed security guardrails for agentic systems (prompt injection detection, RBAC-aware inference policies, HIPAA-compliant audit logging).
-•	Scaled multi-region AWS infrastructure with Kubernetes and Terraform, supporting tens of millions of inference requests/month while maintaining >99.99% uptime
-
-
-Senior Software Engineer at Epoq Legal US: 09/2023 – 01/2025
-•	Designed an LLM-powered AI agent ecosystem for contextual pet care, using LangChain, OpenAI embeddings, and vectorized persistent memory across DynamoDB and Pinecone.
-•	Built semantic knowledge retrieval pipelines for long-term memory and context preservation in multi-turn conversations with users and sitters.
-•	Implemented real-time incident detection workflows (pet tracking, emergency alerts) with AWS EventBridge, SignalR, and speech-to-text services for hands-free caregiver updates.
-•	Architected graph-based sitter matching algorithms using Neo4j and PyTorch GNNs, modeling relationships between pets, caregivers, and service history to predict sitter fit and trustworthiness.
-•	Developed containerized AI microservices in Python and deployed via Kubernetes + AWS SageMaker, supporting A/B testing of new AI features at production scale.
-•	Introduced a multi-tenant MLOps pipeline in GitLab CI/CD with rollout gating, enabling safe experiments in production AI services.
-•	Mentored engineers on integrating agentic workflows beyond chatbots, focusing on multi-step reasoning and collaboration between agents.
-
-
-Software Engineer at Oracle : 06/2020 – 09/2023
-•	Built an image analysis engine in Python to detect anomalies and classify financial documents, applying probabilistic modeling to highlight errors or inconsistencies in scanned invoices and receipts.
-•	Integrated Graph Databases (Neo4j) for visual relationship modeling between scanned documents, accounts, and transactions, uncovering patterns and dependencies.
-•	Developed Generative AI image enhancement and inpainting agents using Hugging Face + TensorFlow to automatically clean, enhance, and reconstruct scanned documents and forms for audit-ready outputs.
-•	Implemented AI-powered image assistants with AWS Rekognition + LangChain to guide users through document uploads, verification, and validation workflows, integrated directly into financial platforms.
-•	Led ETL modernization efforts using dbt + Snowflake to preprocess, normalize, and store large-scale image datasets for ML model training and evaluation.
-•	Built reinforcement learning agents for automated document categorization and prioritization, dynamically adjusting based on document quality, type, and processing urgency.
-•	Deployed image processing AI workflows into AWS SageMaker pipelines, scaling predictive and classification models to millions of scanned documents across enterprise platforms.
-
-Software Developer at The Home Spot : 01/2017 – 06/2020
-•	Built a real-time inventory forecasting agent using TensorFlow, Kafka Streams, and Snowflake, predicting stockouts and automatically triggering supplier reorders.
-•	Designed a knowledge graph of products, suppliers, and store locations in AWS Neptune, applying GNNs to optimize distribution during seasonal surges.
-•	Developed a graph-powered recommendation engine for product bundling, trained on customer purchase histories and store-level sales graphs.
-•	Deployed predictive AI workflows on AWS SageMaker + Kubernetes, reducing per-store out-of-stock incidents by 28%.
-•	Created containerized ETL pipelines in Airflow to unify transactional, IoT, and vendor data into Snowflake for downstream AI workloads.
-•	Integrated symbolic reasoning rules into replenishment workflows, combining deterministic business constraints with ML predictions for explainable decision-making.
-•	Automated CI/CD pipelines for AI workloads with Jenkins + GitLab CI, enabling daily retraining and deployment of high-volume predictive models.
-
-
-Web Developer at Amazon : 03/2015 – 01/2017
-•	Built a collaborative learning agent in Python and Node.js using reinforcement learning to adapt quizzes dynamically to student performance.
-•	Implemented a graph-based content recommendation engine with Neo4j, modeling relationships between concepts, student progress, and instructor materials.
-•	Developed a real-time classroom orchestration system using WebSockets + LangChain to manage student/teacher multi-agent interactions.
-•	Integrated speech-based reasoning agents with Web Speech API + Hugging Face for accessibility and adaptive test assistance.
-•	Deployed scalable AI-driven dashboards (React.js + D3.js) visualizing sentiment, progress, and content mastery, powered by predictive ML services in AWS.
-•	Designed automated knowledge tracing pipelines in TensorFlow to predict dropout risk and recommend intervention paths for instructors.
-•	Collaborated with researchers on symbolic AI integrations into student-facing tools, enhancing explainability in adaptive learning recommendations.
-
-
 
 Skills:
 
@@ -289,6 +236,53 @@ Federated Learning
 Synthetic Data Generation
 Responsible & Ethical AI
 
+Professional Experience:
+
+Senior Software Engineer at Hexagon: 01/2025 - Current
+•	Architected a multi-agent orchestration platform in Python using LangChain and LlamaIndex, enabling reasoning-based workflows for triage, care planning, and EHR automation across hospital networks.
+•	Built Retrieval-Augmented Generation (RAG) pipelines with Hugging Face Transformers, Pinecone vector DB, and AWS Bedrock, generating structured summaries from unstructured medical transcripts.
+•	Developed knowledge graph integrations with Neo4j and AWS Neptune to unify patient history, claims data, and provider workflows, enabling downstream graph-based reasoning and predictive analytics.
+•	Engineered real-time voice/NLP pipelines using PyTorch and Azure Speech Services, achieving sub-second latency for clinical dictation, diagnosis support, and sentiment-aware triage scoring.
+•	Automated end-to-end MLOps workflows in AWS SageMaker for model training, evaluation, and deployment, with versioned model registries and drift detection.
+•	Designed security guardrails for agentic systems (prompt injection detection, RBAC-aware inference policies, HIPAA-compliant audit logging).
+•	Scaled multi-region AWS infrastructure with Kubernetes and Terraform, supporting tens of millions of inference requests/month while maintaining >99.99% uptime
+
+Senior Software Engineer at Epoq Legal US: 09/2023 – 01/2025
+•	Designed an LLM-powered AI agent ecosystem for contextual pet care, using LangChain, OpenAI embeddings, and vectorized persistent memory across DynamoDB and Pinecone.
+•	Built semantic knowledge retrieval pipelines for long-term memory and context preservation in multi-turn conversations with users and sitters.
+•	Implemented real-time incident detection workflows (pet tracking, emergency alerts) with AWS EventBridge, SignalR, and speech-to-text services for hands-free caregiver updates.
+•	Architected graph-based sitter matching algorithms using Neo4j and PyTorch GNNs, modeling relationships between pets, caregivers, and service history to predict sitter fit and trustworthiness.
+•	Developed containerized AI microservices in Python and deployed via Kubernetes + AWS SageMaker, supporting A/B testing of new AI features at production scale.
+•	Introduced a multi-tenant MLOps pipeline in GitLab CI/CD with rollout gating, enabling safe experiments in production AI services.
+•	Mentored engineers on integrating agentic workflows beyond chatbots, focusing on multi-step reasoning and collaboration between agents.
+
+Software Engineer at Oracle : 06/2020 – 09/2023
+•	Built an image analysis engine in Python to detect anomalies and classify financial documents, applying probabilistic modeling to highlight errors or inconsistencies in scanned invoices and receipts.
+•	Integrated Graph Databases (Neo4j) for visual relationship modeling between scanned documents, accounts, and transactions, uncovering patterns and dependencies.
+•	Developed Generative AI image enhancement and inpainting agents using Hugging Face + TensorFlow to automatically clean, enhance, and reconstruct scanned documents and forms for audit-ready outputs.
+•	Implemented AI-powered image assistants with AWS Rekognition + LangChain to guide users through document uploads, verification, and validation workflows, integrated directly into financial platforms.
+•	Led ETL modernization efforts using dbt + Snowflake to preprocess, normalize, and store large-scale image datasets for ML model training and evaluation.
+•	Built reinforcement learning agents for automated document categorization and prioritization, dynamically adjusting based on document quality, type, and processing urgency.
+•	Deployed image processing AI workflows into AWS SageMaker pipelines, scaling predictive and classification models to millions of scanned documents across enterprise platforms.
+
+Software Developer at The Home Spot : 01/2017 – 06/2020
+•	Built a real-time inventory forecasting agent using TensorFlow, Kafka Streams, and Snowflake, predicting stockouts and automatically triggering supplier reorders.
+•	Designed a knowledge graph of products, suppliers, and store locations in AWS Neptune, applying GNNs to optimize distribution during seasonal surges.
+•	Developed a graph-powered recommendation engine for product bundling, trained on customer purchase histories and store-level sales graphs.
+•	Deployed predictive AI workflows on AWS SageMaker + Kubernetes, reducing per-store out-of-stock incidents by 28%.
+•	Created containerized ETL pipelines in Airflow to unify transactional, IoT, and vendor data into Snowflake for downstream AI workloads.
+•	Integrated symbolic reasoning rules into replenishment workflows, combining deterministic business constraints with ML predictions for explainable decision-making.
+•	Automated CI/CD pipelines for AI workloads with Jenkins + GitLab CI, enabling daily retraining and deployment of high-volume predictive models.
+
+Web Developer at Amazon : 03/2015 – 01/2017
+•	Built a collaborative learning agent in Python and Node.js using reinforcement learning to adapt quizzes dynamically to student performance.
+•	Implemented a graph-based content recommendation engine with Neo4j, modeling relationships between concepts, student progress, and instructor materials.
+•	Developed a real-time classroom orchestration system using WebSockets + LangChain to manage student/teacher multi-agent interactions.
+•	Integrated speech-based reasoning agents with Web Speech API + Hugging Face for accessibility and adaptive test assistance.
+•	Deployed scalable AI-driven dashboards (React.js + D3.js) visualizing sentiment, progress, and content mastery, powered by predictive ML services in AWS.
+•	Designed automated knowledge tracing pipelines in TensorFlow to predict dropout risk and recommend intervention paths for instructors.
+•	Collaborated with researchers on symbolic AI integrations into student-facing tools, enhancing explainability in adaptive learning recommendations.
+
 Education:
 •Bachelor of Science, Mechanical Engineering (2010 – 2014)
 Virginia State University | US
@@ -306,7 +300,7 @@ Credential ID ATZV3LSS7K5R
 
     `
   },
-  { name: 'Louis Bailey (FS)',
+  { name: 'Louis Bailey',
     resumeText: `
     Senior Software Engineer
 
@@ -323,58 +317,6 @@ across diverse domains including finance, retail, and education. Proven expertis
 using technologies like C#, ASP.NET Core, React.js, Node.js, Python, Docker, and Kubernetes. Skilled in driving large-scale cloud migrations, real-time systems, and secure API 
 integrations that serve multi-tenant environments and global user bases. Known for leading cross-functional teams and delivering mission-critical solutions 
 with high availability and performance. Passionate about DevOps, automation (CI/CD), and building robust platforms that improve operational efficiency, developer productivity, and customer experience.
-
-
-Professional Experience:
-
-Senior Software Engineer at Softcom: 06/2022 - Current
-•	Led the platform-wide modernization effort by decomposing a tightly coupled legacy application into independent microservices using ASP.NET Core, containerized with Docker, and orchestrated via Kubernetes. Migrating workloads to AWS (ECS, RDS, S3, CloudWatch) reduced infrastructure costs by 25%, improved deployment reliability, and increased system uptime to 99.97%, enabling on-demand scalability and region-specific failover.
-•	Designed and implemented RESTful API gateways and internal services using .NET 6, TypeScript, and Node.js, establishing standardized service contracts for internal and external integrations. These APIs supported customer usage metering, billing, authentication, and workflow automations, and were hardened for multitenancy using strict isolation and tenant-aware logic.
-•	Developed a centralized customer and user identity management service using Entity Framework Core, PostgreSQL, and Redis for session caching. This system unified authentication across web, mobile, and partner apps, and allowed dynamic permission and role mapping for thousands of enterprise tenants with complex access control models.
-•	Built real-time communication and collaboration pipelines using SignalR, Azure Service Bus, and Redis Pub/Sub, enabling rich interactive features like presence detection, live updates, and cross-user notifications within a collaborative workspace UI. These capabilities were instrumental in expanding the platform's value to remote teams and distributed users.
-•	Spearheaded the development of an integrated video calling and virtual meeting module using WebRTC, tightly coupled with the calendar, chat, and scheduling systems. Backed by ASP.NET Core APIs and a React Native frontend, the module improved product engagement and reduced churn for enterprise customers offering remote support or virtual consultation services.
-•	Collaborated with data science teams to integrate machine learning models for customer behavior prediction and usage insights. We exposed TensorFlow models via RESTful endpoints using ASP.NET Core, and used them to power recommendation engines, usage alerts, and intelligent onboarding workflows — leading to a measurable drop in churn and a 21% increase in feature adoption.
-•	Automated billing, usage tracking, and claims processing workflows using Azure Logic Apps, SQL Server, and Entity Framework, connecting seamlessly to third-party CRMs, payment gateways, and finance systems. These automations reduced manual data entry by over 40% and ensured accuracy in invoicing and revenue recognition.
-•	Implemented enterprise-grade security architecture using OAuth 2.0, JWT tokens, and RBAC policies, supporting granular permissions, audit trails, and identity federation (via SAML/OIDC). Worked closely with InfoSec to conduct penetration testing, threat modeling, and ensure SOC 2 Type II compliance.
-•	Established CI/CD pipelines using Azure DevOps, GitLab, and GitHub Actions, integrating build, test, and deployment stages with Terraform for infrastructure provisioning. Leveraged ELK Stack, Prometheus, and Grafana for real-time monitoring, telemetry, and alerting. These pipelines enabled daily releases with rollback support and significantly reduced production incident recovery times.
-
-Software Engineer at Rover: 03/2020 – 09/2022
-•	Spearheaded the migration of Rover’s legacy monolithic architecture to a containerized microservices ecosystem using ASP.NET Core, Docker, and Kubernetes, enhancing scalability and fault tolerance while improving development agility.
-•	Designed and developed APIs to support core features such as pet service bookings, sitter onboarding, payment transactions, and secure user authentication. Integrated Stripe for payment processing and enforced secure OAuth 2.0 and JWT protocols to ensure safe and seamless financial transactions across web and mobile applications.
-•	Led the development of cross-platform mobile applications using React Native and ASP.NET Core, allowing users to manage bookings, view sitter profiles, and communicate on-the-go. The intuitive mobile experience contributed to a 20% increase in app engagement and user satisfaction across both iOS and Android platforms.
-•	Built a real-time pet tracking and notification system using SignalR, Redis, and Google Maps APIs, which allowed pet owners to receive instant updates and live tracking during walks or boarding sessions. This transparency significantly increased user trust and engagement, leading to a measurable boost in customer retention.
-•	Collaborated with data scientists to integrate machine learning models that delivered personalized pet sitter recommendations based on historical data, behavior, and preferences. These ML-driven enhancements resulted in improved booking rates and a more tailored user experience, helping Rover match customers with ideal service providers.
-•	Introduced automated CI/CD pipelines using Jenkins and GitLab, reducing deployment times by 34% and increasing release stability. This automation ensured quick iteration, consistent quality, and reduced hotfix incidents, while supporting parallel development across multiple microservices.
-•	Played a central role in strengthening platform-wide security by implementing role-based access control (RBAC), encrypting sensitive user data, and integrating fine-grained permissions. This ensured compliance with industry standards and greatly reduced the risk of data breaches and unauthorized access, especially during platform scaling and geographic expansion.
-•	Developed and integrated internationalization (i18n) support, enabling the platform to support multiple languages and currencies. This effort allowed Rover to enter new global markets and increased international user adoption while maintaining consistent UX across all regions.
-
-Software Developer at Intuit : 01/2018 – 02/2020
-•	Built scalable microservices using Node.js, Express, and TypeScript to handle millions of retail transactions, inventory updates, and order workflows, integrating with Stripe, PayPal, and logistics providers for seamless payment and fulfillment.
-•	Modernized the e-commerce frontend with React.js, Redux, and TypeScript, improving load times, responsiveness, and accessibility across devices while enhancing user experience for millions of shoppers.
-•	Led a large-scale cloud migration to AWS using Docker, Kubernetes, and Terraform, enabling autoscaling, reducing downtime incidents by 30%, and cutting infrastructure costs by transitioning from fixed provisioning to cloud-native elasticity.
-•	Optimized MongoDB and PostgreSQL databases by refactoring schemas, implementing sharding strategies, and applying indexing techniques, improving query speeds by 40% for catalogs, customer accounts, and transaction histories.
-•	Implemented secure authentication using JWT, OAuth 2.0, and MFA for customers and internal staff, achieving full PCI DSS, GDPR, and CCPA compliance while supporting detailed audit logging.
-•	Developed real-time event-driven systems with WebSockets and Redis for live inventory tracking, order notifications, and promotional updates, boosting customer engagement and retention.
-•	Automated CI/CD pipelines using Jenkins, GitLab CI, and Docker, reducing average deployment times by 40%, improving rollback reliability, and enabling blue/green deployment strategies for high-traffic retail platforms.
-•	Partnered with data science teams to integrate TensorFlow-based ML recommendation engines, delivering personalized product suggestions, upsell and cross-sell opportunities, and enhancing overall shopping experience.
-
-Associate Software Developer at The Home Spot : 02/2017 – 03/2018
-•	Developed a real-time inventory management system using ASP.NET Core, Java(Spring) and AngularJS, enabling stock tracking across hundreds of stores. This increased inventory visibility, reduced shortages, and provided employees with timely data to fulfill customer demand more effectively.
-•	Spearheaded the migration from a monolithic system to a containerized microservices architecture using Java-based services, Docker and Kubernetes, allowing for improved scalability, faster deployment cycles, and seamless handling of seasonal traffic surges during major retail events.
-•	Developed RESTful APIs for mission-critical services including order processing, inventory sync, and customer profile management using Java(Spring Boot) and .NET Core. These integrations enabled faster data flow between frontend and backend systems, resulting in a smoother checkout experience for online shoppers.
-•	Implemented secure authentication mechanisms using OAuth 2.0, JWT, and multi-factor authentication (MFA) for both customers and internal staff. These upgrades significantly improved the platform’s security posture, especially around sensitive customer and payment data.
-•	Designed and launched a mobile-first frontend using React Native, allowing store associates to manage inventory, access order details, and serve customers via handheld devices. This innovation boosted in-store operational efficiency and streamlined task execution on the sales floor.
-•	Migrated core applications to AWS cloud infrastructure using EC2, S3, and RDS, leading to a 21% reduction in infrastructure costs and substantial gains in platform reliability and availability during promotional periods.
-•	Automated the CI/CD pipeline using Jenkins and GitLab CI, minimizing manual intervention and reducing release downtime by 32%. This allowed the engineering team to deploy new features and fixes more frequently and reliably.
-
-Web Developer Intern at IBM : 11/2015 – 02/2017
-•	Developed and maintained the core HR management platform using React.js for the frontend and Node.js with Express.js for the backend, providing HR managers and employees with a smooth and interactive interface.
-•	Built and integrated RESTful APIs to handle employee authentication, payroll management, leave requests, and performance tracking, ensuring a seamless experience for both HR teams and employees.
-•	Optimized database schemas in MongoDB and PostgreSQL to efficiently store employee records, training modules, and engagement analytics, enabling fast retrieval and secure data handling for thousands of users.
-•	Worked on real-time communication features using WebSockets, allowing managers and employees to engage in live chats, performance reviews, and onboarding sessions.
-•	Collaborated with the product and design teams to continually enhance the platform’s UI/UX, introducing personalized dashboards, notifications, and reporting tools for HR administrators.
-•	Integrated third-party services like Zoom and Google Workspace for virtual interviews, training sessions, and document management, enabling HR operations without leaving the platform.
-
 
 Skills:
 
@@ -442,6 +384,56 @@ PostgreSQL
 MySQL
 SQL Server
 
+Professional Experience:
+
+Senior Software Engineer at Softcom: 06/2022 - Current
+•	Led the platform-wide modernization effort by decomposing a tightly coupled legacy application into independent microservices using ASP.NET Core, containerized with Docker, and orchestrated via Kubernetes. Migrating workloads to AWS (ECS, RDS, S3, CloudWatch) reduced infrastructure costs by 25%, improved deployment reliability, and increased system uptime to 99.97%, enabling on-demand scalability and region-specific failover.
+•	Designed and implemented RESTful API gateways and internal services using .NET 6, TypeScript, and Node.js, establishing standardized service contracts for internal and external integrations. These APIs supported customer usage metering, billing, authentication, and workflow automations, and were hardened for multitenancy using strict isolation and tenant-aware logic.
+•	Developed a centralized customer and user identity management service using Entity Framework Core, PostgreSQL, and Redis for session caching. This system unified authentication across web, mobile, and partner apps, and allowed dynamic permission and role mapping for thousands of enterprise tenants with complex access control models.
+•	Built real-time communication and collaboration pipelines using SignalR, Azure Service Bus, and Redis Pub/Sub, enabling rich interactive features like presence detection, live updates, and cross-user notifications within a collaborative workspace UI. These capabilities were instrumental in expanding the platform's value to remote teams and distributed users.
+•	Spearheaded the development of an integrated video calling and virtual meeting module using WebRTC, tightly coupled with the calendar, chat, and scheduling systems. Backed by ASP.NET Core APIs and a React Native frontend, the module improved product engagement and reduced churn for enterprise customers offering remote support or virtual consultation services.
+•	Collaborated with data science teams to integrate machine learning models for customer behavior prediction and usage insights. We exposed TensorFlow models via RESTful endpoints using ASP.NET Core, and used them to power recommendation engines, usage alerts, and intelligent onboarding workflows — leading to a measurable drop in churn and a 21% increase in feature adoption.
+•	Automated billing, usage tracking, and claims processing workflows using Azure Logic Apps, SQL Server, and Entity Framework, connecting seamlessly to third-party CRMs, payment gateways, and finance systems. These automations reduced manual data entry by over 40% and ensured accuracy in invoicing and revenue recognition.
+•	Implemented enterprise-grade security architecture using OAuth 2.0, JWT tokens, and RBAC policies, supporting granular permissions, audit trails, and identity federation (via SAML/OIDC). Worked closely with InfoSec to conduct penetration testing, threat modeling, and ensure SOC 2 Type II compliance.
+•	Established CI/CD pipelines using Azure DevOps, GitLab, and GitHub Actions, integrating build, test, and deployment stages with Terraform for infrastructure provisioning. Leveraged ELK Stack, Prometheus, and Grafana for real-time monitoring, telemetry, and alerting. These pipelines enabled daily releases with rollback support and significantly reduced production incident recovery times.
+
+Software Engineer at Rover: 03/2020 – 09/2022
+•	Spearheaded the migration of Rover’s legacy monolithic architecture to a containerized microservices ecosystem using ASP.NET Core, Docker, and Kubernetes, enhancing scalability and fault tolerance while improving development agility.
+•	Designed and developed APIs to support core features such as pet service bookings, sitter onboarding, payment transactions, and secure user authentication. Integrated Stripe for payment processing and enforced secure OAuth 2.0 and JWT protocols to ensure safe and seamless financial transactions across web and mobile applications.
+•	Led the development of cross-platform mobile applications using React Native and ASP.NET Core, allowing users to manage bookings, view sitter profiles, and communicate on-the-go. The intuitive mobile experience contributed to a 20% increase in app engagement and user satisfaction across both iOS and Android platforms.
+•	Built a real-time pet tracking and notification system using SignalR, Redis, and Google Maps APIs, which allowed pet owners to receive instant updates and live tracking during walks or boarding sessions. This transparency significantly increased user trust and engagement, leading to a measurable boost in customer retention.
+•	Collaborated with data scientists to integrate machine learning models that delivered personalized pet sitter recommendations based on historical data, behavior, and preferences. These ML-driven enhancements resulted in improved booking rates and a more tailored user experience, helping Rover match customers with ideal service providers.
+•	Introduced automated CI/CD pipelines using Jenkins and GitLab, reducing deployment times by 34% and increasing release stability. This automation ensured quick iteration, consistent quality, and reduced hotfix incidents, while supporting parallel development across multiple microservices.
+•	Played a central role in strengthening platform-wide security by implementing role-based access control (RBAC), encrypting sensitive user data, and integrating fine-grained permissions. This ensured compliance with industry standards and greatly reduced the risk of data breaches and unauthorized access, especially during platform scaling and geographic expansion.
+•	Developed and integrated internationalization (i18n) support, enabling the platform to support multiple languages and currencies. This effort allowed Rover to enter new global markets and increased international user adoption while maintaining consistent UX across all regions.
+
+Software Developer at Intuit : 01/2018 – 02/2020
+•	Built scalable microservices using Node.js, Express, and TypeScript to handle millions of retail transactions, inventory updates, and order workflows, integrating with Stripe, PayPal, and logistics providers for seamless payment and fulfillment.
+•	Modernized the e-commerce frontend with React.js, Redux, and TypeScript, improving load times, responsiveness, and accessibility across devices while enhancing user experience for millions of shoppers.
+•	Led a large-scale cloud migration to AWS using Docker, Kubernetes, and Terraform, enabling autoscaling, reducing downtime incidents by 30%, and cutting infrastructure costs by transitioning from fixed provisioning to cloud-native elasticity.
+•	Optimized MongoDB and PostgreSQL databases by refactoring schemas, implementing sharding strategies, and applying indexing techniques, improving query speeds by 40% for catalogs, customer accounts, and transaction histories.
+•	Implemented secure authentication using JWT, OAuth 2.0, and MFA for customers and internal staff, achieving full PCI DSS, GDPR, and CCPA compliance while supporting detailed audit logging.
+•	Developed real-time event-driven systems with WebSockets and Redis for live inventory tracking, order notifications, and promotional updates, boosting customer engagement and retention.
+•	Automated CI/CD pipelines using Jenkins, GitLab CI, and Docker, reducing average deployment times by 40%, improving rollback reliability, and enabling blue/green deployment strategies for high-traffic retail platforms.
+•	Partnered with data science teams to integrate TensorFlow-based ML recommendation engines, delivering personalized product suggestions, upsell and cross-sell opportunities, and enhancing overall shopping experience.
+
+Associate Software Developer at The Home Spot : 02/2017 – 03/2018
+•	Developed a real-time inventory management system using ASP.NET Core, Java(Spring) and AngularJS, enabling stock tracking across hundreds of stores. This increased inventory visibility, reduced shortages, and provided employees with timely data to fulfill customer demand more effectively.
+•	Spearheaded the migration from a monolithic system to a containerized microservices architecture using Java-based services, Docker and Kubernetes, allowing for improved scalability, faster deployment cycles, and seamless handling of seasonal traffic surges during major retail events.
+•	Developed RESTful APIs for mission-critical services including order processing, inventory sync, and customer profile management using Java(Spring Boot) and .NET Core. These integrations enabled faster data flow between frontend and backend systems, resulting in a smoother checkout experience for online shoppers.
+•	Implemented secure authentication mechanisms using OAuth 2.0, JWT, and multi-factor authentication (MFA) for both customers and internal staff. These upgrades significantly improved the platform’s security posture, especially around sensitive customer and payment data.
+•	Designed and launched a mobile-first frontend using React Native, allowing store associates to manage inventory, access order details, and serve customers via handheld devices. This innovation boosted in-store operational efficiency and streamlined task execution on the sales floor.
+•	Migrated core applications to AWS cloud infrastructure using EC2, S3, and RDS, leading to a 21% reduction in infrastructure costs and substantial gains in platform reliability and availability during promotional periods.
+•	Automated the CI/CD pipeline using Jenkins and GitLab CI, minimizing manual intervention and reducing release downtime by 32%. This allowed the engineering team to deploy new features and fixes more frequently and reliably.
+
+Web Developer Intern at IBM : 11/2015 – 02/2017
+•	Developed and maintained the core HR management platform using React.js for the frontend and Node.js with Express.js for the backend, providing HR managers and employees with a smooth and interactive interface.
+•	Built and integrated RESTful APIs to handle employee authentication, payroll management, leave requests, and performance tracking, ensuring a seamless experience for both HR teams and employees.
+•	Optimized database schemas in MongoDB and PostgreSQL to efficiently store employee records, training modules, and engagement analytics, enabling fast retrieval and secure data handling for thousands of users.
+•	Worked on real-time communication features using WebSockets, allowing managers and employees to engage in live chats, performance reviews, and onboarding sessions.
+•	Collaborated with the product and design teams to continually enhance the platform’s UI/UX, introducing personalized dashboards, notifications, and reporting tools for HR administrators.
+•	Integrated third-party services like Zoom and Google Workspace for virtual interviews, training sessions, and document management, enabling HR operations without leaving the platform.
+
 Education:
 •Bachelor of Science, Computer Science (10/2011 – 08/2015)
 The University of Tokyo | Japan
@@ -464,54 +456,6 @@ across healthcare, finance, SaaS, manufacturing, IoT, and eCommerce domains. Exp
 within Agile and DevOps environments. Skilled at designing robust QA frameworks, defining quality strategy, and integrating automated tests 
 in CI/CD pipelines across AWS, Azure, and Kubernetes environments. Proven record of improving product stability, reducing release times, and enhancing user experience 
 through proactive defect prevention and rigorous testing methodologies.
-
-Professional Experience:
-
-Senior Software Engineer at Hexagon: 05/2025 - Current
-•	Integrate AI/ML services into production workflows, deploying FastAPI-based microservices to power personalization and real-time analytics, reducing service latency by 33%. 
-•	Design and maintain queue-based architectures using Celery and Redis, orchestrating asynchronous processing pipelines and reducing processing time by 30%. 
-•	Lead the architecture of a modular CMS platform using Django and PostgreSQL, scaling to over 500K monthly users and improving publishing cycles by 62%. 
-•	Optimize backend infrastructure with Redis caching and Cloudflare CDN, achieving a 46% improvement in page load speeds and global API responsiveness. 
-•	Implement role-based access control and multi-factor authentication in an EHR platform using Flask and MongoDB, securing 1M+ patient records. 
-•	Automate CI/CD pipelines with Docker, GitHub Actions, and Kubernetes, enabling zero-downtime updates and enhancing deployment efficiency. 
-•	Oversee ML pipeline lifecycle, from data wrangling to inference serving via FastAPI on AWS SageMaker, improving model deployment speed by 25%. 
-
-Software Engineer IV at Apple : 06/2024 – 05/2025
-•	Architect scalable e-Learning and Content Management Systems using FastAPI and PostgreSQL, reducing manual coordination by 73%.
-•	Develop intelligent course recommendation features with scikit-learn, boosting learner engagement by 38%.
-•	Build ADA-compliant frontends using React.js and Tailwind CSS, enhancing accessibility scores and reducing bounce rates by 33%. 
-•	Engineer GraphQL and RESTful APIs for real-time e-commerce, handling over $10M in transactions annually. 
-•	Design security-focused middleware layers in FastAPI, improving API error rates and traceability. 
-•	Refactor legacy Node.js systems into Python microservices, enhancing maintainability and reducing onboarding time by 45%. 
-
-Software Engineer IV at Microsoft : 10/2021 – 06/2023
-•	Rebuild video analytics portals into Python and Laravel-based microservices, enabling scalable data ingestion and analysis. 
-•	Architect Learning Management Systems using Laravel and FastAPI, supporting adaptive assessments and real-time learning paths. 
-•	Develop scalable RESTful APIs using Laravel and FastAPI, supporting multi-tenant environments and SSO integration. 
-•	Lead development of real-time dashboards with Vue.js, integrating WebSocket engagement tracking and Python logging services. 
-•	Collaborate with data science teams to deploy NLP and recommendation models, enabling tailored content delivery. 
-•	Refactor legacy ASP.NET Core services, aligning them with Laravel + Python stacks for unified system behavior.
-•	Build micro-frontends with React and TypeScript, enhancing UI component reusability and accessibility compliance. 
-•	Engineer CI/CD pipelines with GitHub Actions and Azure DevOps, enabling zero-downtime releases on Kubernetes. 
-•	Integrate external platforms through OAuth2-secured APIs, ensuring seamless sync of institutional records.
-
-Software Engineer III at Boeing Defense : 11/2017 - 11/2021
-•Developed and maintained automated API, integration, and end-to-end test frameworks for mission-critical defense systems using Python (PyTest) and .NET, integrated into Jenkins CI/CD pipelines to support secure and reliable software delivery.
-•Designed automated test harnesses for cross-platform user interfaces (web and mobile clients) validating command-and-control workflows, system notifications, and operational scenarios across multiple environments.
-•Implemented real-time system validation for distributed and event-driven architectures using SignalR/WebSockets and Redis, ensuring stability, data integrity, and low-latency communication in continuous integration environments.
-•Collaborated closely with systems engineers and data science teams to validate machine learning model integrations, supporting decision-support and recommendation capabilities; automated A/B and statistical validation testing to verify model accuracy and operational impact.
-•Built and optimized Jenkins and GitLab CI pipelines for automated regression, smoke, and integration testing, reducing deployment verification cycles by 34% while meeting aerospace quality and compliance standards.
-•Planned and executed performance, stress, and load testing using JMeter and Locust, validating system scalability and throughput under peak operational and mission-load conditions.
-•Established test governance and compliance controls, including RBAC, encrypted test data handling, audit-ready reporting, and internationalization (i18n) testing, supporting secure, globally deployed defense platforms.
-
-Software Developer at ServiceNow : 12/2015 – 09/2017
-•	Tested the learning management and content delivery platform, ensuring scalability and reliability for over 1M active users.
-•	Built automated smoke and regression tests using Mocha, Jest, and Selenium integrated into GitLab pipelines.
-•	Validated real-time data synchronization features built on WebSockets for instant course progress updates and live sessions.
-•	Conducted cross-platform UI and accessibility testing for web and mobile experiences to meet global accessibility standards.
-•	Performed API validation and security testing for third-party integrations with Zoom, Google Drive, and AWS CloudFront.
-•	Implemented defect classification metrics and reporting dashboards in JIRA and Confluence to improve team visibility.
-
 
 Skills:
 
@@ -565,6 +509,52 @@ Power BI
 Excel
 SQL Queries for Test Data
 
+Professional Experience:
+
+Senior Software Engineer at Hexagon: 05/2025 - Current
+•	Integrate AI/ML services into production workflows, deploying FastAPI-based microservices to power personalization and real-time analytics, reducing service latency by 33%. 
+•	Design and maintain queue-based architectures using Celery and Redis, orchestrating asynchronous processing pipelines and reducing processing time by 30%. 
+•	Lead the architecture of a modular CMS platform using Django and PostgreSQL, scaling to over 500K monthly users and improving publishing cycles by 62%. 
+•	Optimize backend infrastructure with Redis caching and Cloudflare CDN, achieving a 46% improvement in page load speeds and global API responsiveness. 
+•	Implement role-based access control and multi-factor authentication in an EHR platform using Flask and MongoDB, securing 1M+ patient records. 
+•	Automate CI/CD pipelines with Docker, GitHub Actions, and Kubernetes, enabling zero-downtime updates and enhancing deployment efficiency. 
+•	Oversee ML pipeline lifecycle, from data wrangling to inference serving via FastAPI on AWS SageMaker, improving model deployment speed by 25%. 
+
+Software Engineer IV at Apple : 06/2024 – 05/2025
+•	Architect scalable e-Learning and Content Management Systems using FastAPI and PostgreSQL, reducing manual coordination by 73%.
+•	Develop intelligent course recommendation features with scikit-learn, boosting learner engagement by 38%.
+•	Build ADA-compliant frontends using React.js and Tailwind CSS, enhancing accessibility scores and reducing bounce rates by 33%. 
+•	Engineer GraphQL and RESTful APIs for real-time e-commerce, handling over $10M in transactions annually. 
+•	Design security-focused middleware layers in FastAPI, improving API error rates and traceability. 
+•	Refactor legacy Node.js systems into Python microservices, enhancing maintainability and reducing onboarding time by 45%. 
+
+Software Engineer IV at Microsoft : 10/2021 – 06/2023
+•	Rebuild video analytics portals into Python and Laravel-based microservices, enabling scalable data ingestion and analysis. 
+•	Architect Learning Management Systems using Laravel and FastAPI, supporting adaptive assessments and real-time learning paths. 
+•	Develop scalable RESTful APIs using Laravel and FastAPI, supporting multi-tenant environments and SSO integration. 
+•	Lead development of real-time dashboards with Vue.js, integrating WebSocket engagement tracking and Python logging services. 
+•	Collaborate with data science teams to deploy NLP and recommendation models, enabling tailored content delivery. 
+•	Refactor legacy ASP.NET Core services, aligning them with Laravel + Python stacks for unified system behavior.
+•	Build micro-frontends with React and TypeScript, enhancing UI component reusability and accessibility compliance. 
+•	Engineer CI/CD pipelines with GitHub Actions and Azure DevOps, enabling zero-downtime releases on Kubernetes. 
+•	Integrate external platforms through OAuth2-secured APIs, ensuring seamless sync of institutional records.
+
+Software Engineer III at Boeing Defense : 11/2017 - 11/2021
+•Developed and maintained automated API, integration, and end-to-end test frameworks for mission-critical defense systems using Python (PyTest) and .NET, integrated into Jenkins CI/CD pipelines to support secure and reliable software delivery.
+•Designed automated test harnesses for cross-platform user interfaces (web and mobile clients) validating command-and-control workflows, system notifications, and operational scenarios across multiple environments.
+•Implemented real-time system validation for distributed and event-driven architectures using SignalR/WebSockets and Redis, ensuring stability, data integrity, and low-latency communication in continuous integration environments.
+•Collaborated closely with systems engineers and data science teams to validate machine learning model integrations, supporting decision-support and recommendation capabilities; automated A/B and statistical validation testing to verify model accuracy and operational impact.
+•Built and optimized Jenkins and GitLab CI pipelines for automated regression, smoke, and integration testing, reducing deployment verification cycles by 34% while meeting aerospace quality and compliance standards.
+•Planned and executed performance, stress, and load testing using JMeter and Locust, validating system scalability and throughput under peak operational and mission-load conditions.
+•Established test governance and compliance controls, including RBAC, encrypted test data handling, audit-ready reporting, and internationalization (i18n) testing, supporting secure, globally deployed defense platforms.
+
+Software Developer at ServiceNow : 12/2015 – 09/2017
+•	Tested the learning management and content delivery platform, ensuring scalability and reliability for over 1M active users.
+•	Built automated smoke and regression tests using Mocha, Jest, and Selenium integrated into GitLab pipelines.
+•	Validated real-time data synchronization features built on WebSockets for instant course progress updates and live sessions.
+•	Conducted cross-platform UI and accessibility testing for web and mobile experiences to meet global accessibility standards.
+•	Performed API validation and security testing for third-party integrations with Zoom, Google Drive, and AWS CloudFront.
+•	Implemented defect classification metrics and reporting dashboards in JIRA and Confluence to improve team visibility.
 
 Education:
 •Bachelor of Science, Computer Science (2007 – 2011)
@@ -587,6 +577,64 @@ Senior QA Automation Lead / SDET with over 12 years of experience designing and 
 for enterprise web and mobile platforms. Expert in Selenium, Cypress, Playwright, and API testing, with deep experience integrating test automation 
 into CI/CD pipelines using Jenkins, GitLab, and Docker. Proven success leading QA initiatives at Warner Bros. Discovery, CNN, and Cox Automotive, 
 improving test efficiency, quality coverage, and delivery speed. Passionate about shift-left testing, continuous improvement, and building high-performing QA teams.
+
+Skills:
+
+Node.js (Express, NestJS)
+ASP.NET Core (C#)
+Python (Flask)
+Java (Spring Boot)
+PHP (Laravel)
+SQL
+C++
+React.js 
+Angular
+TypeScript
+Redux
+Responsive UI design
+React Native
+AngularJS
+WebSockets
+Unit Testing
+Selenium
+Cypress
+Postman
+PyTest
+Robot Framework
+TestNG
+JUnit
+Jest
+Mocha
+Playwright
+Appium
+Jenkins
+GitLab CI/CD
+Azure DevOps
+Jira
+Zephyr
+QTest
+SonarQube
+AWS
+Azure
+GCP
+ELK Stack
+Terraform
+Kubernetes
+Docker
+ISO 9001
+HIPAA
+PCI DSS
+GDPR
+FDA 21 CFR Part 11
+Power BI
+Excel
+SQL Queries for Test Data
+PostgreSQL
+MySQL
+MongoDB
+REST APIs
+GraphQL
+JSON/XML Validation
 
 Professional Experience:
 
@@ -650,198 +698,9 @@ Tech Support Intern at Southern Polytechnic State University : 09/2015 – 03/20
 •	Documented recurring technical issues and supported process improvement initiatives for the IT helpdesk.
 •	Worked alongside senior IT staff to implement patch updates and system upgrades during maintenance windows.
 
-Skills:
-
-Node.js (Express, NestJS)
-ASP.NET Core (C#)
-Python (Flask)
-Java (Spring Boot)
-PHP (Laravel)
-SQL
-C++
-React.js 
-Angular
-TypeScript
-Redux
-Responsive UI design
-React Native
-AngularJS
-WebSockets
-Unit Testing
-Selenium
-Cypress
-Postman
-PyTest
-Robot Framework
-TestNG
-JUnit
-Jest
-Mocha
-Playwright
-Appium
-Jenkins
-GitLab CI/CD
-Azure DevOps
-Jira
-Zephyr
-QTest
-SonarQube
-AWS
-Azure
-GCP
-ELK Stack
-Terraform
-Kubernetes
-Docker
-ISO 9001
-HIPAA
-PCI DSS
-GDPR
-FDA 21 CFR Part 11
-Power BI
-Excel
-SQL Queries for Test Data
-PostgreSQL
-MySQL
-MongoDB
-REST APIs
-GraphQL
-JSON/XML Validation
-
 Education:
 •Bachelor of Science, Information Technology (09/2006 – 03/2011)
 Southern Polytechnic State University | USA`
-  },
-  { name: 'Zain Abdeen',
-    resumeText: `
-    Senior Software Engineer
-
-Zain Abdeen
-Senior Software Engineer
-zainabdeen0110@outlook.com
-+1 423 301 1901
-Tampa, Florida, USA
-
-Summary: 
-
-Full Stack Engineer with 10+ years of experience delivering scalable SaaS platforms and cloud-native applications across fintech, edtech, and healthcare. 
-Expert in Node.js, C# (.NET), Python (Flask), and Laravel, with strong frontend skills in React, Vue, Svelte, and TypeScript. 
-Skilled in microservices, real-time systems, and DevOps practices (Docker, Kubernetes, CI/CD). Proven ability to build secure, performant APIs and integrate AI/ML models and third-party systems. 
-Committed to clean architecture, accessibility, and cross-functional collaboration.
-
-Professional Experience:
-
-Senior Software Engineer at EmergentWirelessSolutions: 03/2023 - Current
-•	Collaborated with data science teams to integrate AI/ML services into production workflows, deploying Flask- and FastAPI-based microservices to power personalization, content categorization, and real-time learner analytics.
-•	Designed and maintained queue-based architectures using Celery and Redis, orchestrating asynchronous processing pipelines for appointments, content recommendations, and background jobs—resulting in a 33% latency reduction during traffic spikes.
-•	Led the architecture and delivery of a modular CMS platform using Django and PostgreSQL, with role-based publishing workflows and fine-grained permissions, scaling to over 500K monthly users with 62% faster content publishing cycles.
-•	Optimized backend infrastructure with Redis caching and Cloudflare CDN, improving global API responsiveness by 320ms and achieving a 46% improvement in page load speeds under high concurrency.
-•	Integrated role-based access control and multi-factor authentication (MFA) into an enterprise-grade EHR platform using Flask and MongoDB, securing sensitive medical records (HIPAA-compliant) for 200+ clinics and 1M+ patient records.
-•	Automated CI/CD pipelines with Docker, GitHub Actions, and Kubernetes, enabling blue-green deployments, zero-downtime updates, and consistent delivery across staging, QA, and production environments.
-•	Oversaw the full ML pipeline lifecycle, from data wrangling (pandas, NumPy) and model training (scikit-learn, TensorFlow) to inference serving via FastAPI with GPU-optimized deployments on AWS SageMaker and Lambda.
-
-Software Engineer at EmergentWirelessSolutions(Client: IBM) : 104/2020 – 03/2023
-•	Architected and implemented a scalable e-Learning and Content Management System using Python (FastAPI), Express (Node.js), and PostgreSQL, reducing manual academic coordination by 73% and supporting 10,000+ concurrent users with multi-tenant capabilities.
-•	Developed intelligent course recommendation and auto-tagging features using scikit-learn and spaCy, increasing learner engagement and content discoverability—leading to a 38% rise in course completions.
-•	Built a modern, ADA-compliant frontend using React.js and Tailwind CSS with deep integration into Python services, improving accessibility scores and reducing bounce rates by 33% across course pages.
-•	Engineered GraphQL and RESTful APIs in Django and Graphene to support real-time e-commerce campaign management (Shopify, Klaviyo, Recharge), handling over $10M in annual transaction volume.
-•	Led real-time collaboration feature development including live document editing, chat, and virtual classroom support using Python WebSocket servers and Socket.IO—resulting in a 38% increase in platform session time.
-•	Designed reusable, security-focused middleware layers in FastAPI, covering API rate-limiting, audit logging, token-based auth, and input validation—helping reduce API error rates and improve traceability.
-•	Refactored a legacy Node.js monolith into independently deployed Python microservices, applying Clean Architecture, DDD principles, and CI best practices to reduce developer onboarding time by 45% and improve maintainability.
-
-Software Developer at Google : 06/2016 – 03/2020
-•	Rebuilt a monolithic video analytics portal into modular, Python and Laravel-based microservices, using Service-Oriented Architecture (SOA) to enable scalable ingestion and analysis of high-volume emotional response data across marketing and research campaigns.
-•	Re-architected a Learning Management System into Laravel and Python (FastAPI)-based microservices, supporting scalable delivery of multimedia courses, adaptive assessments, and real-time learning paths across thousands of concurrent learners.
-•	Built secure, scalable RESTful APIs using Laravel (Sanctum, Passport) and Python (FastAPI, OAuth2), enabling multi-tenant student progress tracking, RBAC, and SAML-based SSO integration for educational institutions.
-•	Led the development of real-time analytics dashboards with Vue.js, Inertia.js, and Blade templates, integrating WebSocket engagement tracking (Laravel Echo + Pusher) and Python-based logging services to visualize learner interactions during lectures and exams.
-•	Integrated Flask-based AI/ML microservices into the LMS, powering automated content tagging, learning path personalization, and real-time sentiment analysis. Communicated via secure JSON APIs and asynchronous webhooks for low-latency ML insights.
-•	Collaborated with data science teams to deploy NLP and recommendation models using Python (spaCy, scikit-learn, TensorFlow), enabling tailored content delivery and dynamic quiz generation based on user behavior.
-•	Refactored legacy ASP.NET Core (C#) services and integrated with Laravel + Python stack, aligning authentication, user data models, and shared assessment data pipelines for unified system behavior and gradual service migration.
-•	Developed CMS-driven course creation features using Strapi, Drupal, WordPress, and Flask-admin, allowing instructors to manage lessons, quizzes, and media assets—cutting course setup time by 45%.
-•	Built micro-frontends with React, TypeScript, and Tailwind CSS, offering reusable UI components for feedback collection, progress reporting, and accessibility-compliant (WCAG 2.1) learning interfaces across devices.
-•	Engineered end-to-end CI/CD pipelines with GitHub Actions and Azure DevOps, orchestrating Python (pytest), PHP (PHPUnit), and .NET (xUnit) unit tests, Docker-based container builds, and blue-green deployments on Kubernetes for zero-downtime releases.
-•	Integrated external academic platforms (SIS, LMS plugins, AI grading engines) through OAuth2-secured APIs, webhooks, and ETL pipelines (Python-based), ensuring seamless sync of enrollment, attendance, and evaluation records across institutional systems.
-•	Applied professional software engineering practices, including Clean Architecture, domain-driven design (DDD), infrastructure-as-code (Terraform, Docker Compose), and Agile delivery with Jira and Confluence.
-
-Freelance Web Developer at Upwork : 09/2015 – 03/2017
-•	Developed and maintained a modern, component-based learning platform UI using React.js, later migrating select modules to Vue 3 and SvelteKit for performance-critical dashboards. Prioritized accessibility, responsiveness, and cross-browser compatibility across devices.
-•	Crafted responsive layouts using TailwindCSS and custom utility classes, ensuring pixel-perfect design consistency across mobile, tablet, and desktop. Achieved full WCAG AA compliance for accessibility in all core learning modules.
-•	Built modular frontend logic using TypeScript, enhancing maintainability and reducing runtime errors in production by nearly 43%. Leveraged Vite and ESBuild for blazing-fast dev experience and optimized builds.
-•	Integrated and consumed RESTful APIs for authentication, course content, and student data, using Axios and Fetch with robust error handling and caching. Improved perceived performance by preloading assets and using skeleton loaders in Vue and React.
-•	Designed real-time classroom features using WebSockets and reactive state management libraries (e.g., Svelte stores, Vuex, Redux Toolkit), enabling instant messaging, quiz polling, and collaborative tools with minimal latency.
-•	Integrated third-party services like Zoom (live video classrooms) and Google Drive (file sharing), embedding them via custom modals and safe iFrame wrappers. Enabled seamless, in-app usage without disrupting navigation flow.
-
-
-Skills:
-
-Node.js (Express, NestJS)
-ASP.NET Core (C#)
-Python (Flask)
-Java (Spring Boot)
-C++
-React.js 
-Angular
-TypeScript
-Redux
-Responsive UI design
-React Native
-AngularJS
-WebSockets
-reusable component libraries
-Storybook
-RESTful APIs
-GraphQL (Apollo)
-OAuth 2.0
-JWT
-SignalR
-Redis
-microservices
-concurrency control
-AWS (EC2, S3, CloudFront, Lambda)
-Azure (App Services, Event Hubs)
-Docker
-Kubernetes
-Helm
-Jenkins
-GitLab CI/CD
-Hadoop
-Spark
-Azure Synapse
-real-time analytics
-TensorFlow
-AI integration (chatbots, booking optimization)
-HIPAA
-HL7
-FHIR
-PCI DSS
-GDPR
-Azure AD
-MSAL
-RBAC
-data encryption
-Jest
-Enzyme
-JUnit
-Postman
-Swagger
-New Relic
-Datadog
-Azure Monitor
-Prometheus
-ELK Stack
-Git
-Jira
-VS Code
-PM2
-MongoDB
-PostgreSQL
-MySQL
-SQL Server
-
-Education:
-•Bachelor of Science, Computer Science (10/2013 – 08/2017)
-Quinnipiac University | US
-    `
   },
   {
     name: 'Soumik Banerjee',
@@ -860,48 +719,6 @@ Quinnipiac University | US
     integrating AI/ML models, and driving high-performance, accessible user interfaces with TailwindCSS and real-time features. 
     Proficient in modern DevOps practices (CI/CD, Docker, Kubernetes), event-driven architecture (Kafka, RabbitMQ), and test automation (xUnit, Cypress, Selenium). 
     Adept at collaborating across teams, mentoring developers, and delivering secure, data-intensive solutions in fintech, edtech, and analytics-driven environments.    
-
-    Professional Experience:
-    
-    Senior Software Engineer at Samsung Electronics: 05/2023 - Current
-    •	Architected and deployed microservices using C# (.NET 6/7), Docker, and Kubernetes, designing scalable, modular systems with gRPC and REST APIs. Implemented service discovery, circuit breakers, and health checks for fault-tolerant, production-grade environments.
-    •	Integrated AI and machine learning models into .NET-based microservices using ML.NET, ONNX Runtime, and Azure Cognitive Services, powering features like real-time sentiment analysis, recommendation engines, and document classification—driving a 40% boost in actionable insights.
-    •	Designed resilient cloud-native infrastructures on Azure (AKS, Cosmos DB) and AWS (ECS, RDS, S3) using Terraform and Helm for infrastructure-as-code. Enabled multi-region, auto-healing deployments with 99.99% uptime and built-in observability.
-    •	Developed responsive full-stack applications with .NET Core (Web API, SignalR) on the backend and React + TypeScript + Tailwind CSS on the frontend. Ensured seamless UX across devices with PWA support, boosting user satisfaction by 25%.
-    •	Led a mentorship and training initiative, coaching junior developers in C#, Entity Framework Core, and modern frontend frameworks. Improved team velocity and cut onboarding time by 52% through hands-on pairing, code reviews, and architectural walkthroughs.
-    •	Implemented robust CI/CD pipelines using GitHub Actions, Azure DevOps, and Jenkins, incorporating automated Docker builds, vulnerability scanning (Snyk), and blue-green deployments—resulting in a 54% reduction in deployment time and increased release confidence.
-    •	Built event-driven, intelligent microservices using Azure Service Bus, RabbitMQ, and Apache Kafka, processing high-throughput data streams with real-time alerting and AI-driven decision logic. Enabled actionable analytics pipelines with OpenTelemetry and Prometheus/Grafana.
-    •	Achieved 92%+ automated test coverage with xUnit, Selenium, Cypress, and SpecFlow, supporting TDD and BDD methodologies. Embedded automated testing into CI workflows to ensure stability, reliability, and minimal regression across all environments.
-
-    Software Engineer at Microsoft: 09/2021 - 04/2023
-    •	Re-architected a monolithic video analytics platform into a distributed, microservices-based SaaS solution using ASP.NET Core, Docker, and Kubernetes, enabling modular scalability for handling large volumes of video-based emotion response data across multiple brand campaigns.
-    •	Developed RESTful APIs to support emotion-scoring workflows, secure content delivery, campaign performance tracking, and user authentication, integrating with OAuth2, external IDPs, and internal permission controls to support agency and brand-level access tiers.
-    •	Improved data processing performance across SQL Server and MongoDB backends, optimizing queries and implementing in-memory caching (Redis) and advanced indexing strategies, reducing emotion scoring and response aggregation latency by 33%.
-    •	Implemented real-time streaming notifications using SignalR, Redis Pub/Sub, and WebSocket-based interfaces to provide brands and analysts with immediate feedback on audience reactions as test panels interacted with video content.
-    •	Built CI/CD pipelines with GitHub Actions, Helm, and Kubernetes, automating infrastructure provisioning, test coverage analysis, and rolling deployments with zero downtime—cutting release times by over 52% and improving system reliability.
-    •	Integrated machine learning models using ML.NET, ONNX Runtime, and Python-based pipelines (scikit-learn, NumPy, pandas) for facial expression analysis, emotion classification, and viewer engagement prediction. Used Python for preprocessing large video metadata, aligning time-coded emotion data with panelist reactions across frames.
-    •	Developed and deployed auxiliary Python-based microservices for AI workflows, including Flask-based inference endpoints and background workers (with Celery + RabbitMQ) for batch model scoring, asynchronous analytics tasks, and feature extraction.
-    •	Enabled localization and region-aware analytics, incorporating Python’s i18n libraries to support multilingual datasets and regional formatting. Helped expand the platform’s ability to test and optimize ads globally with compliant, culturally aligned UX.
-   
-    Software Engineer at AMD: 01/2016 - 09/2021
-    •	Designed and developed highly modular micro-frontends using React, TypeScript, and Tailwind CSS, building dynamic procurement, invoicing, and contract management experiences that scaled across multiple enterprise modules. Collaborated with designers and UX researchers to deliver accessible, WCAG-compliant components via Storybook and a shared design system, increasing development velocity across teams by 32%.
-    •	Architected and implemented scalable APIs using ASP.NET Core and Entity Framework Core, facilitating multi-step approval workflows, supplier integration, budgeting controls, and real-time audit trails. Focused on clean architecture principles and DDD patterns to ensure maintainability and separation of concerns in high-complexity finance modules.
-    •	Built intelligent dashboards and interactive data visualizations using Highcharts, Recharts, and custom D3.js components to surface real-time KPIs such as invoice cycle time, supplier spend compliance, and forecasted savings. Optimized rendering for large datasets using virtualization and debouncing techniques, delivering responsive user experiences in data-heavy views.
-    •	Integrated with third-party ERP and HR systems including SAP, Workday, NetSuite, and Oracle Financials, leveraging secure OAuth2, SAML, and webhook-based pipelines to ensure data integrity and synchronization across financial systems. Implemented fallback logic and monitoring to prevent failures in critical external dependencies.
-    •	Improved frontend performance and maintainability through code splitting, lazy loading, and dependency optimization via Webpack and Vite, reducing initial load times by over 42% and improving maintainability by modularizing business logic into reusable hooks and services.
-    •	Engineered automated CI/CD pipelines using GitHub Actions, Azure DevOps, and Docker, integrating linting, unit testing (Jest, xUnit), containerization, infrastructure-as-code (Terraform), and blue-green deployments into production Kubernetes clusters with zero downtime.
-    •	Collaborated in agile, cross-functional product teams with PMs, designers, QA, and DevOps, participating in sprint planning, backlog grooming, technical design reviews, and post-mortems. Played a key role in prioritizing technical debt, refactoring legacy code, and scaling high-traffic modules used by Fortune 500 clients.
-    •	Implemented advanced RBAC and multi-tenant architecture to support enterprise clients with strict compliance and audit requirements (SOX, GDPR). Developed configurable access layers and approval routing based on user roles, regions, and organizational hierarchy.
-
-    Software Developer(Intern) at Altera: 01/2013 – 08/2013
-    •	Built scalable trading services in Java using Spring Boot and Kafka to support high-volume crypto transactions. Optimized key components in the trade matching engine to reduce execution latency and improve overall system responsiveness during peak traffic.
-    •	Developed secure C# (.NET Core) services for fraud detection and regulatory compliance, integrating with KYC/AML providers. Detection precision reached above 98%, while false positives remained under 1.4%, leading to stronger audit outcomes.
-    •	Engineered real-time wallet balance tracking using Redis, Kafka Streams, and WebSockets. This eliminated sync issues and delivered sub-second updates to users, improving trust and transparency across the platform.
-    •	Implemented centralized authentication flows with OAuth2 and JWT across C# and Java stacks. Login-related errors dropped significantly, and session management maintained 99.99% uptime, supporting smooth multi-device access.
-    •	Built asynchronous ledger pipelines using RabbitMQ and Kafka for asset transfers and reconciliation processes. Achieved a 99% transaction finality within 30 seconds benchmark, even during volatile market conditions.
-    •	Developed RESTful APIs for onboarding, interest projections, and loan servicing using Spring Boot and ASP.NET Core. Maintained consistent response times under high concurrency without compromising reliability.
-    •	Collaborated on Angular front-end components for live price tickers, charts, and user dashboards. The design emphasized responsiveness and clarity, helping increase platform engagement and retention among high-frequency users.
-    •	Automated CI/CD pipelines using Jenkins, Docker, and Helm for both Java and .NET services. Reduced average deployment times by over 60%, while cutting rollback frequency by more than half through improved test and release coverage.
 
     Skills:
     
@@ -998,6 +815,48 @@ Quinnipiac University | US
     NetSuite
     Workday
 
+    Professional Experience:
+    
+    Senior Software Engineer at Samsung Electronics: 05/2023 - Current
+    •	Architected and deployed microservices using C# (.NET 6/7), Docker, and Kubernetes, designing scalable, modular systems with gRPC and REST APIs. Implemented service discovery, circuit breakers, and health checks for fault-tolerant, production-grade environments.
+    •	Integrated AI and machine learning models into .NET-based microservices using ML.NET, ONNX Runtime, and Azure Cognitive Services, powering features like real-time sentiment analysis, recommendation engines, and document classification—driving a 40% boost in actionable insights.
+    •	Designed resilient cloud-native infrastructures on Azure (AKS, Cosmos DB) and AWS (ECS, RDS, S3) using Terraform and Helm for infrastructure-as-code. Enabled multi-region, auto-healing deployments with 99.99% uptime and built-in observability.
+    •	Developed responsive full-stack applications with .NET Core (Web API, SignalR) on the backend and React + TypeScript + Tailwind CSS on the frontend. Ensured seamless UX across devices with PWA support, boosting user satisfaction by 25%.
+    •	Led a mentorship and training initiative, coaching junior developers in C#, Entity Framework Core, and modern frontend frameworks. Improved team velocity and cut onboarding time by 52% through hands-on pairing, code reviews, and architectural walkthroughs.
+    •	Implemented robust CI/CD pipelines using GitHub Actions, Azure DevOps, and Jenkins, incorporating automated Docker builds, vulnerability scanning (Snyk), and blue-green deployments—resulting in a 54% reduction in deployment time and increased release confidence.
+    •	Built event-driven, intelligent microservices using Azure Service Bus, RabbitMQ, and Apache Kafka, processing high-throughput data streams with real-time alerting and AI-driven decision logic. Enabled actionable analytics pipelines with OpenTelemetry and Prometheus/Grafana.
+    •	Achieved 92%+ automated test coverage with xUnit, Selenium, Cypress, and SpecFlow, supporting TDD and BDD methodologies. Embedded automated testing into CI workflows to ensure stability, reliability, and minimal regression across all environments.
+
+    Software Engineer at Microsoft: 09/2021 - 04/2023
+    •	Re-architected a monolithic video analytics platform into a distributed, microservices-based SaaS solution using ASP.NET Core, Docker, and Kubernetes, enabling modular scalability for handling large volumes of video-based emotion response data across multiple brand campaigns.
+    •	Developed RESTful APIs to support emotion-scoring workflows, secure content delivery, campaign performance tracking, and user authentication, integrating with OAuth2, external IDPs, and internal permission controls to support agency and brand-level access tiers.
+    •	Improved data processing performance across SQL Server and MongoDB backends, optimizing queries and implementing in-memory caching (Redis) and advanced indexing strategies, reducing emotion scoring and response aggregation latency by 33%.
+    •	Implemented real-time streaming notifications using SignalR, Redis Pub/Sub, and WebSocket-based interfaces to provide brands and analysts with immediate feedback on audience reactions as test panels interacted with video content.
+    •	Built CI/CD pipelines with GitHub Actions, Helm, and Kubernetes, automating infrastructure provisioning, test coverage analysis, and rolling deployments with zero downtime—cutting release times by over 52% and improving system reliability.
+    •	Integrated machine learning models using ML.NET, ONNX Runtime, and Python-based pipelines (scikit-learn, NumPy, pandas) for facial expression analysis, emotion classification, and viewer engagement prediction. Used Python for preprocessing large video metadata, aligning time-coded emotion data with panelist reactions across frames.
+    •	Developed and deployed auxiliary Python-based microservices for AI workflows, including Flask-based inference endpoints and background workers (with Celery + RabbitMQ) for batch model scoring, asynchronous analytics tasks, and feature extraction.
+    •	Enabled localization and region-aware analytics, incorporating Python’s i18n libraries to support multilingual datasets and regional formatting. Helped expand the platform’s ability to test and optimize ads globally with compliant, culturally aligned UX.
+   
+    Software Engineer at AMD: 01/2016 - 09/2021
+    •	Designed and developed highly modular micro-frontends using React, TypeScript, and Tailwind CSS, building dynamic procurement, invoicing, and contract management experiences that scaled across multiple enterprise modules. Collaborated with designers and UX researchers to deliver accessible, WCAG-compliant components via Storybook and a shared design system, increasing development velocity across teams by 32%.
+    •	Architected and implemented scalable APIs using ASP.NET Core and Entity Framework Core, facilitating multi-step approval workflows, supplier integration, budgeting controls, and real-time audit trails. Focused on clean architecture principles and DDD patterns to ensure maintainability and separation of concerns in high-complexity finance modules.
+    •	Built intelligent dashboards and interactive data visualizations using Highcharts, Recharts, and custom D3.js components to surface real-time KPIs such as invoice cycle time, supplier spend compliance, and forecasted savings. Optimized rendering for large datasets using virtualization and debouncing techniques, delivering responsive user experiences in data-heavy views.
+    •	Integrated with third-party ERP and HR systems including SAP, Workday, NetSuite, and Oracle Financials, leveraging secure OAuth2, SAML, and webhook-based pipelines to ensure data integrity and synchronization across financial systems. Implemented fallback logic and monitoring to prevent failures in critical external dependencies.
+    •	Improved frontend performance and maintainability through code splitting, lazy loading, and dependency optimization via Webpack and Vite, reducing initial load times by over 42% and improving maintainability by modularizing business logic into reusable hooks and services.
+    •	Engineered automated CI/CD pipelines using GitHub Actions, Azure DevOps, and Docker, integrating linting, unit testing (Jest, xUnit), containerization, infrastructure-as-code (Terraform), and blue-green deployments into production Kubernetes clusters with zero downtime.
+    •	Collaborated in agile, cross-functional product teams with PMs, designers, QA, and DevOps, participating in sprint planning, backlog grooming, technical design reviews, and post-mortems. Played a key role in prioritizing technical debt, refactoring legacy code, and scaling high-traffic modules used by Fortune 500 clients.
+    •	Implemented advanced RBAC and multi-tenant architecture to support enterprise clients with strict compliance and audit requirements (SOX, GDPR). Developed configurable access layers and approval routing based on user roles, regions, and organizational hierarchy.
+
+    Software Developer(Intern) at Altera: 01/2013 – 08/2013
+    •	Built scalable trading services in Java using Spring Boot and Kafka to support high-volume crypto transactions. Optimized key components in the trade matching engine to reduce execution latency and improve overall system responsiveness during peak traffic.
+    •	Developed secure C# (.NET Core) services for fraud detection and regulatory compliance, integrating with KYC/AML providers. Detection precision reached above 98%, while false positives remained under 1.4%, leading to stronger audit outcomes.
+    •	Engineered real-time wallet balance tracking using Redis, Kafka Streams, and WebSockets. This eliminated sync issues and delivered sub-second updates to users, improving trust and transparency across the platform.
+    •	Implemented centralized authentication flows with OAuth2 and JWT across C# and Java stacks. Login-related errors dropped significantly, and session management maintained 99.99% uptime, supporting smooth multi-device access.
+    •	Built asynchronous ledger pipelines using RabbitMQ and Kafka for asset transfers and reconciliation processes. Achieved a 99% transaction finality within 30 seconds benchmark, even during volatile market conditions.
+    •	Developed RESTful APIs for onboarding, interest projections, and loan servicing using Spring Boot and ASP.NET Core. Maintained consistent response times under high concurrency without compromising reliability.
+    •	Collaborated on Angular front-end components for live price tickers, charts, and user dashboards. The design emphasized responsiveness and clarity, helping increase platform engagement and retention among high-frequency users.
+    •	Automated CI/CD pipelines using Jenkins, Docker, and Helm for both Java and .NET services. Reduced average deployment times by over 60%, while cutting rollback frequency by more than half through improved test and release coverage.
+
     Education:
     Master's Degree of Computer & Electrical Engineering in 2013
     The University of New Mexico | USA
@@ -1025,52 +884,6 @@ Quinnipiac University | US
     Proven track record in modernizing legacy systems, building microservices, and leading cloud migrations on AWS and Azure. 
     Strong background in real-time systems, DevOps automation, and compliance with HIPAA, FHIR, PCI DSS, and GDPR standards. 
     Passionate about solving complex engineering challenges and creating high-impact, user-centric solutions.
-
-    Professional Experience:
-    
-    Senior Software Engineer at Kiggla: 03/2025 - Current
-    •	Architected and deployed microservices using C# (.NET 6/7), Docker, and Kubernetes, designing scalable, modular systems with gRPC and REST APIs. Implemented service discovery, circuit breakers, and health checks for fault-tolerant, production-grade environments.
-    •	Integrated AI and machine learning models into .NET-based microservices using ML.NET, ONNX Runtime, and Azure Cognitive Services, powering features like real-time sentiment analysis, recommendation engines, and document classification—driving a 40% boost in actionable insights.
-    •	Designed resilient cloud-native infrastructures on Azure (AKS, Cosmos DB) and AWS (ECS, RDS, S3) using Terraform and Helm for infrastructure-as-code. Enabled multi-region, auto-healing deployments with 99.99% uptime and built-in observability.
-    •	Developed responsive full-stack applications with .NET Core (Web API, SignalR) on the backend and React + TypeScript + Tailwind CSS on the frontend. Ensured seamless UX across devices with PWA support, boosting user satisfaction by 25%.
-    •	Led a mentorship and training initiative, coaching junior developers in C#, Entity Framework Core, and modern frontend frameworks. Improved team velocity and cut onboarding time by 52% through hands-on pairing, code reviews, and architectural walkthroughs.
-    •	Implemented robust CI/CD pipelines using GitHub Actions, Azure DevOps, and Jenkins, incorporating automated Docker builds, vulnerability scanning (Snyk), and blue-green deployments—resulting in a 54% reduction in deployment time and increased release confidence.
-    •	Built event-driven, intelligent microservices using Azure Service Bus, RabbitMQ, and Apache Kafka, processing high-throughput data streams with real-time alerting and AI-driven decision logic. Enabled actionable analytics pipelines with OpenTelemetry and Prometheus/Grafana.
-    •	Achieved 92%+ automated test coverage with xUnit, Selenium, Cypress, and SpecFlow, supporting TDD and BDD methodologies. Embedded automated testing into CI workflows to ensure stability, reliability, and minimal regression across all environments.
-
-    Senior Software Engineer at Amazon: 12/2020 - 01/2025
-    •	Led the Platform Engineering initiative within Amazon to build a next-generation image-based release system for foundational AWS services, enabling immutable deployments and reducing cold start times by 45% across distributed systems.
-    •	Architected and implemented deployment automation that updated system software consistently across Amazon’s vast global service ecosystem, improving release reliability, rollback safety, and observability.
-    •	Partnered with SRE and security teams to ensure zero-downtime software rollouts, enhancing compliance with PCI DSS and internal audit standards.
-    •	Reengineered a legacy reservation system into a scalable, cloud-native platform using ASP.NET Core, C#, and Node.js, improving performance and maintainability while supporting existing business logic during phased migration.
-    •	Migrated core components to a hybrid AWS and Azure environment, implementing containerized workloads with Docker and Kubernetes for rapid deployment and predictable scaling.
-    •	Integrated AI-driven optimization models using Python, FastAPI, and Azure Machine Learning to analyze usage patterns, automate resource allocation, and improve system throughput by 23%.
-    •	Built real-time analytics dashboards using Node.js, Angular, and WebSockets to track user engagement, system load, and deployment metrics, reducing operational response times by 37%.
-    •	Strengthened authentication across services with Azure AD, MSAL, and JWT-based security, achieving enterprise-grade access control and session security.
-    •	Introduced GitOps workflows using GitHub Actions, Helm, and Terraform to fully automate infrastructure provisioning and software updates, cutting deployment time in half.
-    •	Mentored a cross-functional team of 6 engineers, promoting best practices in distributed systems design, continuous delivery, and cloud-native architecture.
-
-    Software Engineer at Google: 10/2017 - 12/2020
-    •	Developed a real-time inventory management system using Express.js, Java (Spring Boot), and AngularJS, enabling stock tracking across hundreds of stores. This increased inventory visibility, reduced shortages, and provided employees with timely data to fulfill customer demand more effectively.
-    •	Developed a highly responsive user interface for PayPal’s transaction platform using React.js, reducing page load time by 32% and increasing user satisfaction scores by 27%. Created reusable components and optimized virtual DOM performance for dynamic user flows.
-    •	Revamped a legacy platform module using Angular, improving application scalability and maintainability. Refactored inefficient data flows and reduced memory footprint by restructuring component hierarchies.
-    •	Implemented a payment-splitting feature on the checkout page using React, Redux, and RESTful APIs, driving a 13% increase in user engagement and a smoother multi-party transaction experience.
-    •	Redesigned CSS and layout logic to ensure pixel-perfect, cross-browser compatibility across major platforms, enhancing visual consistency and usability.
-    •	Engineered RESTful backend services in Java and Spring Boot for payment processing, authentication, and session management. Ensured seamless integration with frontend via clearly defined API contracts.
-    •	Built and optimized backend modules in C++ to support performance-critical services, including transaction validation and fraud checks. Applied memory-efficient data structures and multithreading to handle high concurrency workloads.
-    •	Created a reusable React component library, standardizing UI patterns and reducing development time by 30%. Integrated with Storybook for live documentation and team adoption.
-    •	Implemented unit and integration tests using Jest, Enzyme, and JUnit, improving code coverage and reducing production bugs by 40%. Introduced CI checks for UI regression detection.
-    •	Managed application state using Redux and Context API, handling complex user interactions and asynchronous data fetching across payment workflows.
-    •	Collaborated with business and UX teams to translate product requirements into scalable technical solutions. Participated in Agile ceremonies, sprint planning, and design reviews.
-
-    Software Developer at Amazon: 08/2016 – 09/2017
-    •	Supported the development of high-volume software systems focused on scalability and reliability. Contributed to optimizing backend services and database access patterns for speed and resilience.
-    •	Built responsive web interfaces using HTML5, CSS3, and jQuery, improving front-end interactivity and mobile responsiveness for critical user workflows.
-    •	Designed and implemented user-facing features in collaboration with senior engineers and product managers, resulting in increased user engagement and lower churn.
-    •	Assisted in C++ module development for backend services, applying concepts like hash maps, linked lists, and priority queues to optimize algorithmic performance and reduce response latency in transaction-heavy operations.
-    •	Applied Object-Oriented Design principles to structure reusable and extensible components in both frontend and backend codebases.
-    •	Developed foundational knowledge in algorithms, data structures, databases, and operating systems through hands-on work and mentorship, preparing for higher-complexity engineering challenges.
-    •	Participated in code reviews and estimations, contributing to a 12% increase in team efficiency and helping deliver projects on time with consistent quality.
 
     Skills:
     
@@ -1142,6 +955,52 @@ Quinnipiac University | US
     MySQL
     SQL Server
 
+    Professional Experience:
+    
+    Senior Software Engineer at Kiggla: 03/2025 - Current
+    •	Architected and deployed microservices using C# (.NET 6/7), Docker, and Kubernetes, designing scalable, modular systems with gRPC and REST APIs. Implemented service discovery, circuit breakers, and health checks for fault-tolerant, production-grade environments.
+    •	Integrated AI and machine learning models into .NET-based microservices using ML.NET, ONNX Runtime, and Azure Cognitive Services, powering features like real-time sentiment analysis, recommendation engines, and document classification—driving a 40% boost in actionable insights.
+    •	Designed resilient cloud-native infrastructures on Azure (AKS, Cosmos DB) and AWS (ECS, RDS, S3) using Terraform and Helm for infrastructure-as-code. Enabled multi-region, auto-healing deployments with 99.99% uptime and built-in observability.
+    •	Developed responsive full-stack applications with .NET Core (Web API, SignalR) on the backend and React + TypeScript + Tailwind CSS on the frontend. Ensured seamless UX across devices with PWA support, boosting user satisfaction by 25%.
+    •	Led a mentorship and training initiative, coaching junior developers in C#, Entity Framework Core, and modern frontend frameworks. Improved team velocity and cut onboarding time by 52% through hands-on pairing, code reviews, and architectural walkthroughs.
+    •	Implemented robust CI/CD pipelines using GitHub Actions, Azure DevOps, and Jenkins, incorporating automated Docker builds, vulnerability scanning (Snyk), and blue-green deployments—resulting in a 54% reduction in deployment time and increased release confidence.
+    •	Built event-driven, intelligent microservices using Azure Service Bus, RabbitMQ, and Apache Kafka, processing high-throughput data streams with real-time alerting and AI-driven decision logic. Enabled actionable analytics pipelines with OpenTelemetry and Prometheus/Grafana.
+    •	Achieved 92%+ automated test coverage with xUnit, Selenium, Cypress, and SpecFlow, supporting TDD and BDD methodologies. Embedded automated testing into CI workflows to ensure stability, reliability, and minimal regression across all environments.
+
+    Senior Software Engineer at Amazon: 12/2020 - 01/2025
+    •	Led the Platform Engineering initiative within Amazon to build a next-generation image-based release system for foundational AWS services, enabling immutable deployments and reducing cold start times by 45% across distributed systems.
+    •	Architected and implemented deployment automation that updated system software consistently across Amazon’s vast global service ecosystem, improving release reliability, rollback safety, and observability.
+    •	Partnered with SRE and security teams to ensure zero-downtime software rollouts, enhancing compliance with PCI DSS and internal audit standards.
+    •	Reengineered a legacy reservation system into a scalable, cloud-native platform using ASP.NET Core, C#, and Node.js, improving performance and maintainability while supporting existing business logic during phased migration.
+    •	Migrated core components to a hybrid AWS and Azure environment, implementing containerized workloads with Docker and Kubernetes for rapid deployment and predictable scaling.
+    •	Integrated AI-driven optimization models using Python, FastAPI, and Azure Machine Learning to analyze usage patterns, automate resource allocation, and improve system throughput by 23%.
+    •	Built real-time analytics dashboards using Node.js, Angular, and WebSockets to track user engagement, system load, and deployment metrics, reducing operational response times by 37%.
+    •	Strengthened authentication across services with Azure AD, MSAL, and JWT-based security, achieving enterprise-grade access control and session security.
+    •	Introduced GitOps workflows using GitHub Actions, Helm, and Terraform to fully automate infrastructure provisioning and software updates, cutting deployment time in half.
+    •	Mentored a cross-functional team of 6 engineers, promoting best practices in distributed systems design, continuous delivery, and cloud-native architecture.
+
+    Software Engineer at Google: 10/2017 - 12/2020
+    •	Developed a real-time inventory management system using Express.js, Java (Spring Boot), and AngularJS, enabling stock tracking across hundreds of stores. This increased inventory visibility, reduced shortages, and provided employees with timely data to fulfill customer demand more effectively.
+    •	Developed a highly responsive user interface for PayPal’s transaction platform using React.js, reducing page load time by 32% and increasing user satisfaction scores by 27%. Created reusable components and optimized virtual DOM performance for dynamic user flows.
+    •	Revamped a legacy platform module using Angular, improving application scalability and maintainability. Refactored inefficient data flows and reduced memory footprint by restructuring component hierarchies.
+    •	Implemented a payment-splitting feature on the checkout page using React, Redux, and RESTful APIs, driving a 13% increase in user engagement and a smoother multi-party transaction experience.
+    •	Redesigned CSS and layout logic to ensure pixel-perfect, cross-browser compatibility across major platforms, enhancing visual consistency and usability.
+    •	Engineered RESTful backend services in Java and Spring Boot for payment processing, authentication, and session management. Ensured seamless integration with frontend via clearly defined API contracts.
+    •	Built and optimized backend modules in C++ to support performance-critical services, including transaction validation and fraud checks. Applied memory-efficient data structures and multithreading to handle high concurrency workloads.
+    •	Created a reusable React component library, standardizing UI patterns and reducing development time by 30%. Integrated with Storybook for live documentation and team adoption.
+    •	Implemented unit and integration tests using Jest, Enzyme, and JUnit, improving code coverage and reducing production bugs by 40%. Introduced CI checks for UI regression detection.
+    •	Managed application state using Redux and Context API, handling complex user interactions and asynchronous data fetching across payment workflows.
+    •	Collaborated with business and UX teams to translate product requirements into scalable technical solutions. Participated in Agile ceremonies, sprint planning, and design reviews.
+
+    Software Developer at Amazon: 08/2016 – 09/2017
+    •	Supported the development of high-volume software systems focused on scalability and reliability. Contributed to optimizing backend services and database access patterns for speed and resilience.
+    •	Built responsive web interfaces using HTML5, CSS3, and jQuery, improving front-end interactivity and mobile responsiveness for critical user workflows.
+    •	Designed and implemented user-facing features in collaboration with senior engineers and product managers, resulting in increased user engagement and lower churn.
+    •	Assisted in C++ module development for backend services, applying concepts like hash maps, linked lists, and priority queues to optimize algorithmic performance and reduce response latency in transaction-heavy operations.
+    •	Applied Object-Oriented Design principles to structure reusable and extensible components in both frontend and backend codebases.
+    •	Developed foundational knowledge in algorithms, data structures, databases, and operating systems through hands-on work and mentorship, preparing for higher-complexity engineering challenges.
+    •	Participated in code reviews and estimations, contributing to a 12% increase in team efficiency and helping deliver projects on time with consistent quality.
+    
     Education:
     Bachelor's Degree of Computer Science (08/2012 - 05/2016)
     Rose-Hulman Institute of Technology | USA
@@ -1360,10 +1219,9 @@ Quinnipiac University | US
     Associate’s Degree of Computer Technology | Aug 2009 – Apr 2012
     LaGuardia Community College | USA
 
-    
     `
   }, 
-      {
+  {
     name: 'Filip Kowal',
     resumeText: `Senior Software Engineer
 
@@ -1379,47 +1237,6 @@ Quinnipiac University | US
     Expertise in automation frameworks, CI/CD integration, API validation, performance testing, and end-to-end quality assurance for web, mobile, and backend systems. Skilled in Python (Pytest, Behave, Selenium), 
     C# (.NET Test, SpecFlow), and JavaScript (Playwright, Cypress). Adept at driving test architecture in distributed microservices, ensuring compliance with HIPAA, PCI DSS, and GDPR. 
     Passionate about improving reliability, scalability, and customer experience through robust test automation and data-driven QA processes.
-
-    Professional Experience:
-    
-    Senior QA Engineer at HackerEarth: 04/2024 - Current
-    •	Led QA transformation by building Python (Pytest, Behave) and Selenium-based automation frameworks integrated into CI/CD pipelines, achieving 80% regression coverage across microservices.
-    •	Validated RESTful APIs and event-driven services in FastAPI and Laravel, implementing API versioning, token-based authentication testing, and error resilience validation.
-    •	Built automated data validation suites using Python, PostgreSQL, and MongoDB for ensuring consistency across customer, billing, and analytics services.
-    •	Developed end-to-end test scenarios for real-time pipelines (Azure Event Hubs, WebSockets), ensuring accurate analytics and alert generation.
-    •	Tested WebRTC-based meeting platform for latency, media quality, and cross-browser reliability using automated WebDriver scripts.
-    •	Collaborated with data teams to validate predictive models integrated through TensorFlow APIs, ensuring deterministic behavior and reproducibility.
-    •	Automated workflow and billing test cases through Azure Logic Apps, reducing manual validation efforts by 45%.
-    •	Strengthened testing security via automated OAuth 2.0 and RBAC tests, supporting GDPR and PCI DSS audit readiness.
-    •	Integrated QA checks into Azure DevOps and GitLab pipelines, enabling automated smoke, regression, and post-deploy verification steps monitored via ELK dashboards.
-
-    Software Engineer IV at Roshen: 10/2022 - 02/2024
-    •	Developed automated API and end-to-end tests for core services (bookings, onboarding, payments) using Python (Pytest) and .NET test suites integrated into Jenkins pipelines.
-    •	Created test harnesses for React Native apps, automating UI and API flows to validate booking and notification scenarios across iOS and Android.
-    •	Built real-time system validation for pet tracking modules using SignalR, Redis, and Google Maps APIs, performing continuous integration testing for WebSocket stability.
-    •	Collaborated with ML engineers to validate recommendation model integration and conduct A/B test automation for booking accuracy metrics.
-    •	Implemented Jenkins and GitLab CI pipelines for automated regression suites, improving deployment verification speed by 34%.
-    •	Defined and executed performance and load testing using JMeter and Locust, optimizing throughput for peak booking traffic.
-    •	Introduced test governance with RBAC, encrypted test data storage, and i18n testing to support secure, multi-language global releases.
-
-    Software Engineer III at Roshen: 01/2021 - 10/2022
-    •	Designed large-scale automation frameworks in Node.js and TypeScript for payment APIs and tax submission services, achieving 95% test coverage for critical user journeys.
-    •	Automated UI and backend testing for React and Angular frontends, integrating Cypress, Playwright, and Jest suites for continuous validation.
-    •	Developed API contract and performance validation for AWS-hosted microservices using Postman collections and custom Python CLI tools.
-    •	Built data integrity testing pipelines across PostgreSQL and MongoDB, implementing validation scripts for multi-tenant data isolation.
-    •	Performed penetration and compliance testing with JWT, MFA, and OAuth 2.0 scenarios to meet PCI DSS, GDPR, and CCPA requirements.
-    •	Built event-driven test monitors with Redis and WebSockets to verify real-time notifications for Credit Karma users.
-    •	Automated full CI/CD QA gates with Jenkins and GitLab CI, reducing manual QA signoff cycles by 40%.
-    •	Collaborated with data science teams to automate ML model validation and inference API testing using TensorFlow and Python scripts.
-
-    Software QA Tester II at Softeq: 04/2017 - 08/2020
-    •	Designed test automation suites for Python (Flask) and Java (Spring Boot) services managing inventory and orders, achieving stable regression automation.
-    •	Validated RESTful APIs for high-volume inventory sync, order lifecycle, and customer profile services with automated Postman and Rest Assured suites.
-    •	Automated authentication test cases for OAuth 2.0 and MFA flows, improving login reliability and compliance validation.
-    •	Built Selenium-based mobile web test suites for React Native frontends, ensuring responsive and accessible UIs.
-    •	Developed API mocking and data simulation tools to emulate seasonal traffic for stress testing.
-    •	Participated in AWS cloud migration testing (EC2, S3, RDS), ensuring service availability and failover readiness.
-    •	Integrated QA automation into Jenkins CI/CD pipeline, reducing manual regression efforts by 32%.
 
     Skills:
     
@@ -1506,10 +1323,50 @@ Quinnipiac University | US
     Risk-Based Testing
     Exploratory & Regression Testing
 
+    Professional Experience:
+    
+    Senior QA Engineer at HackerEarth: 04/2024 - Current
+    •	Led QA transformation by building Python (Pytest, Behave) and Selenium-based automation frameworks integrated into CI/CD pipelines, achieving 80% regression coverage across microservices.
+    •	Validated RESTful APIs and event-driven services in FastAPI and Laravel, implementing API versioning, token-based authentication testing, and error resilience validation.
+    •	Built automated data validation suites using Python, PostgreSQL, and MongoDB for ensuring consistency across customer, billing, and analytics services.
+    •	Developed end-to-end test scenarios for real-time pipelines (Azure Event Hubs, WebSockets), ensuring accurate analytics and alert generation.
+    •	Tested WebRTC-based meeting platform for latency, media quality, and cross-browser reliability using automated WebDriver scripts.
+    •	Collaborated with data teams to validate predictive models integrated through TensorFlow APIs, ensuring deterministic behavior and reproducibility.
+    •	Automated workflow and billing test cases through Azure Logic Apps, reducing manual validation efforts by 45%.
+    •	Strengthened testing security via automated OAuth 2.0 and RBAC tests, supporting GDPR and PCI DSS audit readiness.
+    •	Integrated QA checks into Azure DevOps and GitLab pipelines, enabling automated smoke, regression, and post-deploy verification steps monitored via ELK dashboards.
+
+    Software Engineer IV at Roshen: 10/2022 - 02/2024
+    •	Developed automated API and end-to-end tests for core services (bookings, onboarding, payments) using Python (Pytest) and .NET test suites integrated into Jenkins pipelines.
+    •	Created test harnesses for React Native apps, automating UI and API flows to validate booking and notification scenarios across iOS and Android.
+    •	Built real-time system validation for pet tracking modules using SignalR, Redis, and Google Maps APIs, performing continuous integration testing for WebSocket stability.
+    •	Collaborated with ML engineers to validate recommendation model integration and conduct A/B test automation for booking accuracy metrics.
+    •	Implemented Jenkins and GitLab CI pipelines for automated regression suites, improving deployment verification speed by 34%.
+    •	Defined and executed performance and load testing using JMeter and Locust, optimizing throughput for peak booking traffic.
+    •	Introduced test governance with RBAC, encrypted test data storage, and i18n testing to support secure, multi-language global releases.
+
+    Software Engineer III at Roshen: 01/2021 - 10/2022
+    •	Designed large-scale automation frameworks in Node.js and TypeScript for payment APIs and tax submission services, achieving 95% test coverage for critical user journeys.
+    •	Automated UI and backend testing for React and Angular frontends, integrating Cypress, Playwright, and Jest suites for continuous validation.
+    •	Developed API contract and performance validation for AWS-hosted microservices using Postman collections and custom Python CLI tools.
+    •	Built data integrity testing pipelines across PostgreSQL and MongoDB, implementing validation scripts for multi-tenant data isolation.
+    •	Performed penetration and compliance testing with JWT, MFA, and OAuth 2.0 scenarios to meet PCI DSS, GDPR, and CCPA requirements.
+    •	Built event-driven test monitors with Redis and WebSockets to verify real-time notifications for Credit Karma users.
+    •	Automated full CI/CD QA gates with Jenkins and GitLab CI, reducing manual QA signoff cycles by 40%.
+    •	Collaborated with data science teams to automate ML model validation and inference API testing using TensorFlow and Python scripts.
+
+    Software QA Tester II at Softeq: 04/2017 - 08/2020
+    •	Designed test automation suites for Python (Flask) and Java (Spring Boot) services managing inventory and orders, achieving stable regression automation.
+    •	Validated RESTful APIs for high-volume inventory sync, order lifecycle, and customer profile services with automated Postman and Rest Assured suites.
+    •	Automated authentication test cases for OAuth 2.0 and MFA flows, improving login reliability and compliance validation.
+    •	Built Selenium-based mobile web test suites for React Native frontends, ensuring responsive and accessible UIs.
+    •	Developed API mocking and data simulation tools to emulate seasonal traffic for stress testing.
+    •	Participated in AWS cloud migration testing (EC2, S3, RDS), ensuring service availability and failover readiness.
+    •	Integrated QA automation into Jenkins CI/CD pipeline, reducing manual regression efforts by 32%.
+
     Education:
     Bachelor’s Degree of Computer Science | Sep 2010 – Apr 2014
-    The University of Manchester | UK
-
+    The University of Manchester | US
     
     `
   }, 
@@ -1531,6 +1388,64 @@ Quinnipiac University | US
     Strong background in LLMs, generative AI, computer vision, recommendation systems, and real-time ML pipelines, 
     with hands-on experience using frameworks like PyTorch, TensorFlow, LangChain, and vector databases. Proven at integrating AI models into scalable cloud-native systems on Azure and AWS, 
     with solid MLOps practices, security, and compliance. Experienced in turning complex ML capabilities into reliable, user-facing products that deliver measurable business impact.
+
+    Skills:
+
+    LLMs (GPT, Claude, LLaMA)
+    LangChain
+    Hugging Face Transformers
+    RAG
+    Vector Databases (Pinecone, Weaviate, FAISS)
+    PyTorch
+    TensorFlow
+    Scikit-learn
+    OpenCV
+    YOLO
+    NLP
+    CV
+    Recommendation Engines
+    MLflow
+    Kubeflow
+    Weights & Biases
+    DVC
+    Databricks
+    Spark
+    Kafka
+    Airflow
+    Docker
+    Kubernetes
+    Terraform
+    AWS SageMaker
+    Bedrock
+    Azure ML
+    GCP Vertex AI
+    Anthropic API
+    OpenAI API
+    Python (FastAPI, Flask, Django)
+    Node.js (Express, Nest)
+    C#
+    ASP.NET Core
+    React.js
+    React Native
+    TypeScript
+    PostgreSQL
+    MongoDB
+    Redis
+    Snowflake
+    BigQuery
+    Vector DBs
+    HIPAA
+    PCI DSS
+    GDPR
+    CCPA
+    Differential Privacy
+    Federated Learning Security
+    ELK Stack
+    Prometheus
+    Grafana
+    PyTest
+    Postman
+    Cypress
 
     Professional Experience:
 
@@ -1571,6 +1486,30 @@ Quinnipiac University | US
     •	Engineered real-time inventory sync APIs in FastAPI, boosting system responsiveness during seasonal peaks.
     •	Deployed microservices with AI-based predictive caching across Django + Node.js backends, improving page load speed by 22%.
 
+    Education:
+    •Bachelor's Degree, Computer Science (10/2013 – 03/2017)
+    Collegium Humanum – Warsaw Management University | Poland
+    `
+  },
+  {
+    name: 'Kuba Kowal',
+    resumeText: `
+
+    Senior Software Engineer
+
+    Kuba Kowal
+    kuba.kowal205@outlook.com
+    Senior Software Engineer
+    -
+    Poznan, Wielkopolskie, Poland
+
+    Summary:
+
+    Senior AI/ML Specialist with 8+ years of experience designing and deploying AI-powered applications in production environments. 
+    Strong background in LLMs, generative AI, computer vision, recommendation systems, and real-time ML pipelines, 
+    with hands-on experience using frameworks like PyTorch, TensorFlow, LangChain, and vector databases. Proven at integrating AI models into scalable cloud-native systems on Azure and AWS, 
+    with solid MLOps practices, security, and compliance. Experienced in turning complex ML capabilities into reliable, user-facing products that deliver measurable business impact.
+
     Skills:
 
     LLMs (GPT, Claude, LLaMA)
@@ -1628,30 +1567,6 @@ Quinnipiac University | US
     PyTest
     Postman
     Cypress
-
-    Education:
-    •Bachelor's Degree, Computer Science (10/2013 – 03/2017)
-    Collegium Humanum – Warsaw Management University | Poland
-    `
-  },
-  {
-    name: 'Kuba Kowal',
-    resumeText: `
-
-    Senior Software Engineer
-
-    Kuba Kowal
-    kuba.kowal205@outlook.com
-    Senior Software Engineer
-    -
-    Poznan, Wielkopolskie, Poland
-
-    Summary:
-
-    Senior AI/ML Specialist with 8+ years of experience designing and deploying AI-powered applications in production environments. 
-    Strong background in LLMs, generative AI, computer vision, recommendation systems, and real-time ML pipelines, 
-    with hands-on experience using frameworks like PyTorch, TensorFlow, LangChain, and vector databases. Proven at integrating AI models into scalable cloud-native systems on Azure and AWS, 
-    with solid MLOps practices, security, and compliance. Experienced in turning complex ML capabilities into reliable, user-facing products that deliver measurable business impact.
 
     Professional Experience:
 
@@ -1692,6 +1607,30 @@ Quinnipiac University | US
     •	Engineered real-time inventory sync APIs in FastAPI, boosting system responsiveness during seasonal peaks.
     •	Deployed microservices with AI-based predictive caching across Django + Node.js backends, improving page load speed by 22%.
 
+    Education:
+    •Bachelor's Degree, Computer Science (09/2013 – 04/2017)
+    Luhansk Taras Shevchenko National University
+    `
+  },
+  {
+    name: 'Sisu Korhonen',
+    resumeText: `
+
+    Senior Software Engineer
+
+    Sisu Korhonen
+    stackloop.dev3915@outlook.com
+    Senior Software Engineer
+    +358 42 932 2634
+    Vantaa, Uusimaa, Finland
+
+    Summary:
+
+    Senior AI/ML Specialist with 8+ years of experience designing and deploying AI-powered applications in production environments. 
+    Strong background in LLMs, generative AI, computer vision, recommendation systems, and real-time ML pipelines, 
+    with hands-on experience using frameworks like PyTorch, TensorFlow, LangChain, and vector databases. Proven at integrating AI models into scalable cloud-native systems on Azure and AWS, 
+    with solid MLOps practices, security, and compliance. Experienced in turning complex ML capabilities into reliable, user-facing products that deliver measurable business impact.
+
     Skills:
 
     LLMs (GPT, Claude, LLaMA)
@@ -1750,136 +1689,54 @@ Quinnipiac University | US
     Postman
     Cypress
 
+    Professional Experience:
+
+    Senior Software Engineer at Planmeca: 04/2025 - Current
+    •	Developed LLM-based services using Hugging Face Transformers to extract and summarize unstructured medical records, improving triage efficiency by over 45%.
+    •	Engineered FastAPI-based microservices to deliver real-time AI predictions directly into clinical dashboards, reducing response latency to under 100ms.
+    •	Developed RESTful and GraphQL APIs integrated with Azure App Services, ensuring secure and low-latency data access for web and mobile clients.
+    •	Automated end-to-end AI inference workflows using AWS Lambda, Step Functions, and EventBridge, increasing system scalability and fault tolerance.
+    •	Maintained high code quality through comprehensive unit and integration testing with PyTest, including mocked S3 and database services for CI pipelines.
+    •	Designed Terraform infrastructure-as-code scripts to provision API gateways, ECS containers, S3 buckets, and DynamoDB tables.
+    •	Integrated Elasticsearch for searchable logs, patient metadata, and real-time event tracing, improving monitoring and debugging processes.
+    •	Ensured HIPAA compliance by implementing secure authentication protocols using OAuth2 and JWT, along with fine-grained RBAC across all services.
+
+    Software Engineer at DataRobot: 01/2021 – 03/2022
+    •	Collaborated with backend and AI teams to support LLM-powered data visualization and secure secrets access flows
+    •	Developed high-impact UIs and dashboards enabling users to monitor AI/ML model performance, detect drift, and manage model retraining using React.js and Python-based microservices.
+    •	Contributed to the design of LLM-powered internal tools leveraging RAG and prompt tuning to assist analysts with model insights.
+    •	Implemented RESTful APIs for secure communication between web/mobile clients and Azure-hosted backend services, reducing API latency by 25%.
+    •	Deployed CI/CD pipelines with Azure DevOps + Kubernetes, enabling automated testing and seamless production deployments.
+    •	Created dynamic dashboards and responsive UI components, improving user interaction and app engagement by 22%.
+    •	Embedded JWT-based authentication and RBAC in APIs, ensuring secure access control for multi-tenant environments.
+    •	Optimized Azure-hosted microservices for event-driven processing and real-time notifications, reducing system lag and improving end-user responsiveness.
+
+    Software Engineer at Softeq : 02/2020 – 03/2021
+    •	Built fraud detection systems combining deep learning classifiers + ensemble ML, reducing fraudulent transactions by 29% across retail POS and e-commerce platforms.
+    •	Designed LLM-driven product catalog parsing (OCR + GPT models) for automated SKU classification, pricing updates, and inventory tagging.
+    •	Partnered with merchandising and finance teams to deploy demand forecasting and inventory optimization models in AWS SageMaker, improving stock management for millions of products.
+    •	Built real-time sales and promotion alert systems with Kafka + TensorFlow Serving for proactive inventory restocking and dynamic pricing strategies.
+    •	Migrated retail ML workloads to cloud-native Kubernetes clusters, improving scalability, high availability, and disaster recovery for peak shopping seasons.
+    •	Optimized databases (Postgres, MongoDB) with AI-assisted query planners to accelerate transaction, inventory, and customer behavior lookups.
+    •	Built personalized product recommendation systems using TensorFlow + embeddings, enhancing cross-selling and upselling across web and mobile platforms.
+    •	Implemented AI-driven anomaly detection for point-of-sale and e-commerce transactions to flag pricing errors, stock discrepancies, and fraudulent activity before impacting operations.
+
+    FullStack Engineer at EPAM Systems : 06/2018 – 01/2020
+    •	Collaborated on the development of real-time financial simulation tools, integrating market data engines with interactive client-side dashboards.
+    •	Optimized transaction state serialization and database performance to support live trading metrics and analytics dashboards
+    •	Developed Node.js (Express) services to handle order workflows, integrated with AI-enhanced recommendation APIs for personalized product suggestions.
+    •	Engineered real-time inventory sync APIs in FastAPI, boosting system responsiveness during seasonal peaks.
+    •	Deployed microservices with AI-based predictive caching across Django + Node.js backends, improving page load speed by 22%.
+
+    FullStack Engineer at EPAM Systems : 04/2016 – 06/2018
+    •	Developed modular and reusable UI components using Angular, reducing code duplication by 35% and ensuring consistent user interfaces across multiple AR projects.
+    •	Collaborated closely with UI/UX designers to translate complex augmented reality concepts into intuitive user experiences, improving customer satisfaction by 43%
+    •	Optimized frontend performance in AR applications, utilizing React’s virtual DOM and Angular’s change detection to increase load speed by 27%.
+    •	Built responsive AR interfaces for mobile platforms using React Native, enhancing user accessibility and achieving a 26.2% improvement in mobile app ratings.
+
     Education:
-    •Bachelor's Degree, Computer Science (09/2013 – 04/2017)
-    Luhansk Taras Shevchenko National University
-    `
-  },
-  {
-    name: 'Sisu Korhonen',
-    resumeText: `
-
-Senior Software Engineer
-
-Sisu Korhonen
-stackloop.dev3915@outlook.com
-Senior Software Engineer
-+358 42 932 2634
-Vantaa, Uusimaa, Finland
-
-Summary:
-
-Senior AI/ML Specialist with 8+ years of experience designing and deploying AI-powered applications in production environments. 
-Strong background in LLMs, generative AI, computer vision, recommendation systems, and real-time ML pipelines, 
-with hands-on experience using frameworks like PyTorch, TensorFlow, LangChain, and vector databases. Proven at integrating AI models into scalable cloud-native systems on Azure and AWS, 
-with solid MLOps practices, security, and compliance. Experienced in turning complex ML capabilities into reliable, user-facing products that deliver measurable business impact.
-
-Professional Experience:
-
-Senior Software Engineer at Planmeca: 04/2025 - Current
-•	Developed LLM-based services using Hugging Face Transformers to extract and summarize unstructured medical records, improving triage efficiency by over 45%.
-•	Engineered FastAPI-based microservices to deliver real-time AI predictions directly into clinical dashboards, reducing response latency to under 100ms.
-•	Developed RESTful and GraphQL APIs integrated with Azure App Services, ensuring secure and low-latency data access for web and mobile clients.
-•	Automated end-to-end AI inference workflows using AWS Lambda, Step Functions, and EventBridge, increasing system scalability and fault tolerance.
-•	Maintained high code quality through comprehensive unit and integration testing with PyTest, including mocked S3 and database services for CI pipelines.
-•	Designed Terraform infrastructure-as-code scripts to provision API gateways, ECS containers, S3 buckets, and DynamoDB tables.
-•	Integrated Elasticsearch for searchable logs, patient metadata, and real-time event tracing, improving monitoring and debugging processes.
-•	Ensured HIPAA compliance by implementing secure authentication protocols using OAuth2 and JWT, along with fine-grained RBAC across all services.
-
-Software Engineer at DataRobot: 01/2021 – 03/2022
-•	Collaborated with backend and AI teams to support LLM-powered data visualization and secure secrets access flows
-•	Developed high-impact UIs and dashboards enabling users to monitor AI/ML model performance, detect drift, and manage model retraining using React.js and Python-based microservices.
-•	Contributed to the design of LLM-powered internal tools leveraging RAG and prompt tuning to assist analysts with model insights.
-•	Implemented RESTful APIs for secure communication between web/mobile clients and Azure-hosted backend services, reducing API latency by 25%.
-•	Deployed CI/CD pipelines with Azure DevOps + Kubernetes, enabling automated testing and seamless production deployments.
-•	Created dynamic dashboards and responsive UI components, improving user interaction and app engagement by 22%.
-•	Embedded JWT-based authentication and RBAC in APIs, ensuring secure access control for multi-tenant environments.
-•	Optimized Azure-hosted microservices for event-driven processing and real-time notifications, reducing system lag and improving end-user responsiveness.
-
-Software Engineer at Softeq : 02/2020 – 03/2021
-•	Built fraud detection systems combining deep learning classifiers + ensemble ML, reducing fraudulent transactions by 29% across retail POS and e-commerce platforms.
-•	Designed LLM-driven product catalog parsing (OCR + GPT models) for automated SKU classification, pricing updates, and inventory tagging.
-•	Partnered with merchandising and finance teams to deploy demand forecasting and inventory optimization models in AWS SageMaker, improving stock management for millions of products.
-•	Built real-time sales and promotion alert systems with Kafka + TensorFlow Serving for proactive inventory restocking and dynamic pricing strategies.
-•	Migrated retail ML workloads to cloud-native Kubernetes clusters, improving scalability, high availability, and disaster recovery for peak shopping seasons.
-•	Optimized databases (Postgres, MongoDB) with AI-assisted query planners to accelerate transaction, inventory, and customer behavior lookups.
-•	Built personalized product recommendation systems using TensorFlow + embeddings, enhancing cross-selling and upselling across web and mobile platforms.
-•	Implemented AI-driven anomaly detection for point-of-sale and e-commerce transactions to flag pricing errors, stock discrepancies, and fraudulent activity before impacting operations.
-
-FullStack Engineer at EPAM Systems : 06/2018 – 01/2020
-•	Collaborated on the development of real-time financial simulation tools, integrating market data engines with interactive client-side dashboards.
-•	Optimized transaction state serialization and database performance to support live trading metrics and analytics dashboards
-•	Developed Node.js (Express) services to handle order workflows, integrated with AI-enhanced recommendation APIs for personalized product suggestions.
-•	Engineered real-time inventory sync APIs in FastAPI, boosting system responsiveness during seasonal peaks.
-•	Deployed microservices with AI-based predictive caching across Django + Node.js backends, improving page load speed by 22%.
-
-FullStack Engineer at EPAM Systems : 04/2016 – 06/2018
-•	Developed modular and reusable UI components using Angular, reducing code duplication by 35% and ensuring consistent user interfaces across multiple AR projects.
-•	Collaborated closely with UI/UX designers to translate complex augmented reality concepts into intuitive user experiences, improving customer satisfaction by 43%
-•	Optimized frontend performance in AR applications, utilizing React’s virtual DOM and Angular’s change detection to increase load speed by 27%.
-•	Built responsive AR interfaces for mobile platforms using React Native, enhancing user accessibility and achieving a 26.2% improvement in mobile app ratings.
-
-Skills:
-
-LLMs (GPT, Claude, LLaMA)
-LangChain
-Hugging Face Transformers
-RAG
-Vector Databases (Pinecone, Weaviate, FAISS)
-PyTorch
-TensorFlow
-Scikit-learn
-OpenCV
-YOLO
-NLP
-CV
-Recommendation Engines
-MLflow
-Kubeflow
-Weights & Biases
-DVC
-Databricks
-Spark
-Kafka
-Airflow
-Docker
-Kubernetes
-Terraform
-AWS SageMaker
-Bedrock
-Azure ML
-GCP Vertex AI
-Anthropic API
-OpenAI API
-Python (FastAPI, Flask, Django)
-Node.js (Express, Nest)
-C#
-ASP.NET Core
-React.js
-React Native
-TypeScript
-PostgreSQL
-MongoDB
-Redis
-Snowflake
-BigQuery
-Vector DBs
-HIPAA
-PCI DSS
-GDPR
-CCPA
-Differential Privacy
-Federated Learning Security
-ELK Stack
-Prometheus
-Grafana
-PyTest
-Postman
-Cypress
-
-Education:
-•Bachelor's Degree, Computer Science (10/2013 – 03/2017)
-Collegium Humanum – Warsaw Management University | Poland
+    •Bachelor's Degree, Computer Science (10/2013 – 03/2017)
+    Collegium Humanum – Warsaw Management University | Poland
     `
   },
   {
@@ -1898,6 +1755,63 @@ Collegium Humanum – Warsaw Management University | Poland
     Specialized in backend development with Node.js (Express, NestJS) and frontend development with React, Next.js, TypeScript, Angular, and Tailwind CSS. 
     Skilled in database optimization, API design, microservices, cloud deployments (AWS, Vercel, Azure, Docker), CI/CD automation, and AI/agent tool integrations. 
     Adept at driving end-to-end software solutions while mentoring teams and ensuring compliance with security and performance standards in Agile environments.
+
+    Skills:
+    
+    Node.js (Express, NestJS),
+    REST/GraphQL APIs,
+    Microservices,
+    gRPC,
+    Authentication/Authorization,
+    API Gateway,
+    Redis caching,
+    Puppeteer,
+    Playwright,
+    React.js,
+    Next.js,
+    TypeScript,
+    Angular,
+    Tailwind CSS,
+    JavaScript (ES6+),
+    HTML5,
+    CSS3,
+    Responsive UI,
+    UI/UX optimization,
+    PostgreSQL,
+    MySQL,
+    MongoDB,
+    MSSQL,
+    Oracle DB,
+    Redis,
+    vector DB,
+    schema design,
+    indexing,
+    query optimization,
+    stored procedures,
+    AWS (EC2, S3, RDS, Lambda, CloudFront, API Gateway),
+    Vercel,
+    Docker,
+    Jenkins,
+    Git/GitFlow,
+    CI/CD pipelines,
+    Nginx,
+    Jest,
+    Mocha/Chai,
+    Cypress,
+    Postman/Newman,
+    JUnit,
+    load/performance testing,
+    vulnerability scanning,
+    LangChain,
+    LlamaIndex,
+    RAG systems,
+    multimodal AI integrations,
+    Agile/Scrum,
+    UAT participation,
+    code reviews,
+    mentoring,
+    technical documentation,
+    ISO/SOC2 compliance
 
     Professional Experience:
     
@@ -1937,6 +1851,30 @@ Collegium Humanum – Warsaw Management University | Poland
     •	Participated in QA and UAT cycles by writing unit tests in Jest and assisting in debugging production issues.
     •	Deployed microservices to AWS EC2 instances and maintained distributed services with Apache Tomcat and Nginx.
 
+    Education:
+    Bachelor’s Degree of Computer Science | Sep 2013 – Mar 2017
+    Kyoto University | Japan
+
+    
+    `
+  }, 
+  {
+    name: 'Zhenyu Wang',
+    resumeText: `Senior Software Engineer
+
+    Zhenyu Wang
+    Senior Software Engineer
+    60123256383
+    zhenyu.wang950915@gmail.com
+    Ipoh, 31400 Perak, Malaysia
+    
+    Summary: 
+    
+    Senior Full Stack Engineer with 8+ years of experience delivering scalable, secure, and high-performance applications in fintech, SaaS, and telecom domains. 
+    Specialized in backend development with Node.js (Express, NestJS) and frontend development with React, Next.js, TypeScript, Angular, and Tailwind CSS. 
+    Skilled in database optimization, API design, microservices, cloud deployments (AWS, Vercel, Azure, Docker), CI/CD automation, and AI/agent tool integrations. 
+    Adept at driving end-to-end software solutions while mentoring teams and ensuring compliance with security and performance standards in Agile environments.
+
     Skills:
     
     Node.js (Express, NestJS),
@@ -1993,30 +1931,6 @@ Collegium Humanum – Warsaw Management University | Poland
     mentoring,
     technical documentation,
     ISO/SOC2 compliance
-
-    Education:
-    Bachelor’s Degree of Computer Science | Sep 2013 – Mar 2017
-    Kyoto University | Japan
-
-    
-    `
-  }, 
-  {
-    name: 'Zhenyu Wang',
-    resumeText: `Senior Software Engineer
-
-    Zhenyu Wang
-    Senior Software Engineer
-    60123256383
-    zhenyu.wang950915@gmail.com
-    Ipoh, 31400 Perak, Malaysia
-    
-    Summary: 
-    
-    Senior Full Stack Engineer with 8+ years of experience delivering scalable, secure, and high-performance applications in fintech, SaaS, and telecom domains. 
-    Specialized in backend development with Node.js (Express, NestJS) and frontend development with React, Next.js, TypeScript, Angular, and Tailwind CSS. 
-    Skilled in database optimization, API design, microservices, cloud deployments (AWS, Vercel, Azure, Docker), CI/CD automation, and AI/agent tool integrations. 
-    Adept at driving end-to-end software solutions while mentoring teams and ensuring compliance with security and performance standards in Agile environments.
 
     Professional Experience:
     
@@ -2056,6 +1970,30 @@ Collegium Humanum – Warsaw Management University | Poland
     •	Participated in QA and UAT cycles by writing unit tests in Jest and assisting in debugging production issues.
     •	Deployed microservices to AWS EC2 instances and maintained distributed services with Apache Tomcat and Nginx.
 
+    Education:
+    Bachelor’s Degree of Computer Science | Sep 2013 – Mar 2017
+    Kyoto University | Japan
+
+    
+    `
+  }, 
+  {
+    name: 'Chris Toledana',
+    resumeText: `Senior Software Engineer
+
+    Chris Toledana
+    Senior Software Engineer
+    639694726818
+    ctol95386@gmail.com
+    Bocaue, Bulacan, 3018, Philippines
+    
+    Summary: 
+    
+    Senior Full Stack Engineer with 8+ years of experience delivering scalable, secure, and high-performance applications in fintech, SaaS, and telecom domains. 
+    Specialized in backend development with Node.js (Express, NestJS) and frontend development with React, Next.js, TypeScript, Angular, and Tailwind CSS. 
+    Skilled in database optimization, API design, microservices, cloud deployments (AWS, Vercel, Azure, Docker), CI/CD automation, and AI/agent tool integrations. 
+    Adept at driving end-to-end software solutions while mentoring teams and ensuring compliance with security and performance standards in Agile environments.
+
     Skills:
     
     Node.js (Express, NestJS),
@@ -2112,30 +2050,6 @@ Collegium Humanum – Warsaw Management University | Poland
     mentoring,
     technical documentation,
     ISO/SOC2 compliance
-
-    Education:
-    Bachelor’s Degree of Computer Science | Sep 2013 – Mar 2017
-    Kyoto University | Japan
-
-    
-    `
-  }, 
-  {
-    name: 'Chris Toledana',
-    resumeText: `Senior Software Engineer
-
-    Chris Toledana
-    Senior Software Engineer
-    639694726818
-    ctol95386@gmail.com
-    Bocaue, Bulacan, 3018, Philippines
-    
-    Summary: 
-    
-    Senior Full Stack Engineer with 8+ years of experience delivering scalable, secure, and high-performance applications in fintech, SaaS, and telecom domains. 
-    Specialized in backend development with Node.js (Express, NestJS) and frontend development with React, Next.js, TypeScript, Angular, and Tailwind CSS. 
-    Skilled in database optimization, API design, microservices, cloud deployments (AWS, Vercel, Azure, Docker), CI/CD automation, and AI/agent tool integrations. 
-    Adept at driving end-to-end software solutions while mentoring teams and ensuring compliance with security and performance standards in Agile environments.
 
     Professional Experience:
     
@@ -2174,63 +2088,6 @@ Collegium Humanum – Warsaw Management University | Poland
     •	Implemented SQL query optimizations and caching strategies that reduced data retrieval times and improved platform scalability.
     •	Participated in QA and UAT cycles by writing unit tests in Jest and assisting in debugging production issues.
     •	Deployed microservices to AWS EC2 instances and maintained distributed services with Apache Tomcat and Nginx.
-
-    Skills:
-    
-    Node.js (Express, NestJS),
-    REST/GraphQL APIs,
-    Microservices,
-    gRPC,
-    Authentication/Authorization,
-    API Gateway,
-    Redis caching,
-    Puppeteer,
-    Playwright,
-    React.js,
-    Next.js,
-    TypeScript,
-    Angular,
-    Tailwind CSS,
-    JavaScript (ES6+),
-    HTML5,
-    CSS3,
-    Responsive UI,
-    UI/UX optimization,
-    PostgreSQL,
-    MySQL,
-    MongoDB,
-    MSSQL,
-    Oracle DB,
-    Redis,
-    vector DB,
-    schema design,
-    indexing,
-    query optimization,
-    stored procedures,
-    AWS (EC2, S3, RDS, Lambda, CloudFront, API Gateway),
-    Vercel,
-    Docker,
-    Jenkins,
-    Git/GitFlow,
-    CI/CD pipelines,
-    Nginx,
-    Jest,
-    Mocha/Chai,
-    Cypress,
-    Postman/Newman,
-    JUnit,
-    load/performance testing,
-    vulnerability scanning,
-    LangChain,
-    LlamaIndex,
-    RAG systems,
-    multimodal AI integrations,
-    Agile/Scrum,
-    UAT participation,
-    code reviews,
-    mentoring,
-    technical documentation,
-    ISO/SOC2 compliance
 
     Education:
     Bachelor’s Degree of Computer Science | Sep 2014 – Apr 2018

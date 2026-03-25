@@ -498,7 +498,7 @@ University of Florida | US
     `
 
   },
-  { name: 'Zackery Jackson (QA)',
+  { name: 'Zackery Jackson',
     resumeText: `Senior Software Engineer
 
 Zackery Jackson
@@ -1163,9 +1163,9 @@ Southern Polytechnic State University | USA`
 
     Filip Kowal
     Senior Software Engineer
-    https://www.linkedin.com/in/filip-kowal-6086363a3/
-    filip.kowal10@outlook.com
-    32-065 Czernichow, woj. malopolskie, Poland
+    https://www.linkedin.com/in/filip-kowal-a795373b6/
+    filip.kowal11@outlook.com
+    61-663 Poznań, Wielkopolskie, Poland
     
     Summary: 
     
@@ -1272,7 +1272,7 @@ Southern Polytechnic State University | USA`
     •	Strengthened testing security via automated OAuth 2.0 and RBAC tests, supporting GDPR and PCI DSS audit readiness.
     •	Integrated QA checks into Azure DevOps and GitLab pipelines, enabling automated smoke, regression, and post-deploy verification steps monitored via ELK dashboards.
 
-    Software Engineer IV at Roshen: 10/2022 - 02/2024
+    Software QA Engineer IV at Roshen: 10/2022 - 02/2024
     •	Developed automated API and end-to-end tests for core services (bookings, onboarding, payments) using Python (Pytest) and .NET test suites integrated into Jenkins pipelines.
     •	Created test harnesses for React Native apps, automating UI and API flows to validate booking and notification scenarios across iOS and Android.
     •	Built real-time system validation for pet tracking modules using SignalR, Redis, and Google Maps APIs, performing continuous integration testing for WebSocket stability.
@@ -1281,7 +1281,7 @@ Southern Polytechnic State University | USA`
     •	Defined and executed performance and load testing using JMeter and Locust, optimizing throughput for peak booking traffic.
     •	Introduced test governance with RBAC, encrypted test data storage, and i18n testing to support secure, multi-language global releases.
 
-    Software Engineer III at Roshen: 01/2021 - 10/2022
+    Software QA Engineer III at Roshen: 01/2021 - 10/2022
     •	Designed large-scale automation frameworks in Node.js and TypeScript for payment APIs and tax submission services, achieving 95% test coverage for critical user journeys.
     •	Automated UI and backend testing for React and Angular frontends, integrating Cypress, Playwright, and Jest suites for continuous validation.
     •	Developed API contract and performance validation for AWS-hosted microservices using Postman collections and custom Python CLI tools.

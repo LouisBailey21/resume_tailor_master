@@ -1165,7 +1165,7 @@ Southern Polytechnic State University | USA`
     Senior Software Engineer
     https://www.linkedin.com/in/filip-kowal-a795373b6/
     filip.kowal11@outlook.com
-    61-663 Poznań, Wielkopolskie, Poland
+    61-663 Poznan, Wielkopolskie, Poland
     
     Summary: 
     

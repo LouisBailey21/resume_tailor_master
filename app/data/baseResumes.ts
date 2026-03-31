@@ -83,7 +83,7 @@ Cypress
 
 Professional Experience:
 
-Senior Software Engineer at Kiggla: 01/2025 - Current
+Senior Software Engineer at Databricks: 01/2025 - Current
 •	Engineered full-stack applications with React.js + Node.js, integrated with Azure Functions and Cosmos DB, enabling scalable multi-tenant solutions and reducing response time by 30%.
 •	Built image recognition pipelines using Cloudsight API + TensorFlow, automating media tagging and content validation, improving processing efficiency by 35%.
 •	Developed RESTful and GraphQL APIs integrated with Azure App Services, ensuring secure and low-latency data access for web and mobile clients.
@@ -447,7 +447,7 @@ SQL Queries for Test Data
 
 Professional Experience:
 
-Senior Software Engineer at Hexagon: 05/2025 - Current
+Senior Software Engineer at Airbnb: 05/2025 - Current
 •	Integrate AI/ML services into production workflows, deploying FastAPI-based microservices to power personalization and real-time analytics, reducing service latency by 33%. 
 •	Design and maintain queue-based architectures using Celery and Redis, orchestrating asynchronous processing pipelines and reducing processing time by 30%. 
 •	Lead the architecture of a modular CMS platform using Django and PostgreSQL, scaling to over 500K monthly users and improving publishing cycles by 62%. 
@@ -1089,7 +1089,7 @@ Southern Polytechnic State University | USA`
 
     Professional Experience:
     
-    Senior Software Engineer at Kiggla: 12/2023 - Current
+    Senior Software Engineer at Mercor: 12/2023 - Current
       •	Architected and deployed scalable, HIPAA-compliant microservices for healthcare platforms using C# (.NET 6/7), Docker, Kubernetes, gRPC, and REST APIs, integrating with EHR systems (HL7/FHIR), claims engines, and patient-facing portals, while mentoring engineers on fault-tolerant, production-grade patterns.
       •	Integrated AI/ML models into .NET microservices using ML.NET, ONNX Runtime, Azure Cognitive Services, scikit-learn, and Python pipelines, enabling clinical decision support, risk scoring, and sentiment analysis—driving a 40% increase in actionable insights.
       •	Designed cloud-native, PHI-ready infrastructure on Azure (AKS, Cosmos DB) and AWS (ECS, RDS, S3, PostgreSQL) with Terraform and Helm, delivering multi-region, auto-healing deployments with 99.99% uptime, encryption, audit logging, and full-stack observability (OpenTelemetry, Prometheus, Grafana).
